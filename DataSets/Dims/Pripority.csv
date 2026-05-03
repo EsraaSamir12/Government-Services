@@ -1,0 +1,4 @@
+﻿PriporityID,priority,max_resolution_days
+1,Critical,1
+2,High,3
+3,Medium,5

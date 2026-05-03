@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.Government_Services"
+  DTS:DTSID="{35CB66A1-AADC-42A0-A27F-DD3A127BDA92}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=Government_Services;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-ElectricityIssues-{35CB66A1-AADC-42A0-A27F-DD3A127BDA92}localhost.Government_Services;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

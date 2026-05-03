@@ -1,0 +1,10 @@
+﻿IssueId,issue_type,subcategory
+1,garbage,Collection Delay
+2,garbage,Garbage Overflow
+3,water,Leakage
+4,water,Low Pressure
+5,water,No Water
+6,roads,Pothole
+7,electricity,Power Outage
+8,roads,Road Damage
+9,electricity,Voltage Issue

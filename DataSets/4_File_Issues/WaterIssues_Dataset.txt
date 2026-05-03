@@ -1,0 +1,497 @@
+complaint_id	text_description	issue_type	department	priority	status	created_time	subcategory	Created_date	closed_date	satisfaction_score	city	district	submission_channel
+1	No water supply in Jayanagar since 3 days	water	BWSSB	High	Closed	0.34392361111111114	Low Pressure	1/31/2024	2/6/2024	3.0	Giza	Haram	Call Center
+2	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	In Progress	0.7506597222222222	No Water	11/18/2024			Cairo	Maadi	Website
+3	Water contamination issue at MG Road	water	BWSSB	High	Pending	0.0078125	No Water	6/5/2024			Giza	Dokki	Website
+4	Broken water pipe flooding street at Whitefield	water	BWSSB	High	Pending	0.4413078703703704	No Water	10/9/2023			Giza	Haram	Mobile App
+5	Water contamination issue at Malleshwaram	water	BWSSB	High	In Progress	0.6743865740740741	No Water	7/4/2023			Cairo	Heliopolis	Call Center
+6	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	In Progress	0.4604050925925926	No Water	1/21/2025			Giza	Haram	Mobile App
+7	Water contamination issue at Yelahanka	water	BWSSB	High	Closed	0.14792824074074074	No Water	3/8/2025	3/11/2025	4.0	Giza	Dokki	Call Center
+8	Water leakage reported at BTM Layout	water	BWSSB	High	Closed	0.5408101851851852	No Water	2/12/2023	2/16/2023	4.0	Giza	Dokki	Call Center
+9	Water leakage reported at Jayanagar	water	BWSSB	High	In Progress	0.4583101851851852	Low Pressure	8/6/2023			Cairo	Maadi	Mobile App
+10	Water contamination issue at BTM Layout	water	BWSSB	High	In Progress	0.3183564814814815	No Water	2/10/2025			Giza	Mohandessin	Call Center
+11	No water supply in Jayanagar since 5 days	water	BWSSB	High	Closed	0.6353009259259259	Leakage	8/13/2024	8/19/2024	3.0	Cairo	Heliopolis	Website
+12	Water contamination issue at BTM Layout	water	BWSSB	High	Closed	0.6973842592592593	Leakage	10/8/2025	10/9/2025	5.0	Giza	Haram	Mobile App
+13	No water supply in Whitefield since 7 days	water	BWSSB	Critical	Closed	0.37309027777777776	Low Pressure	2/28/2024	3/3/2024	4.0	Cairo	Nasr City	Call Center
+14	Water leakage reported at BTM Layout	water	BWSSB	High	Closed	0.5653356481481482	No Water	5/8/2023	5/10/2023	5.0	Giza	Dokki	Call Center
+15	Broken water pipe flooding street at MG Road	water	BWSSB	High	Closed	0.465150462962963	Leakage	2/23/2025	2/27/2025	4.0	Giza	Mohandessin	Mobile App
+16	No water supply in BTM Layout since 5 days	water	BWSSB	High	Closed	0.40554398148148146	Leakage	4/27/2024	5/5/2024	2.0	Cairo	Maadi	Website
+17	Broken water pipe flooding street at BTM Layout	water	BWSSB	Critical	Closed	0.04784722222222222	No Water	1/1/2024	1/3/2024	5.0	Giza	Haram	Website
+18	Water leakage reported at Koramangala	water	BWSSB	High	In Progress	0.6559375	No Water	4/11/2024			Cairo	Nasr City	Mobile App
+19	No water supply in Koramangala since 2 days	water	BWSSB	High	In Progress	0.944675925925926	No Water	9/28/2023			Giza	Mohandessin	Mobile App
+20	No water supply in Malleshwaram since 5 days	water	BWSSB	Critical	Pending	0.9640393518518519	Leakage	8/18/2024			Giza	Mohandessin	Mobile App
+21	No water supply in BTM Layout since 6 days	water	BWSSB	Critical	Closed	0.8711574074074074	No Water	3/19/2023	3/24/2023	3.0	Giza	Dokki	Website
+22	No water supply in BTM Layout since 5 days	water	BWSSB	Critical	Pending	0.3570601851851852	Low Pressure	7/5/2024			Cairo	Maadi	Call Center
+23	Water contamination issue at Indiranagar	water	BWSSB	Critical	Pending	0.4532523148148148	Low Pressure	10/14/2024			Cairo	Nasr City	Mobile App
+24	Water contamination issue at Jayanagar	water	BWSSB	High	Pending	0.07428240740740741	Low Pressure	8/20/2023			Giza	Mohandessin	Call Center
+25	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Closed	0.2066087962962963	No Water	7/23/2023	7/29/2023	3.0	Giza	Haram	Call Center
+26	No water supply in BTM Layout since 2 days	water	BWSSB	Critical	Pending	0.5109027777777778	Low Pressure	9/17/2024			Giza	Haram	Mobile App
+27	No water supply in BTM Layout since 10 days	water	BWSSB	High	Pending	0.9713425925925926	No Water	12/9/2024			Cairo	Maadi	Call Center
+28	Broken water pipe flooding street at MG Road	water	BWSSB	Critical	Pending	0.4536921296296296	No Water	10/11/2023			Giza	Haram	Mobile App
+29	No water supply in Malleshwaram since 2 days	water	BWSSB	High	Closed	0.9078703703703703	Leakage	11/1/2023	11/10/2023	1.0	Cairo	Heliopolis	Mobile App
+30	Water contamination issue at Yelahanka	water	BWSSB	High	Closed	0.4890277777777778	Leakage	7/26/2023	8/2/2023	2.0	Cairo	Heliopolis	Website
+31	No water supply in Jayanagar since 8 days	water	BWSSB	High	Closed	0.8916782407407408	Low Pressure	3/22/2025	3/24/2025	5.0	Giza	Dokki	Website
+32	No water supply in Indiranagar since 9 days	water	BWSSB	Critical	Pending	0.5103356481481481	No Water	7/24/2024			Cairo	Heliopolis	Mobile App
+33	Broken water pipe flooding street at Yelahanka	water	BWSSB	High	Closed	0.010532407407407407	No Water	7/4/2023	7/12/2023	2.0	Cairo	Maadi	Mobile App
+34	Water leakage reported at Yelahanka	water	BWSSB	High	Closed	0.4454050925925926	Low Pressure	2/5/2025	2/12/2025	2.0	Cairo	Maadi	Website
+35	Water contamination issue at Jayanagar	water	BWSSB	Critical	Closed	0.477650462962963	No Water	11/24/2025	11/27/2025	4.0	Cairo	Heliopolis	Mobile App
+36	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	Pending	0.732175925925926	No Water	5/21/2024			Giza	Haram	Call Center
+37	Water contamination issue at BTM Layout	water	BWSSB	Critical	Pending	0.24342592592592593	Low Pressure	5/7/2024			Cairo	Nasr City	Mobile App
+38	Water contamination issue at Yelahanka	water	BWSSB	Critical	Pending	0.42193287037037036	Leakage	9/29/2024			Giza	Mohandessin	Call Center
+39	Water leakage reported at MG Road	water	BWSSB	Critical	Closed	0.2637615740740741	Low Pressure	5/18/2024	5/24/2024	3.0	Cairo	Heliopolis	Call Center
+40	Broken water pipe flooding street at BTM Layout	water	BWSSB	High	Closed	0.1691550925925926	Low Pressure	6/25/2024	7/4/2024	1.0	Giza	Mohandessin	Mobile App
+41	No water supply in Yelahanka since 2 days	water	BWSSB	Critical	Closed	0.8182175925925926	Leakage	12/17/2023	12/20/2023	4.0	Giza	Dokki	Call Center
+42	No water supply in Yelahanka since 1 days	water	BWSSB	High	Pending	0.6045486111111111	No Water	1/7/2024			Giza	Haram	Call Center
+43	Water leakage reported at Yelahanka	water	BWSSB	High	Pending	0.8592361111111111	Leakage	4/2/2025			Giza	Haram	Call Center
+44	Water contamination issue at MG Road	water	BWSSB	Critical	Closed	0.9713657407407408	No Water	7/22/2024	7/28/2024	3.0	Giza	Mohandessin	Call Center
+45	Water leakage reported at Yelahanka	water	BWSSB	High	Pending	0.3369097222222222	No Water	3/11/2023			Cairo	Heliopolis	Website
+46	Water leakage reported at BTM Layout	water	BWSSB	Critical	Closed	0.7060648148148149	Leakage	1/10/2023	1/11/2023	5.0	Giza	Haram	Mobile App
+47	Water contamination issue at Koramangala	water	BWSSB	High	In Progress	0.02943287037037037	Leakage	10/22/2025			Cairo	Nasr City	Call Center
+48	Broken water pipe flooding street at BTM Layout	water	BWSSB	Critical	Pending	0.2117476851851852	Leakage	12/16/2024			Cairo	Nasr City	Call Center
+49	No water supply in Whitefield since 1 days	water	BWSSB	Critical	Pending	0.5287268518518519	Low Pressure	7/15/2024			Cairo	Heliopolis	Website
+50	Water contamination issue at Indiranagar	water	BWSSB	High	Closed	0.8525810185185185	No Water	7/24/2023	7/25/2023	5.0	Cairo	Nasr City	Call Center
+51	Water leakage reported at MG Road	water	BWSSB	High	Closed	0.06015046296296296	No Water	1/2/2024	1/4/2024	5.0	Giza	Haram	Call Center
+52	Water contamination issue at Malleshwaram	water	BWSSB	High	In Progress	0.674675925925926	Leakage	9/27/2023			Cairo	Maadi	Website
+53	Water contamination issue at Malleshwaram	water	BWSSB	Critical	In Progress	0.4980671296296296	Low Pressure	5/17/2024			Giza	Dokki	Website
+54	No water supply in BTM Layout since 6 days	water	BWSSB	Critical	In Progress	0.4180671296296296	Leakage	11/12/2024			Cairo	Nasr City	Website
+55	Broken water pipe flooding street at Indiranagar	water	BWSSB	High	Closed	0.7051851851851851	No Water	10/9/2023	10/15/2023	3.0	Cairo	Maadi	Website
+56	Water leakage reported at Malleshwaram	water	BWSSB	Critical	Closed	0.6934953703703703	Low Pressure	7/28/2023	8/6/2023	1.0	Cairo	Maadi	Website
+57	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Pending	0.2747453703703704	No Water	11/9/2023			Giza	Haram	Call Center
+58	Water leakage reported at MG Road	water	BWSSB	High	In Progress	0.26188657407407406	Low Pressure	4/11/2025			Giza	Haram	Mobile App
+59	Water leakage reported at BTM Layout	water	BWSSB	High	Closed	0.5729861111111111	No Water	3/14/2024	3/21/2024	2.0	Giza	Mohandessin	Mobile App
+60	Water contamination issue at BTM Layout	water	BWSSB	High	Pending	0.14594907407407406	Leakage	12/10/2024			Giza	Mohandessin	Mobile App
+61	Water contamination issue at Malleshwaram	water	BWSSB	Critical	In Progress	0.7633449074074075	Low Pressure	5/27/2024			Cairo	Heliopolis	Website
+62	Water leakage reported at Whitefield	water	BWSSB	Critical	In Progress	0.22974537037037038	No Water	11/13/2023			Giza	Mohandessin	Mobile App
+63	No water supply in MG Road since 7 days	water	BWSSB	Critical	Closed	0.41585648148148147	Leakage	12/2/2023	12/4/2023	5.0	Cairo	Maadi	Mobile App
+64	Broken water pipe flooding street at BTM Layout	water	BWSSB	Critical	Closed	0.23936342592592594	No Water	11/19/2024	11/25/2024	3.0	Cairo	Maadi	Website
+65	Water leakage reported at Whitefield	water	BWSSB	High	Closed	0.3243287037037037	No Water	11/29/2023	11/30/2023	5.0	Giza	Mohandessin	Call Center
+66	Broken water pipe flooding street at Yelahanka	water	BWSSB	High	Closed	0.5043402777777778	Leakage	11/18/2025	11/24/2025	3.0	Cairo	Maadi	Call Center
+67	Broken water pipe flooding street at Whitefield	water	BWSSB	High	Closed	0.6710532407407407	No Water	7/23/2025	7/27/2025	4.0	Cairo	Nasr City	Mobile App
+68	Broken water pipe flooding street at BTM Layout	water	BWSSB	Critical	Pending	0.3955092592592593	Leakage	3/8/2023			Cairo	Nasr City	Call Center
+69	Water leakage reported at Jayanagar	water	BWSSB	High	Closed	0.7200462962962964	Low Pressure	3/10/2025	3/18/2025	2.0	Giza	Haram	Mobile App
+70	No water supply in Yelahanka since 9 days	water	BWSSB	Critical	Closed	0.8187615740740741	Low Pressure	1/13/2024	1/20/2024	2.0	Giza	Dokki	Mobile App
+71	Water contamination issue at Jayanagar	water	BWSSB	High	Closed	0.15342592592592594	Low Pressure	9/28/2024	10/7/2024	1.0	Cairo	Maadi	Mobile App
+72	Water contamination issue at Jayanagar	water	BWSSB	High	Closed	0.727175925925926	No Water	10/16/2024	10/24/2024	2.0	Giza	Mohandessin	Call Center
+73	No water supply in Koramangala since 6 days	water	BWSSB	High	Closed	0.4834027777777778	Leakage	10/16/2023	10/21/2023	3.0	Giza	Haram	Call Center
+74	No water supply in Yelahanka since 4 days	water	BWSSB	Critical	Closed	0.704224537037037	No Water	6/23/2025	6/30/2025	2.0	Giza	Haram	Mobile App
+75	Water contamination issue at Jayanagar	water	BWSSB	Critical	Closed	0.12837962962962962	No Water	6/23/2025	6/28/2025	3.0	Cairo	Heliopolis	Website
+76	No water supply in MG Road since 10 days	water	BWSSB	Critical	Closed	0.2856944444444444	Leakage	7/15/2025	7/24/2025	1.0	Giza	Haram	Mobile App
+77	Water contamination issue at Whitefield	water	BWSSB	Critical	Pending	0.8502777777777778	No Water	4/28/2023			Cairo	Maadi	Website
+78	No water supply in Koramangala since 2 days	water	BWSSB	Critical	Closed	0.916886574074074	Low Pressure	3/7/2023	3/9/2023	5.0	Cairo	Maadi	Website
+79	No water supply in Jayanagar since 3 days	water	BWSSB	Critical	Closed	0.11679398148148148	No Water	2/20/2025	2/27/2025	2.0	Giza	Mohandessin	Mobile App
+80	Water leakage reported at Koramangala	water	BWSSB	High	Closed	0.5608101851851852	Low Pressure	9/10/2023	9/11/2023	5.0	Cairo	Nasr City	Call Center
+81	No water supply in Yelahanka since 2 days	water	BWSSB	Critical	Pending	0.8477199074074074	No Water	3/14/2024			Giza	Mohandessin	Mobile App
+82	Water contamination issue at Jayanagar	water	BWSSB	High	Pending	0.6839699074074074	No Water	6/17/2025			Giza	Dokki	Call Center
+83	Water contamination issue at Whitefield	water	BWSSB	Critical	In Progress	0.446412037037037	No Water	9/14/2023			Cairo	Nasr City	Call Center
+84	Water contamination issue at Whitefield	water	BWSSB	High	Pending	0.39263888888888887	No Water	11/26/2024			Giza	Mohandessin	Call Center
+85	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	Closed	0.9113773148148148	No Water	4/25/2023	5/2/2023	2.0	Cairo	Nasr City	Website
+86	Water contamination issue at Koramangala	water	BWSSB	Critical	Pending	0.7570717592592593	No Water	12/17/2024			Cairo	Heliopolis	Call Center
+87	Water leakage reported at Jayanagar	water	BWSSB	High	Pending	0.6369444444444444	No Water	8/1/2025			Cairo	Maadi	Website
+88	Broken water pipe flooding street at Indiranagar	water	BWSSB	Critical	Closed	0.5891898148148148	Leakage	8/3/2023	8/4/2023	5.0	Cairo	Nasr City	Call Center
+89	Broken water pipe flooding street at Yelahanka	water	BWSSB	High	Pending	0.32850694444444445	Leakage	1/11/2024			Cairo	Nasr City	Mobile App
+90	Water leakage reported at Malleshwaram	water	BWSSB	Critical	Closed	0.3716203703703704	Low Pressure	8/21/2023	8/27/2023	3.0	Cairo	Nasr City	Website
+91	No water supply in MG Road since 6 days	water	BWSSB	High	In Progress	0.10975694444444445	No Water	8/21/2025			Cairo	Nasr City	Mobile App
+92	Water leakage reported at Whitefield	water	BWSSB	Critical	In Progress	0.1757175925925926	Leakage	3/17/2024			Cairo	Maadi	Website
+93	No water supply in Koramangala since 7 days	water	BWSSB	Critical	In Progress	0.3507638888888889	Low Pressure	1/24/2024			Cairo	Maadi	Mobile App
+94	Water leakage reported at Jayanagar	water	BWSSB	Critical	Closed	0.8434953703703704	Leakage	4/4/2024	4/13/2024	1.0	Cairo	Heliopolis	Website
+95	Broken water pipe flooding street at Indiranagar	water	BWSSB	High	Closed	0.5105092592592593	No Water	10/12/2023	10/15/2023	4.0	Cairo	Maadi	Website
+96	Water contamination issue at Indiranagar	water	BWSSB	Critical	Pending	0.7936458333333334	No Water	1/8/2023			Giza	Haram	Website
+97	No water supply in Whitefield since 3 days	water	BWSSB	High	Closed	0.9086111111111111	Low Pressure	1/1/2025	1/7/2025	3.0	Cairo	Heliopolis	Mobile App
+98	Water leakage reported at Jayanagar	water	BWSSB	High	Pending	0.10008101851851851	Leakage	7/30/2023			Giza	Dokki	Call Center
+99	Broken water pipe flooding street at Yelahanka	water	BWSSB	Critical	Closed	0.47488425925925926	Leakage	9/14/2024	9/15/2024	5.0	Cairo	Maadi	Website
+100	Water contamination issue at MG Road	water	BWSSB	High	Closed	0.6842824074074074	No Water	6/24/2023	6/29/2023	3.0	Cairo	Nasr City	Call Center
+101	Broken water pipe flooding street at MG Road	water	BWSSB	High	Closed	0.5516203703703704	Low Pressure	9/24/2025	9/26/2025	5.0	Cairo	Heliopolis	Call Center
+102	Water contamination issue at Indiranagar	water	BWSSB	Critical	Pending	0.7132523148148148	No Water	10/14/2025			Giza	Haram	Call Center
+103	Broken water pipe flooding street at Yelahanka	water	BWSSB	Critical	Closed	0.3147916666666667	Leakage	11/28/2023	12/1/2023	4.0	Cairo	Nasr City	Call Center
+104	Broken water pipe flooding street at Yelahanka	water	BWSSB	Critical	Closed	0.7287847222222222	No Water	5/22/2025	5/27/2025	3.0	Cairo	Heliopolis	Mobile App
+105	No water supply in Indiranagar since 5 days	water	BWSSB	Critical	Closed	0.3623958333333333	Low Pressure	2/22/2024	2/23/2024	5.0	Giza	Dokki	Call Center
+106	Water leakage reported at Koramangala	water	BWSSB	Critical	Closed	0.5146180555555555	No Water	7/16/2024	7/23/2024	2.0	Cairo	Heliopolis	Call Center
+107	Water leakage reported at Jayanagar	water	BWSSB	High	Pending	0.03594907407407407	Leakage	5/21/2025			Giza	Dokki	Mobile App
+108	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	Closed	0.3959837962962963	Low Pressure	12/27/2025	12/31/2025	4.0	Cairo	Heliopolis	Website
+109	Water leakage reported at Jayanagar	water	BWSSB	Critical	Closed	0.23028935185185184	No Water	1/15/2023	1/22/2023	2.0	Cairo	Maadi	Mobile App
+110	No water supply in BTM Layout since 7 days	water	BWSSB	Critical	Closed	0.16577546296296297	Leakage	6/1/2024	6/4/2024	4.0	Giza	Mohandessin	Mobile App
+111	Broken water pipe flooding street at MG Road	water	BWSSB	Critical	Closed	0.7329629629629629	Leakage	5/18/2023	5/25/2023	2.0	Giza	Mohandessin	Website
+112	Water contamination issue at Koramangala	water	BWSSB	High	Pending	0.7413194444444444	No Water	6/9/2023			Giza	Mohandessin	Mobile App
+113	Water contamination issue at BTM Layout	water	BWSSB	High	Closed	0.03798611111111111	Low Pressure	6/12/2025	6/16/2025	4.0	Cairo	Heliopolis	Mobile App
+114	Water leakage reported at Koramangala	water	BWSSB	High	Pending	0.9243171296296296	Leakage	9/12/2024			Giza	Dokki	Call Center
+115	Water leakage reported at BTM Layout	water	BWSSB	High	Pending	0.12224537037037037	Low Pressure	3/2/2024			Giza	Dokki	Call Center
+116	Water leakage reported at BTM Layout	water	BWSSB	Critical	In Progress	0.25006944444444446	No Water	2/28/2023			Cairo	Heliopolis	Call Center
+117	Water contamination issue at Yelahanka	water	BWSSB	Critical	Closed	0.6375462962962963	Low Pressure	3/15/2024	3/20/2024	3.0	Cairo	Heliopolis	Mobile App
+118	Water leakage reported at Koramangala	water	BWSSB	Critical	In Progress	0.7243981481481482	No Water	12/30/2023			Cairo	Heliopolis	Mobile App
+119	Broken water pipe flooding street at MG Road	water	BWSSB	High	Closed	0.7956018518518518	Leakage	8/2/2024	8/5/2024	4.0	Giza	Mohandessin	Mobile App
+120	Broken water pipe flooding street at Whitefield	water	BWSSB	High	Closed	0.5471064814814814	Low Pressure	2/10/2023	2/11/2023	5.0	Cairo	Nasr City	Website
+121	Broken water pipe flooding street at Whitefield	water	BWSSB	Critical	In Progress	0.2726388888888889	Low Pressure	9/18/2025			Giza	Haram	Mobile App
+122	Broken water pipe flooding street at Whitefield	water	BWSSB	High	Closed	0.8975347222222222	Low Pressure	12/10/2025	12/18/2025	2.0	Cairo	Maadi	Website
+123	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	Closed	0.4434722222222222	No Water	9/17/2025	9/19/2025	5.0	Cairo	Nasr City	Call Center
+124	Broken water pipe flooding street at Whitefield	water	BWSSB	High	Closed	0.5040740740740741	No Water	1/10/2025	1/17/2025	2.0	Giza	Dokki	Mobile App
+125	No water supply in Malleshwaram since 6 days	water	BWSSB	High	In Progress	0.9894907407407407	Low Pressure	1/3/2024			Cairo	Maadi	Mobile App
+126	Water contamination issue at Malleshwaram	water	BWSSB	High	Closed	0.6782523148148148	No Water	1/16/2025	1/24/2025	2.0	Cairo	Heliopolis	Call Center
+127	Broken water pipe flooding street at Jayanagar	water	BWSSB	Critical	In Progress	0.05209490740740741	Low Pressure	8/22/2024			Cairo	Nasr City	Mobile App
+128	Water leakage reported at Indiranagar	water	BWSSB	High	Closed	0.6495717592592593	Low Pressure	5/5/2024	5/9/2024	4.0	Giza	Mohandessin	Mobile App
+129	Broken water pipe flooding street at BTM Layout	water	BWSSB	High	Pending	0.6326851851851852	Leakage	5/4/2024			Cairo	Nasr City	Website
+130	No water supply in Jayanagar since 7 days	water	BWSSB	Critical	Closed	0.974837962962963	No Water	7/30/2024	8/1/2024	5.0	Cairo	Maadi	Call Center
+131	Broken water pipe flooding street at Indiranagar	water	BWSSB	High	Closed	0.13108796296296296	No Water	1/20/2025	1/25/2025	3.0	Giza	Dokki	Website
+132	Water leakage reported at BTM Layout	water	BWSSB	High	Closed	0.11619212962962963	Low Pressure	7/26/2025	7/31/2025	3.0	Giza	Dokki	Call Center
+133	Broken water pipe flooding street at MG Road	water	BWSSB	Critical	Closed	0.779050925925926	Leakage	3/16/2025	3/19/2025	4.0	Cairo	Maadi	Call Center
+134	Water leakage reported at MG Road	water	BWSSB	High	In Progress	0.6156365740740741	No Water	2/16/2025			Giza	Dokki	Website
+135	Water contamination issue at MG Road	water	BWSSB	Critical	Closed	0.5237615740740741	Low Pressure	7/21/2024	7/30/2024	1.0	Cairo	Heliopolis	Mobile App
+136	Water contamination issue at Indiranagar	water	BWSSB	High	Closed	0.34628472222222223	Low Pressure	3/14/2025	3/20/2025	3.0	Giza	Dokki	Call Center
+137	Broken water pipe flooding street at Yelahanka	water	BWSSB	Critical	Pending	0.8494907407407407	Leakage	6/25/2023			Giza	Dokki	Call Center
+138	Water contamination issue at Malleshwaram	water	BWSSB	High	In Progress	0.6257175925925926	No Water	11/4/2023			Cairo	Nasr City	Call Center
+139	No water supply in MG Road since 1 days	water	BWSSB	Critical	Pending	0.8259027777777778	No Water	3/23/2024			Cairo	Heliopolis	Website
+140	Water contamination issue at Jayanagar	water	BWSSB	High	Pending	0.7122569444444444	No Water	9/8/2023			Cairo	Heliopolis	Call Center
+141	Water contamination issue at Jayanagar	water	BWSSB	High	Closed	0.7899768518518518	Leakage	9/22/2025	9/30/2025	2.0	Cairo	Maadi	Mobile App
+142	Water contamination issue at BTM Layout	water	BWSSB	High	In Progress	0.5664699074074074	No Water	6/5/2023			Cairo	Maadi	Website
+143	Water leakage reported at Jayanagar	water	BWSSB	High	Closed	0.8571527777777778	Low Pressure	4/19/2024	4/23/2024	4.0	Cairo	Nasr City	Mobile App
+144	No water supply in Koramangala since 8 days	water	BWSSB	Critical	Pending	0.48530092592592594	Leakage	2/18/2025			Cairo	Maadi	Mobile App
+145	No water supply in Koramangala since 10 days	water	BWSSB	High	In Progress	0.3773148148148148	Low Pressure	9/9/2025			Cairo	Heliopolis	Website
+146	Water contamination issue at BTM Layout	water	BWSSB	High	In Progress	0.8131712962962963	Leakage	1/1/2025			Giza	Mohandessin	Mobile App
+147	Water leakage reported at Koramangala	water	BWSSB	High	Closed	0.778900462962963	Low Pressure	7/12/2025	7/15/2025	4.0	Giza	Mohandessin	Call Center
+148	Water contamination issue at Whitefield	water	BWSSB	High	Closed	0.28284722222222225	Leakage	9/16/2024	9/22/2024	3.0	Giza	Dokki	Call Center
+149	No water supply in Yelahanka since 10 days	water	BWSSB	High	Closed	0.47129629629629627	Leakage	6/7/2023	6/12/2023	3.0	Cairo	Nasr City	Call Center
+150	No water supply in BTM Layout since 10 days	water	BWSSB	Critical	Closed	0.18909722222222222	Low Pressure	12/4/2025	12/6/2025	5.0	Giza	Mohandessin	Call Center
+151	Water leakage reported at Yelahanka	water	BWSSB	High	Pending	0.5433449074074074	Leakage	3/2/2024			Cairo	Maadi	Call Center
+152	No water supply in Indiranagar since 3 days	water	BWSSB	High	Closed	0.41586805555555556	Leakage	12/31/2024	1/8/2025	2.0	Cairo	Maadi	Website
+153	Water contamination issue at Jayanagar	water	BWSSB	High	Pending	0.7988078703703704	Leakage	8/21/2023			Cairo	Maadi	Mobile App
+154	Water leakage reported at Koramangala	water	BWSSB	High	Pending	0.6279050925925926	Low Pressure	3/22/2024			Giza	Dokki	Website
+155	Water contamination issue at Indiranagar	water	BWSSB	Critical	Closed	0.5850115740740741	No Water	10/18/2024	10/19/2024	5.0	Giza	Dokki	Website
+156	Broken water pipe flooding street at MG Road	water	BWSSB	High	In Progress	0.4465277777777778	Leakage	11/25/2025			Cairo	Maadi	Call Center
+157	Water leakage reported at Malleshwaram	water	BWSSB	High	Closed	0.8714467592592593	Low Pressure	10/29/2023	11/1/2023	4.0	Giza	Haram	Call Center
+158	Water contamination issue at MG Road	water	BWSSB	Critical	Closed	0.9559143518518518	Low Pressure	12/2/2024	12/4/2024	5.0	Cairo	Nasr City	Mobile App
+159	No water supply in Jayanagar since 5 days	water	BWSSB	Critical	Closed	0.36069444444444443	Low Pressure	2/1/2023	2/8/2023	2.0	Cairo	Heliopolis	Mobile App
+160	Broken water pipe flooding street at Koramangala	water	BWSSB	High	Pending	0.9679513888888889	Low Pressure	10/25/2024			Cairo	Nasr City	Call Center
+161	Water leakage reported at Indiranagar	water	BWSSB	High	In Progress	0.7817824074074075	No Water	8/13/2024			Cairo	Heliopolis	Website
+162	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Closed	0.7040277777777778	Leakage	4/26/2025	4/28/2025	5.0	Cairo	Heliopolis	Website
+163	No water supply in Jayanagar since 3 days	water	BWSSB	Critical	Closed	0.0358912037037037	Low Pressure	8/3/2025	8/10/2025	2.0	Cairo	Nasr City	Website
+164	Broken water pipe flooding street at BTM Layout	water	BWSSB	High	Closed	0.12021990740740741	No Water	5/7/2023	5/9/2023	5.0	Giza	Haram	Call Center
+165	Water leakage reported at Koramangala	water	BWSSB	High	Closed	0.6217708333333334	No Water	8/9/2025	8/11/2025	5.0	Cairo	Heliopolis	Mobile App
+166	Water leakage reported at Yelahanka	water	BWSSB	Critical	In Progress	0.8129398148148148	Low Pressure	4/20/2025			Giza	Dokki	Website
+167	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Pending	0.8137037037037037	Leakage	6/9/2025			Giza	Haram	Call Center
+168	No water supply in Koramangala since 8 days	water	BWSSB	High	Pending	0.19104166666666667	Leakage	11/22/2024			Cairo	Heliopolis	Mobile App
+169	Water leakage reported at MG Road	water	BWSSB	High	Closed	0.7707407407407407	Low Pressure	5/8/2025	5/13/2025	3.0	Cairo	Nasr City	Mobile App
+170	Broken water pipe flooding street at BTM Layout	water	BWSSB	Critical	Closed	0.5800231481481481	Leakage	2/17/2024	2/23/2024	3.0	Cairo	Heliopolis	Call Center
+171	Water leakage reported at Malleshwaram	water	BWSSB	Critical	Closed	0.15839120370370371	Leakage	5/2/2025	5/10/2025	2.0	Giza	Haram	Mobile App
+172	Water contamination issue at Malleshwaram	water	BWSSB	High	Closed	0.46346064814814814	Leakage	7/30/2023	8/6/2023	2.0	Giza	Dokki	Call Center
+173	Broken water pipe flooding street at BTM Layout	water	BWSSB	Critical	In Progress	0.574675925925926	Low Pressure	2/12/2025			Cairo	Maadi	Website
+174	Water leakage reported at Yelahanka	water	BWSSB	High	Closed	0.07068287037037037	Leakage	10/17/2024	10/20/2024	4.0	Cairo	Maadi	Mobile App
+175	No water supply in Whitefield since 8 days	water	BWSSB	High	Pending	0.5813194444444445	Leakage	6/3/2025			Giza	Haram	Mobile App
+176	Water leakage reported at Whitefield	water	BWSSB	Critical	Closed	0.5562037037037038	No Water	7/1/2023	7/4/2023	4.0	Cairo	Maadi	Call Center
+177	Water leakage reported at MG Road	water	BWSSB	High	Pending	0.7390625	Leakage	5/19/2025			Cairo	Maadi	Mobile App
+178	Water contamination issue at Malleshwaram	water	BWSSB	High	In Progress	0.7904745370370371	Low Pressure	12/2/2024			Cairo	Nasr City	Website
+179	Water contamination issue at BTM Layout	water	BWSSB	High	Closed	0.4881597222222222	No Water	8/15/2024	8/22/2024	2.0	Giza	Haram	Mobile App
+180	Broken water pipe flooding street at Koramangala	water	BWSSB	High	Closed	0.6022569444444444	No Water	4/18/2025	4/25/2025	2.0	Giza	Dokki	Mobile App
+181	No water supply in Koramangala since 8 days	water	BWSSB	Critical	Closed	0.31104166666666666	No Water	8/18/2025	8/25/2025	2.0	Giza	Mohandessin	Call Center
+182	Broken water pipe flooding street at Jayanagar	water	BWSSB	High	Closed	0.0035069444444444445	Low Pressure	11/22/2024	11/30/2024	2.0	Giza	Haram	Mobile App
+183	Water leakage reported at Jayanagar	water	BWSSB	High	Closed	0.20699074074074075	Low Pressure	5/7/2025	5/11/2025	4.0	Cairo	Maadi	Mobile App
+184	No water supply in Malleshwaram since 8 days	water	BWSSB	High	In Progress	0.15104166666666666	Low Pressure	5/25/2025			Giza	Mohandessin	Mobile App
+185	Broken water pipe flooding street at Yelahanka	water	BWSSB	Critical	Closed	0.31809027777777776	Low Pressure	10/10/2023	10/12/2023	5.0	Cairo	Maadi	Mobile App
+186	Broken water pipe flooding street at Indiranagar	water	BWSSB	Critical	Closed	0.4467939814814815	No Water	7/13/2025	7/19/2025	3.0	Cairo	Maadi	Mobile App
+187	No water supply in Yelahanka since 4 days	water	BWSSB	High	Closed	0.3998263888888889	No Water	7/8/2023	7/17/2023	1.0	Giza	Dokki	Website
+188	Water contamination issue at Jayanagar	water	BWSSB	Critical	Pending	0.8917476851851852	No Water	3/30/2024			Giza	Dokki	Call Center
+189	No water supply in Jayanagar since 6 days	water	BWSSB	Critical	In Progress	0.893275462962963	No Water	5/10/2023			Cairo	Heliopolis	Call Center
+190	Water contamination issue at Malleshwaram	water	BWSSB	Critical	Closed	0.8273726851851851	Low Pressure	2/18/2023	2/26/2023	2.0	Cairo	Maadi	Website
+191	Water contamination issue at Jayanagar	water	BWSSB	High	Closed	0.5702546296296296	Low Pressure	8/10/2024	8/15/2024	3.0	Cairo	Heliopolis	Mobile App
+192	No water supply in MG Road since 5 days	water	BWSSB	Critical	In Progress	0.32256944444444446	Leakage	2/11/2023			Cairo	Nasr City	Website
+193	No water supply in Indiranagar since 2 days	water	BWSSB	Critical	Closed	0.09028935185185186	No Water	9/9/2024	9/15/2024	3.0	Cairo	Heliopolis	Website
+194	No water supply in Yelahanka since 4 days	water	BWSSB	High	Pending	0.5622453703703704	No Water	9/7/2025			Giza	Haram	Call Center
+195	Water leakage reported at Jayanagar	water	BWSSB	Critical	Closed	0.5783101851851852	Low Pressure	8/23/2025	8/26/2025	4.0	Giza	Mohandessin	Call Center
+196	Water contamination issue at MG Road	water	BWSSB	High	Closed	0.8888310185185185	No Water	3/31/2024	4/4/2024	4.0	Cairo	Heliopolis	Website
+197	Water leakage reported at Jayanagar	water	BWSSB	High	In Progress	0.5118518518518519	Low Pressure	10/12/2025			Giza	Dokki	Call Center
+198	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Closed	0.12672453703703704	Low Pressure	12/2/2024	12/7/2024	3.0	Cairo	Heliopolis	Mobile App
+199	Water leakage reported at Koramangala	water	BWSSB	Critical	Closed	0.2839351851851852	No Water	4/2/2024	4/9/2024	2.0	Giza	Dokki	Mobile App
+200	Water leakage reported at Whitefield	water	BWSSB	High	Closed	0.17185185185185184	Leakage	2/10/2024	2/17/2024	2.0	Giza	Mohandessin	Call Center
+201	Broken water pipe flooding street at Indiranagar	water	BWSSB	High	Pending	0.16211805555555556	Low Pressure	10/13/2023			Giza	Mohandessin	Call Center
+202	Water leakage reported at Koramangala	water	BWSSB	Critical	In Progress	0.8922569444444445	Low Pressure	11/12/2025			Cairo	Heliopolis	Mobile App
+203	Broken water pipe flooding street at Whitefield	water	BWSSB	Critical	Closed	0.1946412037037037	Low Pressure	10/29/2025	11/5/2025	2.0	Giza	Mohandessin	Website
+204	Water leakage reported at BTM Layout	water	BWSSB	High	Closed	0.41561342592592593	Low Pressure	8/5/2024	8/7/2024	5.0	Giza	Mohandessin	Call Center
+205	No water supply in Yelahanka since 5 days	water	BWSSB	High	In Progress	0.7428472222222222	Leakage	2/2/2024			Giza	Mohandessin	Mobile App
+206	Water leakage reported at BTM Layout	water	BWSSB	High	Pending	0.5286689814814814	No Water	6/6/2023			Cairo	Heliopolis	Website
+207	Water leakage reported at BTM Layout	water	BWSSB	Critical	Closed	0.3805208333333333	Low Pressure	6/28/2024	7/2/2024	4.0	Cairo	Nasr City	Call Center
+208	Water contamination issue at MG Road	water	BWSSB	Critical	Closed	0.9328703703703703	No Water	11/23/2024	11/24/2024	5.0	Cairo	Heliopolis	Call Center
+209	Water contamination issue at Yelahanka	water	BWSSB	Critical	In Progress	0.45913194444444444	No Water	6/4/2025			Giza	Haram	Mobile App
+210	Water contamination issue at BTM Layout	water	BWSSB	High	Closed	0.30159722222222224	Leakage	11/30/2025	12/6/2025	3.0	Cairo	Maadi	Mobile App
+211	Water contamination issue at Indiranagar	water	BWSSB	Critical	Closed	0.6908912037037037	Leakage	7/29/2025	8/7/2025	1.0	Cairo	Nasr City	Call Center
+212	Water leakage reported at Whitefield	water	BWSSB	Critical	Closed	0.6882175925925926	No Water	12/11/2024	12/17/2024	3.0	Cairo	Maadi	Mobile App
+213	Broken water pipe flooding street at Indiranagar	water	BWSSB	Critical	In Progress	0.18226851851851852	Leakage	10/22/2023			Giza	Dokki	Mobile App
+214	Water leakage reported at Yelahanka	water	BWSSB	Critical	Closed	0.3245486111111111	Low Pressure	1/23/2023	1/25/2023	5.0	Cairo	Maadi	Mobile App
+215	Water leakage reported at MG Road	water	BWSSB	High	In Progress	0.09596064814814814	No Water	8/9/2023			Cairo	Heliopolis	Call Center
+216	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	Closed	0.5054166666666666	Low Pressure	9/15/2025	9/19/2025	4.0	Giza	Haram	Website
+217	No water supply in Whitefield since 8 days	water	BWSSB	Critical	In Progress	0.8649421296296296	Low Pressure	8/1/2024			Giza	Mohandessin	Mobile App
+218	Water contamination issue at Indiranagar	water	BWSSB	High	Closed	0.40502314814814816	Low Pressure	3/2/2025	3/6/2025	4.0	Giza	Dokki	Call Center
+219	No water supply in Koramangala since 1 days	water	BWSSB	Critical	Pending	0.5168171296296297	Leakage	5/12/2024			Cairo	Heliopolis	Mobile App
+220	Broken water pipe flooding street at Jayanagar	water	BWSSB	High	Pending	0.09825231481481482	No Water	6/9/2025			Cairo	Maadi	Call Center
+221	Water leakage reported at BTM Layout	water	BWSSB	Critical	Closed	0.08195601851851853	Low Pressure	4/3/2025	4/11/2025	2.0	Cairo	Heliopolis	Mobile App
+222	No water supply in Whitefield since 6 days	water	BWSSB	Critical	Closed	0.32256944444444446	Leakage	12/5/2024	12/7/2024	5.0	Cairo	Nasr City	Call Center
+223	Water leakage reported at Jayanagar	water	BWSSB	Critical	Pending	0.2399652777777778	Leakage	2/10/2023			Cairo	Maadi	Website
+224	Water contamination issue at BTM Layout	water	BWSSB	Critical	Closed	0.5062037037037037	Leakage	9/8/2023	9/9/2023	5.0	Giza	Haram	Call Center
+225	Broken water pipe flooding street at BTM Layout	water	BWSSB	High	Pending	0.8720601851851851	Leakage	5/19/2025			Cairo	Heliopolis	Mobile App
+226	Broken water pipe flooding street at Jayanagar	water	BWSSB	High	Closed	0.7897106481481482	Leakage	4/21/2025	4/24/2025	4.0	Giza	Dokki	Mobile App
+227	Broken water pipe flooding street at Jayanagar	water	BWSSB	High	In Progress	0.13181712962962963	Leakage	6/30/2025			Giza	Dokki	Website
+228	Broken water pipe flooding street at MG Road	water	BWSSB	High	Closed	0.02042824074074074	Leakage	1/29/2025	2/3/2025	3.0	Giza	Dokki	Mobile App
+229	Broken water pipe flooding street at Whitefield	water	BWSSB	Critical	Closed	0.2330787037037037	Leakage	5/16/2023	5/22/2023	3.0	Giza	Haram	Mobile App
+230	Water contamination issue at Indiranagar	water	BWSSB	High	Pending	0.9197569444444444	Leakage	8/29/2025			Giza	Haram	Mobile App
+231	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Closed	0.3874884259259259	Leakage	9/22/2023	9/28/2023	3.0	Giza	Dokki	Website
+232	Broken water pipe flooding street at Whitefield	water	BWSSB	High	Pending	0.9365509259259259	Low Pressure	5/20/2025			Giza	Haram	Mobile App
+233	Broken water pipe flooding street at Whitefield	water	BWSSB	Critical	Pending	0.7944791666666666	Leakage	12/30/2024			Cairo	Maadi	Website
+234	Water contamination issue at MG Road	water	BWSSB	High	Closed	0.8333796296296296	No Water	6/4/2023	6/8/2023	4.0	Cairo	Maadi	Website
+235	Water contamination issue at Indiranagar	water	BWSSB	Critical	In Progress	0.7692708333333333	Low Pressure	2/2/2024			Cairo	Maadi	Mobile App
+236	Water leakage reported at Jayanagar	water	BWSSB	High	Closed	0.743912037037037	Leakage	8/14/2023	8/19/2023	3.0	Giza	Haram	Mobile App
+237	No water supply in MG Road since 10 days	water	BWSSB	Critical	Closed	0.995625	No Water	5/10/2023	5/18/2023	2.0	Cairo	Nasr City	Call Center
+238	Broken water pipe flooding street at BTM Layout	water	BWSSB	Critical	Closed	0.9441203703703703	No Water	3/15/2023	3/22/2023	2.0	Giza	Dokki	Mobile App
+239	Water contamination issue at Yelahanka	water	BWSSB	High	Pending	0.14818287037037037	No Water	2/21/2024			Giza	Dokki	Call Center
+240	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Closed	0.9801851851851852	Low Pressure	7/6/2025	7/12/2025	3.0	Cairo	Heliopolis	Mobile App
+241	Water leakage reported at Indiranagar	water	BWSSB	Critical	Closed	0.26402777777777775	Low Pressure	9/24/2025	9/29/2025	3.0	Giza	Mohandessin	Call Center
+242	Water contamination issue at Whitefield	water	BWSSB	Critical	Pending	0.8462615740740741	Leakage	4/4/2025			Giza	Dokki	Call Center
+243	Water contamination issue at Koramangala	water	BWSSB	Critical	Closed	0.16993055555555556	Leakage	7/23/2025	7/31/2025	2.0	Giza	Mohandessin	Mobile App
+244	Water contamination issue at Jayanagar	water	BWSSB	High	Closed	0.6290856481481482	No Water	6/4/2025	6/9/2025	3.0	Giza	Dokki	Website
+245	No water supply in MG Road since 8 days	water	BWSSB	Critical	Closed	0.8609143518518518	Leakage	5/10/2023	5/18/2023	2.0	Cairo	Maadi	Website
+246	Broken water pipe flooding street at MG Road	water	BWSSB	High	Closed	0.785	Low Pressure	2/23/2025	2/24/2025	5.0	Giza	Dokki	Call Center
+247	Broken water pipe flooding street at Koramangala	water	BWSSB	High	Pending	0.029016203703703704	Leakage	9/20/2024			Giza	Mohandessin	Mobile App
+248	Water leakage reported at Yelahanka	water	BWSSB	Critical	Closed	0.022939814814814816	Leakage	3/24/2025	3/30/2025	3.0	Giza	Haram	Call Center
+249	Water contamination issue at Jayanagar	water	BWSSB	Critical	Closed	0.03523148148148148	Leakage	9/25/2024	10/2/2024	2.0	Cairo	Nasr City	Website
+250	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	In Progress	0.48185185185185186	No Water	11/29/2025			Giza	Mohandessin	Call Center
+251	Water leakage reported at BTM Layout	water	BWSSB	Critical	In Progress	0.1575925925925926	No Water	12/18/2024			Giza	Mohandessin	Website
+252	Water contamination issue at Koramangala	water	BWSSB	High	Closed	0.22268518518518518	No Water	2/25/2024	2/29/2024	4.0	Giza	Haram	Mobile App
+253	Water leakage reported at Jayanagar	water	BWSSB	Critical	Closed	0.1273263888888889	No Water	7/7/2023	7/11/2023	4.0	Cairo	Nasr City	Website
+254	No water supply in Yelahanka since 10 days	water	BWSSB	Critical	In Progress	0.23974537037037036	Low Pressure	12/11/2023			Cairo	Maadi	Call Center
+255	No water supply in Yelahanka since 4 days	water	BWSSB	Critical	In Progress	0.8107175925925926	Leakage	12/9/2023			Cairo	Maadi	Mobile App
+256	No water supply in Koramangala since 6 days	water	BWSSB	Critical	Closed	0.08938657407407408	Leakage	9/19/2025	9/21/2025	5.0	Giza	Haram	Mobile App
+257	Water leakage reported at Koramangala	water	BWSSB	Critical	Closed	0.5657175925925926	No Water	1/19/2023	1/26/2023	2.0	Giza	Mohandessin	Mobile App
+258	Water leakage reported at Koramangala	water	BWSSB	High	Pending	0.5883101851851852	Low Pressure	3/22/2024			Cairo	Heliopolis	Mobile App
+259	No water supply in Jayanagar since 7 days	water	BWSSB	High	Pending	0.5348148148148149	Leakage	3/27/2023			Giza	Dokki	Call Center
+260	Broken water pipe flooding street at Koramangala	water	BWSSB	High	Pending	0.39547453703703705	Leakage	9/30/2023			Giza	Mohandessin	Call Center
+261	Water leakage reported at Koramangala	water	BWSSB	High	Closed	0.5083564814814815	Low Pressure	1/12/2025	1/17/2025	3.0	Giza	Mohandessin	Website
+262	Water leakage reported at Whitefield	water	BWSSB	High	In Progress	0.2819212962962963	No Water	10/15/2024			Cairo	Heliopolis	Mobile App
+263	No water supply in BTM Layout since 4 days	water	BWSSB	Critical	In Progress	0.9289814814814815	Low Pressure	11/19/2023			Cairo	Nasr City	Mobile App
+264	Water leakage reported at Jayanagar	water	BWSSB	High	Closed	0.9964351851851851	No Water	9/22/2023	9/28/2023	3.0	Cairo	Heliopolis	Website
+265	No water supply in MG Road since 8 days	water	BWSSB	Critical	Closed	0.050011574074074076	Low Pressure	12/30/2023	1/5/2024	3.0	Giza	Mohandessin	Mobile App
+266	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	Pending	0.2578009259259259	Low Pressure	3/13/2024			Cairo	Nasr City	Call Center
+267	Broken water pipe flooding street at BTM Layout	water	BWSSB	High	Pending	0.3433101851851852	Low Pressure	6/17/2024			Cairo	Heliopolis	Call Center
+268	Water contamination issue at Indiranagar	water	BWSSB	Critical	Closed	0.9080208333333334	Leakage	8/8/2024	8/10/2024	5.0	Cairo	Heliopolis	Website
+269	Broken water pipe flooding street at Yelahanka	water	BWSSB	High	Closed	0.5614814814814815	No Water	6/21/2025	6/22/2025	5.0	Cairo	Heliopolis	Mobile App
+270	Water leakage reported at Malleshwaram	water	BWSSB	High	Closed	0.9887152777777778	Low Pressure	3/21/2025	3/27/2025	3.0	Giza	Mohandessin	Mobile App
+271	Broken water pipe flooding street at Indiranagar	water	BWSSB	High	Closed	0.7147916666666667	Low Pressure	12/2/2024	12/4/2024	5.0	Cairo	Heliopolis	Call Center
+272	Water leakage reported at BTM Layout	water	BWSSB	Critical	Closed	0.4557060185185185	No Water	6/28/2024	7/5/2024	2.0	Cairo	Nasr City	Mobile App
+273	Water contamination issue at Indiranagar	water	BWSSB	Critical	Closed	0.22625	No Water	2/7/2025	2/9/2025	5.0	Giza	Dokki	Mobile App
+274	Water contamination issue at Jayanagar	water	BWSSB	Critical	Closed	0.4528125	Low Pressure	6/24/2024	6/27/2024	4.0	Giza	Mohandessin	Call Center
+275	No water supply in Yelahanka since 3 days	water	BWSSB	High	In Progress	0.038125	Leakage	7/6/2023			Giza	Mohandessin	Mobile App
+276	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Closed	0.5491435185185185	Leakage	9/7/2024	9/11/2024	4.0	Giza	Dokki	Mobile App
+277	Water leakage reported at Indiranagar	water	BWSSB	High	Closed	0.5885300925925926	Low Pressure	1/28/2025	2/6/2025	1.0	Cairo	Heliopolis	Website
+278	No water supply in MG Road since 7 days	water	BWSSB	Critical	Pending	0.604375	Low Pressure	8/14/2024			Cairo	Heliopolis	Mobile App
+279	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Closed	0.15881944444444446	Leakage	11/10/2023	11/16/2023	3.0	Giza	Mohandessin	Mobile App
+280	Water contamination issue at Whitefield	water	BWSSB	Critical	Closed	0.7764814814814814	Low Pressure	4/21/2024	4/29/2024	2.0	Giza	Mohandessin	Mobile App
+281	Water leakage reported at Whitefield	water	BWSSB	Critical	Closed	0.41206018518518517	No Water	10/15/2024	10/18/2024	4.0	Cairo	Maadi	Call Center
+282	Water leakage reported at BTM Layout	water	BWSSB	Critical	Closed	0.18486111111111111	No Water	5/6/2025	5/15/2025	1.0	Giza	Haram	Mobile App
+283	Broken water pipe flooding street at Whitefield	water	BWSSB	Critical	In Progress	0.7114236111111111	Leakage	3/22/2025			Giza	Dokki	Mobile App
+284	Water leakage reported at Koramangala	water	BWSSB	Critical	Closed	0.2838541666666667	No Water	5/4/2024	5/5/2024	5.0	Cairo	Heliopolis	Call Center
+285	Water leakage reported at Whitefield	water	BWSSB	High	Pending	0.40925925925925927	Leakage	10/3/2025			Giza	Mohandessin	Website
+286	Water leakage reported at Jayanagar	water	BWSSB	High	Pending	0.6146759259259259	Low Pressure	11/14/2025			Giza	Mohandessin	Call Center
+287	Water contamination issue at Malleshwaram	water	BWSSB	High	Closed	0.9410416666666667	No Water	12/1/2023	12/5/2023	4.0	Giza	Haram	Call Center
+288	No water supply in Malleshwaram since 1 days	water	BWSSB	High	In Progress	0.7385995370370371	No Water	11/29/2023			Giza	Mohandessin	Mobile App
+289	Broken water pipe flooding street at BTM Layout	water	BWSSB	High	Closed	0.8944212962962963	Low Pressure	2/8/2025	2/9/2025	5.0	Cairo	Maadi	Mobile App
+290	Broken water pipe flooding street at BTM Layout	water	BWSSB	Critical	In Progress	0.6420370370370371	No Water	2/10/2024			Cairo	Maadi	Mobile App
+291	No water supply in Yelahanka since 6 days	water	BWSSB	High	Closed	0.6318287037037037	No Water	7/26/2024	8/4/2024	1.0	Giza	Haram	Mobile App
+292	Water leakage reported at MG Road	water	BWSSB	Critical	Closed	0.673599537037037	Low Pressure	11/30/2024	12/1/2024	5.0	Cairo	Maadi	Call Center
+293	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	In Progress	0.996087962962963	Leakage	5/18/2023			Cairo	Nasr City	Mobile App
+294	No water supply in Whitefield since 8 days	water	BWSSB	High	Closed	0.4146296296296296	Leakage	7/26/2025	8/1/2025	3.0	Cairo	Nasr City	Mobile App
+295	No water supply in Koramangala since 7 days	water	BWSSB	High	In Progress	0.8932060185185186	No Water	1/13/2025			Cairo	Maadi	Website
+296	Water leakage reported at Jayanagar	water	BWSSB	Critical	In Progress	0.18731481481481482	Leakage	12/23/2023			Giza	Mohandessin	Mobile App
+297	Water leakage reported at MG Road	water	BWSSB	High	Closed	0.9319791666666667	Leakage	12/15/2024	12/21/2024	3.0	Cairo	Heliopolis	Call Center
+298	Water contamination issue at Yelahanka	water	BWSSB	High	Closed	0.2717361111111111	Leakage	1/25/2023	1/26/2023	5.0	Cairo	Maadi	Mobile App
+299	Water leakage reported at Whitefield	water	BWSSB	High	Closed	0.03127314814814815	No Water	5/27/2025	5/28/2025	5.0	Cairo	Maadi	Mobile App
+300	No water supply in Malleshwaram since 7 days	water	BWSSB	High	Closed	0.8600578703703704	Leakage	4/13/2023	4/19/2023	3.0	Cairo	Maadi	Call Center
+301	Broken water pipe flooding street at MG Road	water	BWSSB	Critical	Closed	0.05443287037037037	No Water	8/17/2025	8/18/2025	5.0	Giza	Haram	Mobile App
+302	No water supply in MG Road since 7 days	water	BWSSB	Critical	Closed	0.9403703703703704	Low Pressure	9/5/2023	9/12/2023	2.0	Giza	Mohandessin	Mobile App
+303	Broken water pipe flooding street at MG Road	water	BWSSB	High	Pending	0.24913194444444445	Leakage	6/24/2024			Giza	Dokki	Mobile App
+304	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	Closed	0.4575694444444444	Low Pressure	3/18/2024	3/21/2024	4.0	Giza	Haram	Mobile App
+305	Broken water pipe flooding street at Malleshwaram	water	BWSSB	High	Closed	0.8808101851851852	Leakage	2/22/2025	2/23/2025	5.0	Giza	Mohandessin	Mobile App
+306	Water leakage reported at Yelahanka	water	BWSSB	High	Closed	0.21078703703703705	Leakage	9/29/2023	10/2/2023	4.0	Giza	Haram	Mobile App
+307	Broken water pipe flooding street at BTM Layout	water	BWSSB	Critical	Pending	0.8777199074074075	Low Pressure	5/21/2025			Cairo	Maadi	Mobile App
+308	Broken water pipe flooding street at Koramangala	water	BWSSB	High	Closed	0.05434027777777778	Low Pressure	12/23/2024	12/28/2024	3.0	Cairo	Maadi	Mobile App
+309	Broken water pipe flooding street at Jayanagar	water	BWSSB	Critical	Closed	0.3377662037037037	No Water	2/20/2024	2/25/2024	3.0	Cairo	Maadi	Call Center
+310	Water leakage reported at Whitefield	water	BWSSB	Critical	Closed	0.09688657407407407	Leakage	3/4/2025	3/10/2025	3.0	Giza	Haram	Call Center
+311	Broken water pipe flooding street at Whitefield	water	BWSSB	High	Closed	0.8905208333333333	Low Pressure	11/13/2023	11/18/2023	3.0	Giza	Dokki	Mobile App
+312	Water leakage reported at Koramangala	water	BWSSB	High	Closed	0.7770833333333333	No Water	2/15/2025	2/18/2025	4.0	Cairo	Maadi	Call Center
+313	Broken water pipe flooding street at Yelahanka	water	BWSSB	Critical	Closed	0.9296643518518518	No Water	10/26/2024	10/28/2024	5.0	Cairo	Heliopolis	Call Center
+314	Water leakage reported at Jayanagar	water	BWSSB	High	Closed	0.5339583333333333	No Water	5/14/2025	5/15/2025	5.0	Cairo	Heliopolis	Website
+315	Water leakage reported at Jayanagar	water	BWSSB	High	In Progress	0.981724537037037	No Water	1/30/2023			Giza	Haram	Mobile App
+316	Water leakage reported at Malleshwaram	water	BWSSB	High	Closed	0.3552430555555556	No Water	11/26/2024	12/5/2024	1.0	Giza	Dokki	Call Center
+317	Broken water pipe flooding street at Jayanagar	water	BWSSB	Critical	Closed	0.5728587962962963	Low Pressure	1/26/2023	1/28/2023	5.0	Giza	Haram	Website
+318	Water leakage reported at Indiranagar	water	BWSSB	High	Closed	0.8469212962962963	Low Pressure	1/3/2024	1/8/2024	3.0	Giza	Haram	Call Center
+319	Water contamination issue at MG Road	water	BWSSB	Critical	Closed	0.008703703703703703	No Water	10/16/2023	10/18/2023	5.0	Cairo	Maadi	Website
+320	No water supply in MG Road since 2 days	water	BWSSB	Critical	Closed	0.5671527777777777	No Water	12/20/2023	12/25/2023	3.0	Cairo	Maadi	Mobile App
+321	Water leakage reported at BTM Layout	water	BWSSB	Critical	Pending	0.006030092592592593	Leakage	12/24/2024			Giza	Dokki	Call Center
+322	Water leakage reported at Yelahanka	water	BWSSB	High	In Progress	0.07613425925925926	Low Pressure	11/24/2025			Cairo	Nasr City	Mobile App
+323	Water contamination issue at Yelahanka	water	BWSSB	High	Closed	0.1114699074074074	Low Pressure	2/17/2024	2/21/2024	4.0	Cairo	Maadi	Website
+324	No water supply in Indiranagar since 1 days	water	BWSSB	High	Pending	0.7674537037037037	No Water	4/16/2024			Cairo	Heliopolis	Call Center
+325	Broken water pipe flooding street at Whitefield	water	BWSSB	Critical	Pending	0.350150462962963	No Water	10/26/2023			Cairo	Heliopolis	Call Center
+326	Water contamination issue at MG Road	water	BWSSB	High	In Progress	0.5109953703703703	Leakage	8/24/2025			Cairo	Nasr City	Website
+327	Water contamination issue at BTM Layout	water	BWSSB	High	Pending	0.7882175925925926	Leakage	7/27/2024			Cairo	Nasr City	Mobile App
+328	No water supply in BTM Layout since 5 days	water	BWSSB	Critical	Closed	0.7874189814814815	Low Pressure	4/7/2025	4/13/2025	3.0	Cairo	Heliopolis	Mobile App
+329	No water supply in Indiranagar since 8 days	water	BWSSB	High	In Progress	0.4528240740740741	Leakage	10/18/2025			Cairo	Maadi	Mobile App
+330	Broken water pipe flooding street at Indiranagar	water	BWSSB	Critical	Closed	0.618912037037037	Leakage	7/29/2023	8/4/2023	3.0	Giza	Mohandessin	Mobile App
+331	Water contamination issue at BTM Layout	water	BWSSB	Critical	Pending	0.34908564814814813	Low Pressure	2/26/2024			Giza	Haram	Mobile App
+332	Water leakage reported at Yelahanka	water	BWSSB	High	Closed	0.35875	Leakage	6/11/2023	6/19/2023	2.0	Cairo	Nasr City	Website
+333	Water contamination issue at BTM Layout	water	BWSSB	High	Closed	0.3490740740740741	No Water	3/22/2023	3/24/2023	5.0	Giza	Mohandessin	Website
+334	Water leakage reported at Malleshwaram	water	BWSSB	High	Closed	0.21190972222222224	Leakage	4/12/2024	4/21/2024	1.0	Cairo	Maadi	Call Center
+335	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Pending	0.32231481481481483	Leakage	8/18/2025			Cairo	Heliopolis	Mobile App
+336	Water contamination issue at MG Road	water	BWSSB	Critical	Closed	0.25778935185185187	Low Pressure	9/20/2025	9/22/2025	5.0	Cairo	Nasr City	Website
+337	Water leakage reported at Indiranagar	water	BWSSB	High	Pending	0.13637731481481483	Low Pressure	11/26/2024			Cairo	Nasr City	Call Center
+338	Water leakage reported at Yelahanka	water	BWSSB	Critical	In Progress	0.4920023148148148	Leakage	7/5/2024			Cairo	Heliopolis	Call Center
+339	Water contamination issue at Whitefield	water	BWSSB	High	Pending	0.08637731481481481	Leakage	6/20/2023			Cairo	Maadi	Mobile App
+340	Water contamination issue at Koramangala	water	BWSSB	Critical	In Progress	0.6926967592592592	Low Pressure	5/10/2023			Cairo	Maadi	Call Center
+341	Broken water pipe flooding street at Yelahanka	water	BWSSB	Critical	Closed	0.17416666666666666	No Water	6/3/2025	6/9/2025	3.0	Giza	Mohandessin	Website
+342	Water leakage reported at Jayanagar	water	BWSSB	Critical	In Progress	0.6176736111111111	Leakage	1/30/2023			Giza	Haram	Mobile App
+343	Water contamination issue at Whitefield	water	BWSSB	Critical	Closed	0.2758333333333333	Low Pressure	3/29/2024	3/30/2024	5.0	Cairo	Heliopolis	Mobile App
+344	No water supply in Indiranagar since 9 days	water	BWSSB	High	In Progress	0.13266203703703705	Low Pressure	1/19/2024			Giza	Haram	Mobile App
+345	Water leakage reported at Jayanagar	water	BWSSB	High	Closed	0.5353472222222222	No Water	3/28/2024	4/3/2024	3.0	Cairo	Nasr City	Mobile App
+346	Water leakage reported at Jayanagar	water	BWSSB	High	Closed	0.22342592592592592	Low Pressure	5/22/2024	5/27/2024	3.0	Cairo	Nasr City	Call Center
+347	No water supply in MG Road since 5 days	water	BWSSB	High	Closed	0.467650462962963	No Water	11/12/2025	11/13/2025	5.0	Cairo	Maadi	Mobile App
+348	Water leakage reported at MG Road	water	BWSSB	Critical	Closed	0.16996527777777778	Leakage	1/27/2024	2/5/2024	1.0	Cairo	Nasr City	Call Center
+349	No water supply in Whitefield since 5 days	water	BWSSB	Critical	Pending	0.08650462962962963	No Water	7/23/2025			Cairo	Heliopolis	Mobile App
+350	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	In Progress	0.7206365740740741	Leakage	2/18/2025			Giza	Dokki	Website
+351	No water supply in Yelahanka since 5 days	water	BWSSB	Critical	Closed	0.3694675925925926	No Water	4/8/2025	4/10/2025	5.0	Giza	Mohandessin	Call Center
+352	Water leakage reported at Malleshwaram	water	BWSSB	High	Closed	0.9629861111111111	Leakage	12/2/2023	12/9/2023	2.0	Giza	Haram	Call Center
+353	Water contamination issue at BTM Layout	water	BWSSB	High	Closed	0.6581134259259259	No Water	10/6/2023	10/13/2023	2.0	Giza	Dokki	Website
+354	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Closed	0.14952546296296296	Leakage	5/3/2024	5/11/2024	2.0	Giza	Mohandessin	Website
+355	Water leakage reported at BTM Layout	water	BWSSB	High	Closed	0.9629745370370371	No Water	10/3/2025	10/6/2025	4.0	Cairo	Nasr City	Mobile App
+356	Water contamination issue at Yelahanka	water	BWSSB	Critical	In Progress	0.05320601851851852	Low Pressure	8/30/2023			Giza	Haram	Website
+357	Broken water pipe flooding street at Whitefield	water	BWSSB	High	Closed	0.42890046296296297	No Water	4/5/2025	4/14/2025	1.0	Giza	Mohandessin	Call Center
+358	Water contamination issue at BTM Layout	water	BWSSB	High	Pending	0.39122685185185185	Low Pressure	9/25/2025			Giza	Dokki	Mobile App
+359	Water leakage reported at Jayanagar	water	BWSSB	High	Closed	0.03847222222222222	No Water	12/7/2025	12/12/2025	3.0	Cairo	Nasr City	Mobile App
+360	Broken water pipe flooding street at Yelahanka	water	BWSSB	High	Pending	0.7903125	No Water	12/28/2023			Cairo	Nasr City	Call Center
+361	No water supply in Malleshwaram since 3 days	water	BWSSB	Critical	Closed	0.7796759259259259	No Water	1/19/2024	1/25/2024	3.0	Giza	Haram	Website
+362	No water supply in BTM Layout since 5 days	water	BWSSB	Critical	Pending	0.8778472222222222	Leakage	4/4/2023			Giza	Haram	Call Center
+363	No water supply in MG Road since 3 days	water	BWSSB	High	Closed	0.11599537037037037	Low Pressure	6/11/2024	6/17/2024	3.0	Giza	Dokki	Call Center
+364	No water supply in Malleshwaram since 9 days	water	BWSSB	High	Closed	0.2835185185185185	Leakage	5/5/2025	5/7/2025	5.0	Cairo	Maadi	Call Center
+365	Broken water pipe flooding street at Jayanagar	water	BWSSB	Critical	In Progress	0.4124189814814815	Leakage	8/25/2023			Cairo	Nasr City	Mobile App
+366	No water supply in BTM Layout since 3 days	water	BWSSB	Critical	In Progress	0.35009259259259257	Leakage	12/28/2025			Cairo	Heliopolis	Mobile App
+367	No water supply in Indiranagar since 5 days	water	BWSSB	Critical	In Progress	0.7471875	Leakage	10/18/2024			Cairo	Heliopolis	Mobile App
+368	Broken water pipe flooding street at Indiranagar	water	BWSSB	Critical	Closed	0.22935185185185186	No Water	2/4/2023	2/6/2023	5.0	Giza	Mohandessin	Mobile App
+369	Broken water pipe flooding street at Malleshwaram	water	BWSSB	High	Closed	0.05144675925925926	Low Pressure	1/13/2024	1/21/2024	2.0	Giza	Dokki	Mobile App
+370	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	Pending	0.6556828703703703	Leakage	12/5/2025			Giza	Haram	Mobile App
+371	Broken water pipe flooding street at Malleshwaram	water	BWSSB	High	In Progress	0.6984259259259259	Low Pressure	7/2/2023			Cairo	Maadi	Mobile App
+372	Water leakage reported at Koramangala	water	BWSSB	High	Closed	0.047581018518518516	No Water	6/14/2024	6/21/2024	2.0	Giza	Haram	Mobile App
+373	Broken water pipe flooding street at Yelahanka	water	BWSSB	Critical	Pending	0.4984953703703704	Leakage	5/2/2024			Cairo	Heliopolis	Mobile App
+374	No water supply in MG Road since 6 days	water	BWSSB	Critical	Closed	0.9503703703703704	No Water	6/10/2025	6/13/2025	4.0	Giza	Dokki	Mobile App
+375	Water leakage reported at Indiranagar	water	BWSSB	Critical	Pending	0.39569444444444446	Leakage	1/19/2023			Cairo	Maadi	Mobile App
+376	Water leakage reported at Whitefield	water	BWSSB	High	Closed	0.9231944444444444	Leakage	1/13/2024	1/16/2024	4.0	Giza	Mohandessin	Call Center
+377	Water leakage reported at MG Road	water	BWSSB	High	Closed	0.3239236111111111	No Water	10/18/2024	10/24/2024	3.0	Cairo	Nasr City	Call Center
+378	Water leakage reported at Koramangala	water	BWSSB	Critical	Closed	0.8208912037037037	No Water	8/20/2023	8/25/2023	3.0	Cairo	Maadi	Website
+379	Water contamination issue at Indiranagar	water	BWSSB	High	In Progress	0.6125231481481481	Low Pressure	6/14/2023			Cairo	Nasr City	Call Center
+380	No water supply in Yelahanka since 6 days	water	BWSSB	High	Closed	0.04402777777777778	No Water	10/29/2024	11/3/2024	3.0	Giza	Haram	Mobile App
+381	Water contamination issue at Indiranagar	water	BWSSB	Critical	Closed	0.5811111111111111	Leakage	3/22/2023	3/24/2023	5.0	Cairo	Maadi	Website
+382	Water contamination issue at MG Road	water	BWSSB	Critical	Closed	0.26494212962962965	Leakage	9/23/2025	9/26/2025	4.0	Giza	Dokki	Mobile App
+383	Water contamination issue at Whitefield	water	BWSSB	High	In Progress	0.1882638888888889	Leakage	11/24/2023			Giza	Mohandessin	Mobile App
+384	Water leakage reported at MG Road	water	BWSSB	High	Closed	0.30391203703703706	Low Pressure	12/28/2025	12/31/2025	4.0	Giza	Mohandessin	Call Center
+385	No water supply in MG Road since 8 days	water	BWSSB	High	Closed	0.9592824074074074	Low Pressure	7/3/2023	7/5/2023	5.0	Cairo	Heliopolis	Mobile App
+386	No water supply in Malleshwaram since 2 days	water	BWSSB	High	In Progress	0.48844907407407406	Low Pressure	4/19/2025			Cairo	Nasr City	Mobile App
+387	Broken water pipe flooding street at MG Road	water	BWSSB	Critical	Closed	0.30517361111111113	Leakage	5/21/2023	5/22/2023	5.0	Giza	Haram	Mobile App
+388	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Closed	0.6224189814814814	Low Pressure	1/29/2024	2/1/2024	4.0	Cairo	Maadi	Mobile App
+389	Water leakage reported at Jayanagar	water	BWSSB	Critical	Closed	0.07334490740740741	Leakage	6/23/2025	6/28/2025	3.0	Cairo	Heliopolis	Mobile App
+390	No water supply in Malleshwaram since 2 days	water	BWSSB	High	Closed	0.07490740740740741	Low Pressure	12/18/2025	12/27/2025	1.0	Giza	Haram	Website
+391	Water contamination issue at MG Road	water	BWSSB	High	Pending	0.1325	Low Pressure	1/10/2025			Cairo	Nasr City	Website
+392	No water supply in Koramangala since 5 days	water	BWSSB	Critical	Pending	0.704837962962963	Low Pressure	6/16/2025			Giza	Dokki	Mobile App
+393	Water leakage reported at BTM Layout	water	BWSSB	High	Closed	0.6807060185185185	Leakage	4/14/2025	4/18/2025	4.0	Giza	Mohandessin	Mobile App
+394	Broken water pipe flooding street at BTM Layout	water	BWSSB	Critical	Closed	0.5912615740740741	No Water	10/22/2023	10/30/2023	2.0	Giza	Dokki	Website
+395	Water leakage reported at MG Road	water	BWSSB	High	Closed	0.6520370370370371	Low Pressure	9/29/2025	10/5/2025	3.0	Giza	Dokki	Website
+396	No water supply in MG Road since 5 days	water	BWSSB	Critical	In Progress	0.17640046296296297	No Water	12/9/2025			Giza	Dokki	Call Center
+397	No water supply in Koramangala since 10 days	water	BWSSB	High	Closed	0.9212037037037037	No Water	7/9/2024	7/16/2024	2.0	Cairo	Maadi	Call Center
+398	Water contamination issue at Koramangala	water	BWSSB	Critical	Closed	0.1755787037037037	Low Pressure	2/14/2024	2/15/2024	5.0	Cairo	Nasr City	Mobile App
+399	Water leakage reported at Malleshwaram	water	BWSSB	Critical	In Progress	0.9805787037037037	Low Pressure	2/27/2023			Cairo	Nasr City	Call Center
+400	No water supply in Indiranagar since 3 days	water	BWSSB	High	Closed	0.09314814814814815	Leakage	5/30/2024	6/8/2024	1.0	Giza	Mohandessin	Call Center
+401	Water leakage reported at Jayanagar	water	BWSSB	High	Closed	0.2247222222222222	Low Pressure	2/4/2024	2/13/2024	1.0	Giza	Dokki	Call Center
+402	Water leakage reported at Jayanagar	water	BWSSB	High	Closed	0.4401041666666667	Low Pressure	11/17/2025	11/22/2025	3.0	Giza	Mohandessin	Website
+403	Water leakage reported at Jayanagar	water	BWSSB	Critical	Closed	0.3091319444444444	Low Pressure	8/22/2025	8/24/2025	5.0	Giza	Mohandessin	Mobile App
+404	Water leakage reported at MG Road	water	BWSSB	Critical	Closed	0.1175462962962963	Low Pressure	1/14/2023	1/21/2023	2.0	Cairo	Nasr City	Mobile App
+405	Water contamination issue at Jayanagar	water	BWSSB	High	Closed	0.30550925925925926	Leakage	7/6/2024	7/13/2024	2.0	Cairo	Maadi	Call Center
+406	Water contamination issue at BTM Layout	water	BWSSB	Critical	Closed	0.7118055555555556	Low Pressure	3/30/2024	4/8/2024	1.0	Giza	Haram	Mobile App
+407	No water supply in MG Road since 3 days	water	BWSSB	Critical	Closed	0.34215277777777775	Low Pressure	6/4/2023	6/5/2023	5.0	Giza	Dokki	Mobile App
+408	Water contamination issue at Jayanagar	water	BWSSB	High	Closed	0.4452662037037037	Leakage	7/24/2023	7/28/2023	4.0	Giza	Dokki	Website
+409	Broken water pipe flooding street at Jayanagar	water	BWSSB	Critical	Pending	0.06739583333333334	No Water	6/4/2024			Cairo	Heliopolis	Call Center
+410	No water supply in MG Road since 7 days	water	BWSSB	High	Closed	0.9001388888888889	Low Pressure	2/15/2024	2/19/2024	4.0	Giza	Mohandessin	Mobile App
+411	Water leakage reported at MG Road	water	BWSSB	Critical	Closed	0.2440625	Leakage	4/24/2024	4/26/2024	5.0	Giza	Haram	Mobile App
+412	Broken water pipe flooding street at MG Road	water	BWSSB	Critical	Pending	0.002939814814814815	Leakage	9/24/2023			Cairo	Maadi	Mobile App
+413	Broken water pipe flooding street at Yelahanka	water	BWSSB	Critical	Closed	0.9934259259259259	No Water	1/15/2025	1/23/2025	2.0	Giza	Mohandessin	Website
+414	No water supply in Malleshwaram since 10 days	water	BWSSB	Critical	Closed	0.7101388888888889	No Water	6/15/2024	6/17/2024	5.0	Cairo	Maadi	Call Center
+415	Water leakage reported at Koramangala	water	BWSSB	Critical	Closed	0.44327546296296294	No Water	1/23/2024	1/24/2024	5.0	Giza	Mohandessin	Mobile App
+416	No water supply in Jayanagar since 10 days	water	BWSSB	High	In Progress	0.6817013888888889	Leakage	4/20/2024			Giza	Haram	Mobile App
+417	Water contamination issue at Yelahanka	water	BWSSB	High	Closed	0.31863425925925926	Low Pressure	2/27/2025	3/7/2025	2.0	Giza	Dokki	Call Center
+418	No water supply in Jayanagar since 3 days	water	BWSSB	High	Pending	0.23282407407407407	Leakage	5/3/2025			Cairo	Nasr City	Call Center
+419	Broken water pipe flooding street at Indiranagar	water	BWSSB	High	Closed	0.4021296296296296	No Water	5/22/2023	5/29/2023	2.0	Cairo	Nasr City	Call Center
+420	Broken water pipe flooding street at BTM Layout	water	BWSSB	Critical	In Progress	0.3366087962962963	No Water	5/21/2023			Cairo	Heliopolis	Website
+421	Water leakage reported at BTM Layout	water	BWSSB	High	Closed	0.6789236111111111	Low Pressure	1/13/2025	1/17/2025	4.0	Giza	Mohandessin	Mobile App
+422	Broken water pipe flooding street at Whitefield	water	BWSSB	High	Closed	0.016840277777777777	Leakage	9/22/2023	9/29/2023	2.0	Giza	Haram	Call Center
+423	Broken water pipe flooding street at Yelahanka	water	BWSSB	High	In Progress	0.5060185185185185	Low Pressure	11/1/2025			Giza	Haram	Mobile App
+424	No water supply in BTM Layout since 7 days	water	BWSSB	High	Closed	0.9022569444444445	Low Pressure	8/16/2024	8/17/2024	5.0	Cairo	Heliopolis	Mobile App
+425	Water contamination issue at Whitefield	water	BWSSB	Critical	Closed	0.903912037037037	Leakage	2/26/2025	2/28/2025	5.0	Cairo	Heliopolis	Website
+426	Water leakage reported at Indiranagar	water	BWSSB	Critical	Closed	0.11652777777777777	Leakage	2/15/2023	2/24/2023	1.0	Cairo	Nasr City	Call Center
+427	Water leakage reported at Malleshwaram	water	BWSSB	Critical	Closed	0.5176504629629629	Low Pressure	10/29/2024	11/1/2024	4.0	Giza	Dokki	Website
+428	Water leakage reported at BTM Layout	water	BWSSB	Critical	In Progress	0.7215856481481482	Low Pressure	10/29/2025			Giza	Dokki	Mobile App
+429	Water contamination issue at MG Road	water	BWSSB	Critical	Closed	0.8458333333333333	Low Pressure	5/24/2023	5/27/2023	4.0	Cairo	Nasr City	Mobile App
+430	Water leakage reported at Jayanagar	water	BWSSB	Critical	Closed	0.6633796296296296	No Water	5/6/2023	5/11/2023	3.0	Giza	Dokki	Mobile App
+431	No water supply in Yelahanka since 4 days	water	BWSSB	Critical	Closed	0.3789236111111111	Leakage	1/2/2024	1/4/2024	5.0	Giza	Dokki	Mobile App
+432	No water supply in Malleshwaram since 6 days	water	BWSSB	High	In Progress	0.30408564814814815	No Water	5/14/2023			Giza	Dokki	Mobile App
+433	Water contamination issue at Whitefield	water	BWSSB	Critical	Closed	0.12725694444444444	No Water	9/4/2023	9/7/2023	4.0	Giza	Mohandessin	Call Center
+434	Water contamination issue at Yelahanka	water	BWSSB	High	Closed	0.5145601851851852	No Water	12/7/2025	12/14/2025	2.0	Giza	Dokki	Mobile App
+435	No water supply in Whitefield since 7 days	water	BWSSB	Critical	In Progress	0.14082175925925927	Leakage	11/6/2023			Giza	Haram	Mobile App
+436	No water supply in Jayanagar since 1 days	water	BWSSB	High	Closed	0.47675925925925927	No Water	4/1/2025	4/7/2025	3.0	Giza	Mohandessin	Call Center
+437	No water supply in Whitefield since 8 days	water	BWSSB	High	Pending	0.2116898148148148	Leakage	6/4/2024			Giza	Mohandessin	Mobile App
+438	Water leakage reported at Jayanagar	water	BWSSB	Critical	Pending	0.02171296296296296	Low Pressure	11/19/2024			Giza	Dokki	Call Center
+439	Water contamination issue at Indiranagar	water	BWSSB	Critical	Closed	0.15856481481481483	Low Pressure	4/2/2024	4/10/2024	2.0	Cairo	Nasr City	Mobile App
+440	Broken water pipe flooding street at Yelahanka	water	BWSSB	Critical	In Progress	0.5923263888888889	Leakage	8/6/2023			Cairo	Nasr City	Call Center
+441	Broken water pipe flooding street at Yelahanka	water	BWSSB	Critical	Pending	0.7983912037037038	No Water	1/19/2024			Giza	Mohandessin	Website
+442	No water supply in Jayanagar since 5 days	water	BWSSB	High	Closed	0.46091435185185187	Leakage	3/11/2025	3/20/2025	1.0	Giza	Dokki	Mobile App
+443	Water contamination issue at Jayanagar	water	BWSSB	High	In Progress	0.008946759259259258	Leakage	6/3/2025			Cairo	Nasr City	Website
+444	No water supply in Koramangala since 10 days	water	BWSSB	High	Closed	0.6531018518518519	Leakage	11/14/2024	11/16/2024	5.0	Cairo	Maadi	Website
+445	Broken water pipe flooding street at MG Road	water	BWSSB	High	Closed	0.9074305555555555	Low Pressure	3/28/2024	4/3/2024	3.0	Giza	Mohandessin	Mobile App
+446	Water contamination issue at Malleshwaram	water	BWSSB	High	Closed	0.01875	No Water	6/26/2025	6/28/2025	5.0	Giza	Dokki	Call Center
+447	Water leakage reported at Malleshwaram	water	BWSSB	High	Closed	0.8658912037037036	Leakage	12/30/2025	12/31/2025	5.0	Cairo	Maadi	Website
+448	No water supply in Malleshwaram since 5 days	water	BWSSB	Critical	Closed	0.8922453703703703	Low Pressure	7/15/2023	7/18/2023	4.0	Giza	Haram	Mobile App
+449	Water contamination issue at Indiranagar	water	BWSSB	Critical	Closed	0.5271064814814815	No Water	2/2/2024	2/4/2024	5.0	Cairo	Heliopolis	Website
+450	Water contamination issue at BTM Layout	water	BWSSB	Critical	Closed	0.8667824074074074	Low Pressure	4/5/2025	4/6/2025	5.0	Cairo	Nasr City	Mobile App
+451	No water supply in Yelahanka since 3 days	water	BWSSB	High	Closed	0.18383101851851852	No Water	3/24/2025	3/27/2025	4.0	Giza	Dokki	Call Center
+452	Broken water pipe flooding street at Malleshwaram	water	BWSSB	High	In Progress	0.23943287037037037	Leakage	5/23/2023			Cairo	Nasr City	Mobile App
+453	Water contamination issue at Indiranagar	water	BWSSB	High	Closed	0.5477083333333334	Low Pressure	12/1/2024	12/9/2024	2.0	Cairo	Nasr City	Mobile App
+454	Water leakage reported at Jayanagar	water	BWSSB	High	Pending	0.11126157407407407	Leakage	1/28/2024			Cairo	Maadi	Website
+455	Water contamination issue at Jayanagar	water	BWSSB	High	Pending	0.43997685185185187	No Water	12/11/2023			Giza	Mohandessin	Call Center
+456	Broken water pipe flooding street at Malleshwaram	water	BWSSB	Critical	Closed	0.7986458333333334	No Water	6/23/2023	6/29/2023	3.0	Cairo	Heliopolis	Call Center
+457	Water contamination issue at MG Road	water	BWSSB	High	Closed	0.31561342592592595	Leakage	8/20/2024	8/24/2024	4.0	Giza	Dokki	Website
+458	No water supply in Indiranagar since 2 days	water	BWSSB	Critical	Closed	0.9725462962962963	Low Pressure	11/18/2023	11/19/2023	5.0	Giza	Mohandessin	Mobile App
+459	Water contamination issue at MG Road	water	BWSSB	Critical	Closed	0.2653240740740741	Leakage	2/17/2023	2/22/2023	3.0	Giza	Haram	Mobile App
+460	Water leakage reported at Yelahanka	water	BWSSB	Critical	Closed	0.1256712962962963	No Water	11/17/2025	11/19/2025	5.0	Cairo	Heliopolis	Call Center
+461	Water leakage reported at Indiranagar	water	BWSSB	High	Pending	0.027291666666666665	Low Pressure	12/12/2023			Giza	Haram	Website
+462	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	In Progress	0.9914120370370371	Leakage	11/10/2024			Giza	Dokki	Website
+463	Broken water pipe flooding street at Jayanagar	water	BWSSB	Critical	In Progress	0.20922453703703703	Low Pressure	11/28/2023			Giza	Dokki	Call Center
+464	Water leakage reported at BTM Layout	water	BWSSB	Critical	In Progress	0.449525462962963	No Water	1/21/2025			Giza	Haram	Mobile App
+465	Water contamination issue at Malleshwaram	water	BWSSB	High	Closed	0.8923611111111112	No Water	4/2/2024	4/9/2024	2.0	Cairo	Maadi	Mobile App
+466	Water contamination issue at BTM Layout	water	BWSSB	Critical	In Progress	0.40542824074074074	Low Pressure	12/24/2024			Giza	Dokki	Website
+467	Water leakage reported at Malleshwaram	water	BWSSB	Critical	In Progress	0.8059722222222222	Low Pressure	3/22/2023			Cairo	Maadi	Website
+468	No water supply in Yelahanka since 10 days	water	BWSSB	High	Pending	0.6730092592592593	Leakage	7/8/2024			Giza	Mohandessin	Call Center
+469	Broken water pipe flooding street at Indiranagar	water	BWSSB	Critical	Closed	0.7357986111111111	Leakage	9/12/2025	9/14/2025	5.0	Giza	Haram	Mobile App
+470	No water supply in Koramangala since 9 days	water	BWSSB	Critical	Closed	0.5547222222222222	No Water	3/3/2025	3/11/2025	2.0	Cairo	Nasr City	Mobile App
+471	Broken water pipe flooding street at BTM Layout	water	BWSSB	High	Closed	0.567025462962963	No Water	1/25/2025	2/1/2025	2.0	Cairo	Nasr City	Mobile App
+472	Broken water pipe flooding street at Koramangala	water	BWSSB	High	Pending	0.7368634259259259	Leakage	8/15/2025			Cairo	Nasr City	Call Center
+473	No water supply in Jayanagar since 9 days	water	BWSSB	Critical	Pending	0.9759027777777778	No Water	3/30/2025			Giza	Haram	Call Center
+474	Water contamination issue at Whitefield	water	BWSSB	High	Closed	0.13155092592592593	Leakage	9/15/2025	9/23/2025	2.0	Cairo	Heliopolis	Mobile App
+475	Broken water pipe flooding street at Yelahanka	water	BWSSB	Critical	Closed	0.5986458333333333	Low Pressure	4/30/2025	5/1/2025	5.0	Giza	Dokki	Mobile App
+476	Water leakage reported at BTM Layout	water	BWSSB	High	Pending	0.490787037037037	Low Pressure	9/27/2024			Giza	Mohandessin	Mobile App
+477	Water contamination issue at MG Road	water	BWSSB	Critical	In Progress	0.042847222222222224	No Water	7/26/2025			Giza	Dokki	Call Center
+478	Water leakage reported at Koramangala	water	BWSSB	High	Closed	0.5918518518518519	No Water	5/18/2023	5/25/2023	2.0	Cairo	Maadi	Mobile App
+479	Water leakage reported at MG Road	water	BWSSB	Critical	Closed	0.022430555555555554	Leakage	11/28/2025	12/1/2025	4.0	Cairo	Nasr City	Call Center
+480	Water leakage reported at Indiranagar	water	BWSSB	High	Closed	0.7020601851851852	Low Pressure	2/7/2024	2/9/2024	5.0	Cairo	Heliopolis	Mobile App
+481	No water supply in Whitefield since 8 days	water	BWSSB	Critical	In Progress	0.28672453703703704	Low Pressure	10/3/2024			Cairo	Nasr City	Website
+482	Water leakage reported at Koramangala	water	BWSSB	High	Closed	0.5637847222222222	Low Pressure	4/10/2025	4/18/2025	2.0	Cairo	Heliopolis	Mobile App
+483	Broken water pipe flooding street at Malleshwaram	water	BWSSB	High	Closed	0.9049884259259259	Low Pressure	5/19/2025	5/21/2025	5.0	Giza	Mohandessin	Call Center
+484	Water contamination issue at Yelahanka	water	BWSSB	High	Closed	0.25850694444444444	Leakage	4/5/2023	4/14/2023	1.0	Cairo	Maadi	Website
+485	No water supply in Koramangala since 3 days	water	BWSSB	Critical	In Progress	0.7837962962962963	No Water	11/20/2025			Giza	Mohandessin	Mobile App
+486	Water contamination issue at Koramangala	water	BWSSB	High	Closed	0.20600694444444445	No Water	11/18/2023	11/24/2023	3.0	Giza	Haram	Call Center
+487	No water supply in Yelahanka since 7 days	water	BWSSB	High	Closed	0.4336689814814815	Low Pressure	10/11/2025	10/18/2025	2.0	Cairo	Maadi	Website
+488	Water contamination issue at MG Road	water	BWSSB	High	Closed	0.33708333333333335	No Water	8/21/2024	8/22/2024	5.0	Cairo	Heliopolis	Call Center
+489	Broken water pipe flooding street at Koramangala	water	BWSSB	Critical	Closed	0.7798495370370371	Low Pressure	7/14/2023	7/16/2023	5.0	Giza	Mohandessin	Website
+490	Water contamination issue at Koramangala	water	BWSSB	High	Closed	0.14699074074074073	Low Pressure	9/4/2024	9/13/2024	1.0	Cairo	Heliopolis	Mobile App
+491	Water leakage reported at Jayanagar	water	BWSSB	High	In Progress	0.9296412037037037	No Water	6/24/2023			Cairo	Nasr City	Mobile App
+492	Water leakage reported at BTM Layout	water	BWSSB	Critical	Closed	0.8317939814814815	Low Pressure	7/21/2024	7/22/2024	5.0	Cairo	Maadi	Mobile App
+493	Water leakage reported at Whitefield	water	BWSSB	Critical	In Progress	0.6899305555555556	Low Pressure	10/21/2024			Giza	Haram	Website
+494	Water leakage reported at Indiranagar	water	BWSSB	Critical	In Progress	0.009259259259259259	Low Pressure	11/11/2024			Cairo	Nasr City	Mobile App
+495	No water supply in Whitefield since 7 days	water	BWSSB	High	Closed	0.009305555555555555	Leakage	6/22/2024	6/26/2024	4.0	Giza	Mohandessin	Mobile App
+496	Water contamination issue at MG Road	water	BWSSB	Critical	Closed	0.8967013888888888	Leakage	8/19/2025	8/24/2025	3.0	Giza	Mohandessin	Mobile App
