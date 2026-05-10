@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="GarbageIssues"
   DTS:PackageType="5"
-  DTS:VersionBuild="25"
-  DTS:VersionGUID="{C16A34ED-FBF7-4D3B-B29A-84F0F5D416E3}">
+  DTS:VersionBuild="29"
+  DTS:VersionGUID="{AAE77F03-ED3C-45A5-AEB7-42423FE8B3E9}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -26,6 +26,18 @@
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
           DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.16.0;Data Source=D:\DSS\DataSets\4_File_Issues\GarbageIssuesDataset.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Excel Connection Manager 1]"
+      DTS:CreationName="EXCEL"
+      DTS:DTSID="{DCA2584A-07A8-47FF-8D42-CD32AEC41E34}"
+      DTS:ObjectName="Excel Connection Manager 1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="0"
+          DTS:ConnectRetryInterval="0"
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\DSS\DataSets\4_File_Issues\GarbageIssuesDataset.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
@@ -379,7 +391,7 @@ where [refTable].[FullDate] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\GarbageIssues\547:invalid};</property>
+                  name="ParameterMap">#{Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[max_resolution_days]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -494,16 +506,21 @@ where [refTable].[FullDate] = ?</property>
                   name="Data Conversion Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\GarbageIssues\Data Conversion.Inputs[Data Conversion Input].Columns[closed_date]"
-                      cachedDataType="date"
-                      cachedName="closed_date"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[closed_date]" />
-                    <inputColumn
                       refId="Package\GarbageIssues\Data Conversion.Inputs[Data Conversion Input].Columns[Created_date]"
                       cachedDataType="wstr"
                       cachedLength="255"
                       cachedName="Created_date"
                       lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[Created_date]" />
+                    <inputColumn
+                      refId="Package\GarbageIssues\Data Conversion.Inputs[Data Conversion Input].Columns[closed_date]"
+                      cachedDataType="date"
+                      cachedName="closed_date"
+                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[closed_date]" />
+                    <inputColumn
+                      refId="Package\GarbageIssues\Data Conversion.Inputs[Data Conversion Input].Columns[max_resolution_days]"
+                      cachedDataType="r8"
+                      cachedName="max_resolution_days"
+                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[max_resolution_days]" />
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
@@ -515,6 +532,27 @@ where [refTable].[FullDate] = ?</property>
                   name="Data Conversion Output"
                   synchronousInputId="Package\GarbageIssues\Data Conversion.Inputs[Data Conversion Input]">
                   <outputColumns>
+                    <outputColumn
+                      refId="Package\GarbageIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Created_date]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="RedirectRow"
+                      length="300"
+                      lineageId="Package\GarbageIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Created_date]"
+                      name="Copy of Created_date"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[Created_date]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
                     <outputColumn
                       refId="Package\GarbageIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of closed_date]"
                       dataType="wstr"
@@ -537,20 +575,19 @@ where [refTable].[FullDate] = ?</property>
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\GarbageIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Created_date]"
-                      dataType="wstr"
+                      refId="Package\GarbageIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]"
+                      dataType="i4"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="RedirectRow"
-                      length="300"
-                      lineageId="Package\GarbageIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Created_date]"
-                      name="Copy of Created_date"
+                      lineageId="Package\GarbageIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]"
+                      name="Copy of max_resolution_days"
                       truncationRowDisposition="FailComponent">
                       <properties>
                         <property
                           containsID="true"
                           dataType="System.Int32"
                           description="Specifies the input column used as the source of data for the conversion."
-                          name="SourceInputColumnLineageID">#{Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[Created_date]}</property>
+                          name="SourceInputColumnLineageID">#{Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[max_resolution_days]}</property>
                         <property
                           dataType="System.Boolean"
                           description="Indicates whether the column uses the faster, locale-neutral parsing routines."
@@ -641,7 +678,7 @@ where [refTable].[Department] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\GarbageIssues\548:invalid};</property>
+                  name="ParameterMap">#{Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[max_resolution_days]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -758,7 +795,7 @@ where [refTable].[Department] = ?</property>
                 <property
                   dataType="System.String"
                   description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">GarbageDataset$ExternalData_4</property>
+                  name="OpenRowset">Table1_4$ExternalData_5</property>
                 <property
                   dataType="System.String"
                   description="Specifies the variable that contains the name of the database object used to open a rowset."
@@ -785,8 +822,8 @@ where [refTable].[Department] = ?</property>
               <connections>
                 <connection
                   refId="Package\GarbageIssues\GarbageIssue.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[Excel Connection Manager]"
-                  connectionManagerRefId="Package.ConnectionManagers[Excel Connection Manager]"
+                  connectionManagerID="Package.ConnectionManagers[Excel Connection Manager 1]"
+                  connectionManagerRefId="Package.ConnectionManagers[Excel Connection Manager 1]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -902,35 +939,6 @@ where [refTable].[Department] = ?</property>
                       name="satisfaction_score"
                       truncationRowDisposition="FailComponent" />
                     <outputColumn
-                      refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[citizen_id]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[citizen_id]"
-                      length="255"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[citizen_id]"
-                      name="citizen_id"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[age]"
-                      dataType="r8"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[age]"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[age]"
-                      name="age"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[gender]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[gender]"
-                      length="255"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[gender]"
-                      name="gender"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
                       refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[city]"
                       dataType="wstr"
                       errorOrTruncationOperation="Conversion"
@@ -959,6 +967,15 @@ where [refTable].[Department] = ?</property>
                       length="255"
                       lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[submission_channel]"
                       name="submission_channel"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[max_resolution_days]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[max_resolution_days]"
+                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[max_resolution_days]"
+                      name="max_resolution_days"
                       truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
@@ -1003,8 +1020,7 @@ where [refTable].[Department] = ?</property>
                       name="created_time" />
                     <externalMetadataColumn
                       refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[Created_date]"
-                      dataType="wstr"
-                      length="255"
+                      dataType="r8"
                       name="Created_date" />
                     <externalMetadataColumn
                       refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[closed_date]"
@@ -1014,20 +1030,6 @@ where [refTable].[Department] = ?</property>
                       refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[satisfaction_score]"
                       dataType="r8"
                       name="satisfaction_score" />
-                    <externalMetadataColumn
-                      refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[citizen_id]"
-                      dataType="wstr"
-                      length="255"
-                      name="citizen_id" />
-                    <externalMetadataColumn
-                      refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[age]"
-                      dataType="r8"
-                      name="age" />
-                    <externalMetadataColumn
-                      refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[gender]"
-                      dataType="wstr"
-                      length="255"
-                      name="gender" />
                     <externalMetadataColumn
                       refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[city]"
                       dataType="wstr"
@@ -1043,6 +1045,10 @@ where [refTable].[Department] = ?</property>
                       dataType="wstr"
                       length="255"
                       name="submission_channel" />
+                    <externalMetadataColumn
+                      refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].ExternalColumns[max_resolution_days]"
+                      dataType="r8"
+                      name="max_resolution_days" />
                   </externalMetadataColumns>
                 </output>
                 <output
@@ -1098,8 +1104,7 @@ where [refTable].[Department] = ?</property>
                       name="created_time" />
                     <outputColumn
                       refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[Created_date]"
-                      dataType="wstr"
-                      length="255"
+                      dataType="r8"
                       lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[Created_date]"
                       name="Created_date" />
                     <outputColumn
@@ -1112,23 +1117,6 @@ where [refTable].[Department] = ?</property>
                       dataType="r8"
                       lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[satisfaction_score]"
                       name="satisfaction_score" />
-                    <outputColumn
-                      refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[citizen_id]"
-                      dataType="wstr"
-                      length="255"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[citizen_id]"
-                      name="citizen_id" />
-                    <outputColumn
-                      refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[age]"
-                      dataType="r8"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[age]"
-                      name="age" />
-                    <outputColumn
-                      refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[gender]"
-                      dataType="wstr"
-                      length="255"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[gender]"
-                      name="gender" />
                     <outputColumn
                       refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[city]"
                       dataType="wstr"
@@ -1147,6 +1135,11 @@ where [refTable].[Department] = ?</property>
                       length="255"
                       lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[submission_channel]"
                       name="submission_channel" />
+                    <outputColumn
+                      refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[max_resolution_days]"
+                      dataType="r8"
+                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[max_resolution_days]"
+                      name="max_resolution_days" />
                     <outputColumn
                       refId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[ErrorCode]"
                       dataType="i4"
@@ -1443,7 +1436,7 @@ where [refTable].[issue_type] = ? and [refTable].[subcategory] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\GarbageIssues\549:invalid};#{Package\GarbageIssues\550:invalid};</property>
+                  name="ParameterMap">#{Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Error Output].Columns[max_resolution_days]};#{Package\GarbageIssues\552:invalid};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -1783,7 +1776,7 @@ where [refTable].[city] = ? and [refTable].[district] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\GarbageIssues\551:invalid};#{Package\GarbageIssues\552:invalid};</property>
+                  name="ParameterMap">#{Package\GarbageIssues\553:invalid};#{Package\GarbageIssues\554:invalid};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -1959,7 +1952,7 @@ where [refTable].[pripority] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\GarbageIssues\553:invalid};</property>
+                  name="ParameterMap">#{Package\GarbageIssues\555:invalid};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -2315,19 +2308,6 @@ where [refTable].[submission_channel] = ?</property>
                   name="Union All Input 1">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 1].Columns[complaint_id]"
-                      cachedDataType="r8"
-                      cachedName="complaint_id"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[complaint_id]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[complaint_id]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
                       refId="Package\GarbageIssues\Union All.Inputs[Union All Input 1].Columns[text_description]"
                       cachedDataType="wstr"
                       cachedLength="255"
@@ -2465,75 +2445,6 @@ where [refTable].[submission_channel] = ?</property>
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 1].Columns[citizen_id]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="citizen_id"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[citizen_id]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[citizen_id]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 1].Columns[age]"
-                      cachedDataType="r8"
-                      cachedName="age"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[age]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[age]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 1].Columns[gender]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="gender"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[gender]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[gender]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 1].Columns[city]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="city"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[city]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[city]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 1].Columns[district]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="district"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[district]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[district]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
                       refId="Package\GarbageIssues\Union All.Inputs[Union All Input 1].Columns[submission_channel]"
                       cachedDataType="wstr"
                       cachedLength="255"
@@ -2603,6 +2514,47 @@ where [refTable].[submission_channel] = ?</property>
                           name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[Transformed_Created_Date]}</property>
                       </properties>
                     </inputColumn>
+                    <inputColumn
+                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 1].Columns[district]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="district"
+                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[district]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[district]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 1].Columns[city]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="city"
+                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[city]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[city]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 1].Columns[max_resolution_days]"
+                      cachedDataType="r8"
+                      cachedName="max_resolution_days"
+                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[max_resolution_days]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[max_resolution_days]}</property>
+                      </properties>
+                    </inputColumn>
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
@@ -2611,19 +2563,6 @@ where [refTable].[submission_channel] = ?</property>
                   hasSideEffects="true"
                   name="Union All Input 2">
                   <inputColumns>
-                    <inputColumn
-                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 2].Columns[complaint_id]"
-                      cachedDataType="r8"
-                      cachedName="complaint_id"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[complaint_id]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[complaint_id]}</property>
-                      </properties>
-                    </inputColumn>
                     <inputColumn
                       refId="Package\GarbageIssues\Union All.Inputs[Union All Input 2].Columns[text_description]"
                       cachedDataType="wstr"
@@ -2762,75 +2701,6 @@ where [refTable].[submission_channel] = ?</property>
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 2].Columns[citizen_id]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="citizen_id"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[citizen_id]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[citizen_id]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 2].Columns[age]"
-                      cachedDataType="r8"
-                      cachedName="age"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[age]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[age]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 2].Columns[gender]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="gender"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[gender]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[gender]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 2].Columns[city]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="city"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[city]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[city]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 2].Columns[district]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="district"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[district]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[district]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
                       refId="Package\GarbageIssues\Union All.Inputs[Union All Input 2].Columns[submission_channel]"
                       cachedDataType="wstr"
                       cachedLength="255"
@@ -2900,6 +2770,47 @@ where [refTable].[submission_channel] = ?</property>
                           name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[Transformed_Created_Date]}</property>
                       </properties>
                     </inputColumn>
+                    <inputColumn
+                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 2].Columns[district]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="district"
+                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[district]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[district]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 2].Columns[city]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="city"
+                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[city]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[city]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\GarbageIssues\Union All.Inputs[Union All Input 2].Columns[max_resolution_days]"
+                      cachedDataType="r8"
+                      cachedName="max_resolution_days"
+                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[max_resolution_days]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[max_resolution_days]}</property>
+                      </properties>
+                    </inputColumn>
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
@@ -2916,11 +2827,6 @@ where [refTable].[submission_channel] = ?</property>
                   refId="Package\GarbageIssues\Union All.Outputs[Union All Output 1]"
                   name="Union All Output 1">
                   <outputColumns>
-                    <outputColumn
-                      refId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[complaint_id]"
-                      dataType="r8"
-                      lineageId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[complaint_id]"
-                      name="complaint_id" />
                     <outputColumn
                       refId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[text_description]"
                       dataType="wstr"
@@ -2979,23 +2885,6 @@ where [refTable].[submission_channel] = ?</property>
                       lineageId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[satisfaction_score]"
                       name="satisfaction_score" />
                     <outputColumn
-                      refId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[citizen_id]"
-                      dataType="wstr"
-                      length="255"
-                      lineageId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[citizen_id]"
-                      name="citizen_id" />
-                    <outputColumn
-                      refId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[age]"
-                      dataType="r8"
-                      lineageId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[age]"
-                      name="age" />
-                    <outputColumn
-                      refId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[gender]"
-                      dataType="wstr"
-                      length="255"
-                      lineageId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[gender]"
-                      name="gender" />
-                    <outputColumn
                       refId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[city]"
                       dataType="wstr"
                       length="255"
@@ -3037,6 +2926,11 @@ where [refTable].[submission_channel] = ?</property>
                       length="10"
                       lineageId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[Transformed_Created_Date]"
                       name="Transformed_Created_Date" />
+                    <outputColumn
+                      refId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[max_resolution_days]"
+                      dataType="r8"
+                      lineageId="Package\GarbageIssues\Union All.Outputs[Union All Output 1].Columns[max_resolution_days]"
+                      name="max_resolution_days" />
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
@@ -3050,13 +2944,6 @@ where [refTable].[submission_channel] = ?</property>
               name="Union All 1"
               version="1">
               <inputs>
-                <input
-                  refId="Package\GarbageIssues\Union All 1.Inputs[Union All Input 2]"
-                  dangling="true"
-                  hasSideEffects="true"
-                  name="Union All Input 2">
-                  <externalMetadataColumns />
-                </input>
                 <input
                   refId="Package\GarbageIssues\Union All 1.Inputs[Union All Input 1]"
                   name="Union All Input 1">
@@ -3212,47 +3099,6 @@ where [refTable].[submission_channel] = ?</property>
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\GarbageIssues\Union All 1.Inputs[Union All Input 1].Columns[citizen_id]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="citizen_id"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[citizen_id]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[citizen_id]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\GarbageIssues\Union All 1.Inputs[Union All Input 1].Columns[age]"
-                      cachedDataType="r8"
-                      cachedName="age"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[age]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[age]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
-                      refId="Package\GarbageIssues\Union All 1.Inputs[Union All Input 1].Columns[gender]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="gender"
-                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[gender]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[gender]}</property>
-                      </properties>
-                    </inputColumn>
-                    <inputColumn
                       refId="Package\GarbageIssues\Union All 1.Inputs[Union All Input 1].Columns[city]"
                       cachedDataType="wstr"
                       cachedLength="255"
@@ -3295,6 +3141,19 @@ where [refTable].[submission_channel] = ?</property>
                       </properties>
                     </inputColumn>
                     <inputColumn
+                      refId="Package\GarbageIssues\Union All 1.Inputs[Union All Input 1].Columns[max_resolution_days]"
+                      cachedDataType="r8"
+                      cachedName="max_resolution_days"
+                      lineageId="Package\GarbageIssues\GarbageIssue.Outputs[Excel Source Output].Columns[max_resolution_days]">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Output column lineage ID"
+                          name="OutputColumnLineageID">#{Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[max_resolution_days]}</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
                       refId="Package\GarbageIssues\Union All 1.Inputs[Union All Input 1].Columns[ErrorCode]"
                       cachedDataType="i4"
                       cachedName="ErrorCode"
@@ -3321,6 +3180,13 @@ where [refTable].[submission_channel] = ?</property>
                       </properties>
                     </inputColumn>
                   </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+                <input
+                  refId="Package\GarbageIssues\Union All 1.Inputs[Union All Input 2]"
+                  dangling="true"
+                  hasSideEffects="true"
+                  name="Union All Input 2">
                   <externalMetadataColumns />
                 </input>
               </inputs>
@@ -3392,23 +3258,6 @@ where [refTable].[submission_channel] = ?</property>
                       lineageId="Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[satisfaction_score]"
                       name="satisfaction_score" />
                     <outputColumn
-                      refId="Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[citizen_id]"
-                      dataType="wstr"
-                      length="255"
-                      lineageId="Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[citizen_id]"
-                      name="citizen_id" />
-                    <outputColumn
-                      refId="Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[age]"
-                      dataType="r8"
-                      lineageId="Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[age]"
-                      name="age" />
-                    <outputColumn
-                      refId="Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[gender]"
-                      dataType="wstr"
-                      length="255"
-                      lineageId="Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[gender]"
-                      name="gender" />
-                    <outputColumn
                       refId="Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[city]"
                       dataType="wstr"
                       length="255"
@@ -3426,6 +3275,11 @@ where [refTable].[submission_channel] = ?</property>
                       length="255"
                       lineageId="Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[submission_channel]"
                       name="submission_channel" />
+                    <outputColumn
+                      refId="Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[max_resolution_days]"
+                      dataType="r8"
+                      lineageId="Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[max_resolution_days]"
+                      name="max_resolution_days" />
                     <outputColumn
                       refId="Package\GarbageIssues\Union All 1.Outputs[Union All Output 1].Columns[ErrorCode]"
                       dataType="i4"
@@ -3557,10 +3411,6 @@ where [refTable].[submission_channel] = ?</property>
           Id="Package\GarbageIssues\GarbageIssue"
           TopLeft="48.6848073598729,94.5443509908912" />
         <NodeLayout
-          Size="195.2,44.8"
-          Id="Package\GarbageIssues\Data Conversion"
-          TopLeft="272.970522123032,96.8384686359389" />
-        <NodeLayout
           Size="172,41.6"
           Id="Package\GarbageIssues\Pripority"
           TopLeft="64.4180166644989,390.027310582495" />
@@ -3592,10 +3442,6 @@ where [refTable].[submission_channel] = ?</property>
           Size="120,41.6"
           Id="Package\GarbageIssues\Union All"
           TopLeft="795.493198972307,242.645424623914" />
-        <NodeLayout
-          Size="129.6,41.6"
-          Id="Package\GarbageIssues\Union All 1"
-          TopLeft="299.557823766932,20.1129785071134" />
         <NodeLayout
           Size="156,42.4"
           Id="Package\GarbageIssues\Departments"
@@ -3754,7 +3600,7 @@ where [refTable].[submission_channel] = ?</property>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,5.65228343864464,96.3827734375,11.609375"
+              BoundingBox="-48.19138671875,5.65228343864465,96.3827734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -3879,28 +3725,6 @@ where [refTable].[submission_channel] = ?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\GarbageIssues.Paths[Excel Source Output]"
-          TopLeft="238.284807359873,118.291409813415">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="34.6857147631593,0"
-              Start="0,0"
-              End="27.1857147631593,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="27.1857147631593,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
           Id="Package\GarbageIssues.Paths[Derived Column Output2]"
           TopLeft="909.002516771405,207.568763117403">
           <EdgeLayout.Curve>
@@ -3990,20 +3814,24 @@ where [refTable].[submission_channel] = ?</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="155.2,41.6"
+          Id="Package\GarbageIssues\Data Conversion"
+          TopLeft="298.507937094184,100.261437820614" />
         <EdgeLayout
-          Id="Package\GarbageIssues.Paths[Data Conversion Output]"
-          TopLeft="468.170522123032,119.712978438743">
+          Id="Package\GarbageIssues.Paths[Excel Source Output]"
+          TopLeft="238.284807359873,119.202894405752">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="26.1492068204008,0"
+              EndConnector="60.223129734311,0"
               Start="0,0"
-              End="18.6492068204008,0">
+              End="52.723129734311,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="18.6492068204008,0" />
+                    End="52.723129734311,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4013,26 +3841,64 @@ where [refTable].[submission_channel] = ?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\GarbageIssues.Paths[Data Conversion Error Output]"
-          TopLeft="367.464172944982,96.8384686359389">
+          Id="Package\GarbageIssues.Paths[Data Conversion Output]"
+          TopLeft="453.707937094184,120.624463031081">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,-35.1254901288255"
+              EndConnector="40.6117918492491,0"
               Start="0,0"
-              End="0,-27.6254901288255">
+              End="33.1117918492491,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,-27.6254901288255" />
+                    End="33.1117918492491,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="156,41.6"
+          Id="Package\GarbageIssues\Union All 1"
+          TopLeft="296.126984708163,42.4836600934803" />
+        <EdgeLayout
+          Id="Package\GarbageIssues.Paths[Data Conversion Error Output]"
+          TopLeft="453.707937094184,115.461437820614">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-1.5809523860209,-52.1777777271333"
+              Start="0,0"
+              End="5.9190476139791,-52.1777777271333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="18.5,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="18.5,0"
+                    Point2="22.5,0"
+                    Point3="22.5,-4" />
+                  <mssgle:LineSegment
+                    End="22.5,-48.1777777271333" />
+                  <mssgle:CubicBezierSegment
+                    Point1="22.5,-48.1777777271333"
+                    Point2="22.5,-52.1777777271333"
+                    Point3="18.5,-52.1777777271333" />
+                  <mssgle:LineSegment
+                    End="5.9190476139791,-52.1777777271333" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-66.08638671875,-19.5295419394127,132.1727734375,11.43359375"
+              BoundingBox="-43.58638671875,1,132.1727734375,11.43359375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>

@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="WaterIssues"
   DTS:PackageType="5"
-  DTS:VersionBuild="33"
-  DTS:VersionGUID="{166AF1A2-7595-44E2-9A9C-7D254F1C7C10}">
+  DTS:VersionBuild="34"
+  DTS:VersionGUID="{64167061-C3B7-40C0-96B9-3B2AAF87011A}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -335,6 +335,161 @@
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Flat File Connection Manager 2]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{047F0F6E-F20B-4400-A5A3-A2A404849EAE}"
+      DTS:ObjectName="Flat File Connection Manager 2">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1033"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="D:\DSS\DataSets\4_File_Issues\WaterIssues_Dataset.txt">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="complaint_id"
+              DTS:DTSID="{4E408FE3-D1AF-4791-8937-5852EF07C3B1}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="text_description"
+              DTS:DTSID="{54A7987D-FA38-4C47-BA0A-36D678DB3D0F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="issue_type"
+              DTS:DTSID="{04717A39-6F9B-4F6E-8ED5-E200ABD4196E}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="department"
+              DTS:DTSID="{A81602C9-EF69-41F9-A91C-F1C78F9F563C}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="priority"
+              DTS:DTSID="{A4021EA9-D9E5-4A48-B64A-C175FE60D097}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="status"
+              DTS:DTSID="{D7F90305-45B4-4091-9D69-DAC2374183B2}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="created_time"
+              DTS:DTSID="{C54507D5-03EE-4D4C-A922-7D6D260A12E6}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="subcategory"
+              DTS:DTSID="{8EDE99C6-3674-4E13-B094-823BF935EF35}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Created_date"
+              DTS:DTSID="{78A53E95-176A-49A7-837D-5840BBD953A9}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="closed_date"
+              DTS:DTSID="{1DA7A6F2-A3E0-458B-8218-D28C8041544D}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="satisfaction_score"
+              DTS:DTSID="{B51217E3-5C99-49D9-B378-174E70B6E686}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="city"
+              DTS:DTSID="{97E7DBE8-53CC-4249-9FBC-C9546BBD7398}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="district"
+              DTS:DTSID="{2CD238BB-6430-4468-8CE7-1E8570AF46C7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="submission_channel"
+              DTS:DTSID="{3F1E145E-3E8A-4BCF-A855-CED05113340F}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="max_resolution_days"
+              DTS:DTSID="{FFACA271-14C9-46C3-B451-C5983538C00D}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
   <DTS:Variables />
   <DTS:Executables>
@@ -409,7 +564,7 @@ where [refTable].[FullDate] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\WaterIssues\548:invalid};</property>
+                  name="ParameterMap">#{Package\WaterIssues\581:invalid};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -773,6 +928,13 @@ where [refTable].[FullDate] = ?</property>
                       cachedLength="50"
                       cachedName="text_description"
                       lineageId="Package\WaterIssues\WaterIssues.Outputs[Flat File Source Output].Columns[text_description]" />
+                    <inputColumn
+                      refId="Package\WaterIssues\Data Conversion.Inputs[Data Conversion Input].Columns[max_resolution_days]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="max_resolution_days"
+                      lineageId="Package\WaterIssues\WaterIssues.Outputs[Flat File Source Output].Columns[max_resolution_days]" />
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
@@ -1050,6 +1212,26 @@ where [refTable].[FullDate] = ?</property>
                           dataType="System.Int32"
                           description="Specifies the input column used as the source of data for the conversion."
                           name="SourceInputColumnLineageID">#{Package\WaterIssues\WaterIssues.Outputs[Flat File Source Output].Columns[text_description]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\WaterIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\WaterIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]"
+                      name="Copy of max_resolution_days"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\WaterIssues\WaterIssues.Outputs[Flat File Source Output].Columns[max_resolution_days]}</property>
                         <property
                           dataType="System.Boolean"
                           description="Indicates whether the column uses the faster, locale-neutral parsing routines."
@@ -1837,7 +2019,7 @@ where [refTable].[city] = ? and [refTable].[district] = ?</property>
                   expressionType="Notify"
                   name="SqlCommandParam"
                   UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[PriporityDim]) [refTable]
-where [refTable].[pripority] = ?</property>
+where [refTable].[pripority] = ? and [refTable].[max_resolution_days] = ?</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the type of connection used to access the reference dataset."
@@ -1873,7 +2055,7 @@ where [refTable].[pripority] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\WaterIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of priority]};</property>
+                  name="ParameterMap">#{Package\WaterIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of priority]};#{Package\WaterIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -1907,6 +2089,22 @@ where [refTable].[pripority] = ?</property>
                           dataType="System.String"
                           description="Specifies the column in the reference table that a column joins."
                           name="JoinToReferenceColumn">pripority</property>
+                        <property
+                          dataType="System.Null"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn" />
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\WaterIssues\Pripority.Inputs[Lookup Input].Columns[Copy of max_resolution_days]"
+                      cachedDataType="i4"
+                      cachedName="Copy of max_resolution_days"
+                      lineageId="Package\WaterIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table that a column joins."
+                          name="JoinToReferenceColumn">max_resolution_days</property>
                         <property
                           dataType="System.Null"
                           description="Specifies the column in the reference table from which a column is copied."
@@ -2644,8 +2842,8 @@ where [refTable].[submission_channel] = ?</property>
               <connections>
                 <connection
                   refId="Package\WaterIssues\WaterIssues.Connections[FlatFileConnection]"
-                  connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager 1]"
-                  connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager 1]"
+                  connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager 2]"
+                  connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager 2]"
                   name="FlatFileConnection" />
               </connections>
               <outputs>
@@ -2961,6 +3159,28 @@ where [refTable].[submission_channel] = ?</property>
                           name="UseBinaryFormat">false</property>
                       </properties>
                     </outputColumn>
+                    <outputColumn
+                      refId="Package\WaterIssues\WaterIssues.Outputs[Flat File Source Output].Columns[max_resolution_days]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\WaterIssues\WaterIssues.Outputs[Flat File Source Output].ExternalColumns[max_resolution_days]"
+                      length="50"
+                      lineageId="Package\WaterIssues\WaterIssues.Outputs[Flat File Source Output].Columns[max_resolution_days]"
+                      name="max_resolution_days"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
                   </outputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -3048,6 +3268,12 @@ where [refTable].[submission_channel] = ?</property>
                       dataType="str"
                       length="50"
                       name="submission_channel" />
+                    <externalMetadataColumn
+                      refId="Package\WaterIssues\WaterIssues.Outputs[Flat File Source Output].ExternalColumns[max_resolution_days]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      name="max_resolution_days" />
                   </externalMetadataColumns>
                 </output>
                 <output
@@ -3166,21 +3392,21 @@ where [refTable].[submission_channel] = ?</property>
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
+          Size="120,41.6"
+          Id="Package\WaterIssues\Union All"
+          TopLeft="318.750000678535,124.26470577343" />
+        <NodeLayout
+          Size="166.4,41.6"
+          Id="Package\WaterIssues\submissionchannel"
+          TopLeft="355.694445201625,192.960784144588" />
+        <NodeLayout
+          Size="149.6,41.6"
+          Id="Package\WaterIssues\Issues"
+          TopLeft="753.851164967697,189.137254736174" />
+        <NodeLayout
           Size="194.4,41.6"
           Id="Package\WaterIssues\GovernmentServicesFact"
           TopLeft="402.750875620009,364.62787507297" />
-        <NodeLayout
-          Size="159.2,41.6"
-          Id="Package\WaterIssues\Pripority"
-          TopLeft="551.742063321216,256.410406362123" />
-        <NodeLayout
-          Size="154.4,41.6"
-          Id="Package\WaterIssues\CreatedDateKey"
-          TopLeft="365.234126416252,252.93722921552" />
-        <NodeLayout
-          Size="177.6,41.6"
-          Id="Package\WaterIssues\TransformedDateKey"
-          TopLeft="124.265873280403,196.019607671318" />
         <NodeLayout
           Size="156,42.4"
           Id="Package\WaterIssues\Departments"
@@ -3190,25 +3416,29 @@ where [refTable].[submission_channel] = ?</property>
           Id="Package\WaterIssues\Location"
           TopLeft="742.42826244905,256.087640892582" />
         <NodeLayout
-          Size="161.6,41.6"
-          Id="Package\WaterIssues\WaterIssues"
-          TopLeft="132.123016154271,57.6078430867592" />
-        <NodeLayout
-          Size="149.6,41.6"
-          Id="Package\WaterIssues\Issues"
-          TopLeft="753.851164967697,189.137254736174" />
-        <NodeLayout
-          Size="166.4,41.6"
-          Id="Package\WaterIssues\submissionchannel"
-          TopLeft="355.694445201625,192.960784144588" />
-        <NodeLayout
-          Size="148.8,41.6"
-          Id="Package\WaterIssues\ClosedDateKey"
-          TopLeft="135.373014815827,256.366267494494" />
+          Size="159.2,41.6"
+          Id="Package\WaterIssues\Pripority"
+          TopLeft="551.742063321216,256.410406362123" />
         <NodeLayout
           Size="155.2,41.6"
           Id="Package\WaterIssues\Data Conversion"
           TopLeft="130.694444722658,125.666666556515" />
+        <NodeLayout
+          Size="161.6,41.6"
+          Id="Package\WaterIssues\WaterIssues"
+          TopLeft="132.123016154271,57.6078430867592" />
+        <NodeLayout
+          Size="177.6,41.6"
+          Id="Package\WaterIssues\TransformedDateKey"
+          TopLeft="124.265873280403,196.019607671318" />
+        <NodeLayout
+          Size="154.4,41.6"
+          Id="Package\WaterIssues\CreatedDateKey"
+          TopLeft="365.234126416252,252.93722921552" />
+        <NodeLayout
+          Size="148.8,41.6"
+          Id="Package\WaterIssues\ClosedDateKey"
+          TopLeft="135.373014815827,256.366267494494" />
         <EdgeLayout
           Id="Package\WaterIssues.Paths[Lookup Match Output6]"
           TopLeft="710.291384399897,212.312887108429">
@@ -3455,10 +3685,6 @@ where [refTable].[submission_channel] = ?</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="120,41.6"
-          Id="Package\WaterIssues\Union All"
-          TopLeft="318.750000678535,124.26470577343" />
         <EdgeLayout
           Id="Package\WaterIssues.Paths[Data Conversion Error Output]"
           TopLeft="285.894444722658,145.765686164973">
@@ -3505,7 +3731,7 @@ where [refTable].[submission_channel] = ?</property>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:string">false</Value>
+          type="q2:boolean">false</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>

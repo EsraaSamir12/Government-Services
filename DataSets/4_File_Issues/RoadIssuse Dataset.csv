@@ -1,494 +1,494 @@
-﻿Complation_Id,text_description,issue_type,department,priority,status,subcategory,created_time,Created_date,closed_date,satisfaction_score,city,district,submission_channel
-1,Road surface damaged at Koramangala,roads,BBMP Roads,Medium,Closed,Pothole,0.415972222,12-2025-08,12/9/2025,5,Cairo,Heliopolis,Mobile App
-2,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.898969907,03-2025-02,3/8/2025,3,Cairo,Heliopolis,Mobile App
-3,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.100150463,09-2024-24,9/29/2024,3,Giza,Dokki,Website
-4,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.016550926,03-2025-14,3/23/2025,1,Cairo,Heliopolis,Mobile App
-5,Pothole near bus stop at Koramangala,roads,BBMP Roads,Medium,Pending,Pothole,0.260081019,09-2023-18,,,Cairo,Maadi,Mobile App
-6,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Pending,Road Damage,0.969166667,07-2024-05,,,Giza,Mohandessin,Mobile App
-7,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.25087963,09-2023-14,9/22/2023,2,Giza,Haram,Mobile App
-8,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Pending,Pothole,0.583680556,04-2025-23,,,Giza,Haram,Call Center
-9,Pothole near bus stop at Jayanagar,roads,BBMP Roads,High,Closed,Road Damage,0.466215278,07-2024-07,7/16/2024,1,Cairo,Maadi,Website
-10,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.558576389,07-2025-15,7/23/2025,2,Giza,Mohandessin,Mobile App
-11,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.476712963,03-2024-06,3/11/2024,3,Cairo,Nasr City,Mobile App
-12,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Closed,Road Damage,0.727256944,03-2023-22,3/23/2023,5,Giza,Mohandessin,Mobile App
-13,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.868263889,12-2025-01,12/2/2025,5,Cairo,Heliopolis,Call Center
-14,Road surface damaged at BTM Layout,roads,BBMP Roads,High,In Progress,Pothole,0.203287037,12-2025-11,,,Giza,Mohandessin,Mobile App
-15,Road surface damaged at Jayanagar,roads,BBMP Roads,High,Closed,Road Damage,0.711875,06-2024-21,6/30/2024,1,Giza,Dokki,Mobile App
-16,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.690046296,03-2024-08,3/10/2024,5,Giza,Mohandessin,Mobile App
-17,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.5290625,09-2024-18,9/26/2024,2,Cairo,Nasr City,Website
-18,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.1784375,08-2024-01,8/10/2024,1,Cairo,Heliopolis,Mobile App
-19,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.407534722,05-2025-23,,,Cairo,Heliopolis,Mobile App
-20,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,In Progress,Pothole,0.549328704,02-2025-26,,,Giza,Haram,Call Center
-21,Multiple cracks on road at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.571284722,11-2025-29,11/30/2025,5,Cairo,Nasr City,Mobile App
-22,Road surface damaged at MG Road,roads,BBMP Roads,High,Closed,Pothole,0.417800926,08-2025-22,8/25/2025,4,Giza,Mohandessin,Call Center
-23,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Closed,Road Damage,0.139108796,01-2024-30,2/3/2024,4,Cairo,Heliopolis,Mobile App
-24,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.700335648,07-2024-15,7/19/2024,4,Giza,Dokki,Call Center
-25,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.557037037,10-2023-07,10/15/2023,2,Cairo,Heliopolis,Call Center
-26,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.375046296,09-2023-17,,,Cairo,Heliopolis,Call Center
-27,Road surface damaged at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.85837963,03-2024-25,3/28/2024,4,Giza,Haram,Website
-28,Multiple cracks on road at BTM Layout,roads,BBMP Roads,High,Closed,Road Damage,0.46255787,11-2023-17,11/18/2023,5,Cairo,Heliopolis,Mobile App
-29,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Pending,Road Damage,0.915046296,10-2023-31,,,Giza,Haram,Call Center
-30,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.092789352,12-2023-19,12/28/2023,1,Cairo,Maadi,Mobile App
-31,Road surface damaged at Jayanagar,roads,BBMP Roads,High,Closed,Road Damage,0.678784722,08-2023-26,8/28/2023,5,Giza,Haram,Mobile App
-32,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,Pending,Pothole,0.026689815,07-2025-09,,,Cairo,Heliopolis,Call Center
-33,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.940092593,09-2025-20,,,Giza,Dokki,Website
-34,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.558576389,03-2024-04,3/8/2024,4,Cairo,Heliopolis,Call Center
-35,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Pending,Pothole,0.613125,04-2024-27,,,Cairo,Nasr City,Call Center
-36,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.527534722,08-2024-21,8/24/2024,4,Cairo,Heliopolis,Call Center
-37,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,In Progress,Road Damage,0.707685185,03-2024-04,,,Giza,Haram,Call Center
-38,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,In Progress,Road Damage,0.234479167,08-2024-13,,,Cairo,Maadi,Mobile App
-39,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,In Progress,Road Damage,0.9496875,04-2024-22,,,Giza,Dokki,Mobile App
-40,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.712083333,01-2025-20,1/25/2025,3,Giza,Mohandessin,Call Center
-41,Road surface damaged at MG Road,roads,BBMP Roads,High,Pending,Road Damage,0.336122685,10-2025-23,,,Cairo,Nasr City,Call Center
-42,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,In Progress,Road Damage,0.892673611,09-2025-23,,,Giza,Haram,Mobile App
-43,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.072048611,05-2023-09,5/18/2023,1,Giza,Haram,Call Center
-44,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,In Progress,Pothole,0.413703704,08-2025-07,,,Giza,Mohandessin,Call Center
-45,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.178553241,05-2024-08,5/15/2024,2,Giza,Haram,Call Center
-46,Pothole near bus stop at Whitefield,roads,BBMP Roads,Medium,Pending,Pothole,0.263865741,08-2025-21,,,Giza,Mohandessin,Mobile App
-47,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.318773148,10-2025-08,10/9/2025,5,Cairo,Nasr City,Mobile App
-48,Pothole near bus stop at Koramangala,roads,BBMP Roads,High,Closed,Pothole,0.701064815,09-2025-24,9/26/2025,5,Cairo,Nasr City,Website
-49,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.589178241,10-2025-30,10/31/2025,5,Cairo,Nasr City,Call Center
-50,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,In Progress,Pothole,0.550497685,04-2024-03,,,Cairo,Nasr City,Call Center
-51,Road surface damaged at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.880787037,04-2023-17,4/20/2023,4,Giza,Mohandessin,Call Center
-52,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.583298611,12-2025-05,12/10/2025,3,Giza,Haram,Call Center
-53,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,In Progress,Pothole,0.493969907,12-2025-04,,,Cairo,Heliopolis,Call Center
-54,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.542800926,04-2023-19,4/26/2023,2,Giza,Haram,Call Center
-55,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Pothole,0.214456019,05-2025-26,5/27/2025,5,Cairo,Nasr City,Website
-56,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Closed,Pothole,0.041377315,02-2025-17,2/20/2025,4,Cairo,Heliopolis,Call Center
-57,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Pending,Pothole,0.964456019,07-2023-31,,,Giza,Dokki,Mobile App
-58,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.678252315,04-2024-22,4/24/2024,5,Cairo,Maadi,Call Center
-59,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.305381944,02-2025-17,2/21/2025,4,Cairo,Nasr City,Website
-60,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.322997685,04-2024-25,4/27/2024,5,Cairo,Maadi,Call Center
-61,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Closed,Pothole,0.737939815,08-2025-15,8/23/2025,2,Cairo,Heliopolis,Mobile App
-62,Road surface damaged at Koramangala,roads,BBMP Roads,High,Closed,Pothole,0.157037037,03-2025-07,3/11/2025,4,Cairo,Heliopolis,Mobile App
-63,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.444837963,04-2025-18,4/23/2025,3,Cairo,Maadi,Website
-64,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.316805556,12-2024-20,12/28/2024,2,Giza,Dokki,Call Center
-65,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.342835648,09-2024-28,10/2/2024,4,Cairo,Maadi,Call Center
-66,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.386087963,04-2025-11,,,Giza,Dokki,Website
-67,Road surface damaged at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.796469907,01-2023-15,1/16/2023,5,Giza,Haram,Mobile App
-68,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.507916667,04-2025-23,,,Giza,Mohandessin,Call Center
-69,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.643553241,02-2023-19,2/25/2023,3,Cairo,Maadi,Mobile App
-70,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.420763889,03-2025-02,3/3/2025,5,Giza,Haram,Call Center
-71,Pothole near bus stop at Whitefield,roads,BBMP Roads,Medium,Closed,Road Damage,0.530509259,11-2024-18,11/27/2024,1,Giza,Dokki,Mobile App
-72,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.364178241,01-2025-15,1/22/2025,2,Cairo,Nasr City,Website
-73,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.130532407,02-2023-26,3/5/2023,2,Cairo,Heliopolis,Website
-74,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Pending,Road Damage,0.277835648,12-2025-14,,,Cairo,Maadi,Call Center
-75,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,Closed,Pothole,0.784872685,06-2025-02,6/5/2025,4,Cairo,Nasr City,Call Center
-76,Road surface damaged at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.714722222,03-2024-13,3/16/2024,4,Giza,Dokki,Call Center
-77,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.913206019,03-2024-18,3/24/2024,3,Giza,Haram,Mobile App
-78,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.791469907,02-2024-08,2/11/2024,4,Giza,Dokki,Website
-79,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.702581019,08-2025-16,8/24/2025,2,Cairo,Nasr City,Website
-80,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,High,Pending,Road Damage,0.759907407,09-2025-01,,,Giza,Haram,Website
-81,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.637696759,01-2025-27,1/29/2025,5,Giza,Haram,Call Center
-82,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.975138889,03-2023-20,3/22/2023,5,Giza,Mohandessin,Mobile App
-83,Pothole near bus stop at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.67494213,02-2023-25,3/1/2023,4,Cairo,Heliopolis,Call Center
-84,Road surface damaged at Koramangala,roads,BBMP Roads,High,Pending,Pothole,0.9053125,11-2024-27,,,Giza,Dokki,Call Center
-85,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Pending,Pothole,0.044884259,08-2023-15,,,Cairo,Maadi,Website
-86,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Pending,Road Damage,0.253773148,09-2023-02,,,Giza,Dokki,Call Center
-87,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.5184375,05-2023-30,6/2/2023,4,Cairo,Maadi,Mobile App
-88,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,In Progress,Pothole,0.910972222,03-2024-22,,,Giza,Haram,Website
-89,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Closed,Pothole,0.547476852,10-2025-27,10/30/2025,4,Cairo,Maadi,Mobile App
-90,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.962256944,08-2023-14,8/18/2023,4,Cairo,Maadi,Mobile App
-91,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,High,In Progress,Pothole,0.300150463,09-2024-24,,,Giza,Mohandessin,Call Center
-92,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.599768519,08-2024-06,,,Giza,Mohandessin,Call Center
-93,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Closed,Road Damage,0.247407407,01-2025-24,2/1/2025,2,Cairo,Nasr City,Mobile App
-94,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.930266204,08-2024-16,8/22/2024,3,Cairo,Nasr City,Call Center
-95,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.475983796,02-2024-07,2/16/2024,1,Cairo,Nasr City,Call Center
-96,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.463819444,06-2023-15,,,Cairo,Heliopolis,Mobile App
-97,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.040671296,11-2025-24,11/28/2025,4,Cairo,Maadi,Website
-98,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.976365741,07-2025-13,7/16/2025,4,Giza,Haram,Website
-99,Pothole near bus stop at Jayanagar,roads,BBMP Roads,High,Closed,Pothole,0.489733796,11-2024-30,12/6/2024,3,Giza,Mohandessin,Mobile App
-100,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.406782407,06-2023-24,6/28/2023,4,Cairo,Heliopolis,Mobile App
-101,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.082581019,09-2023-01,9/7/2023,3,Giza,Haram,Call Center
-102,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.281099537,01-2023-17,1/19/2023,5,Giza,Dokki,Call Center
-103,Road surface damaged at Koramangala,roads,BBMP Roads,Medium,Pending,Pothole,0.116446759,07-2025-23,,,Cairo,Nasr City,Call Center
-104,Road surface damaged at Indiranagar,roads,BBMP Roads,High,Closed,Pothole,0.38962963,08-2023-18,8/25/2023,2,Giza,Dokki,Call Center
-105,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.16587963,12-2024-24,1/1/2025,2,Giza,Dokki,Mobile App
-106,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.475925926,02-2025-07,,,Giza,Dokki,Call Center
-107,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.799085648,01-2023-17,1/24/2023,2,Cairo,Nasr City,Mobile App
-108,Road surface damaged at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.798252315,11-2025-30,12/5/2025,3,Cairo,Heliopolis,Website
-109,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.304375,06-2023-28,6/29/2023,5,Cairo,Heliopolis,Mobile App
-110,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.472199074,12-2024-31,1/4/2025,4,Cairo,Heliopolis,Website
-111,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.177673611,03-2024-12,3/15/2024,4,Giza,Haram,Mobile App
-112,Road surface damaged at Yelahanka,roads,BBMP Roads,High,In Progress,Road Damage,0.499027778,05-2024-04,,,Cairo,Maadi,Mobile App
-113,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,In Progress,Pothole,0.355821759,05-2024-04,,,Cairo,Heliopolis,Website
-114,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.519375,01-2025-02,1/11/2025,1,Giza,Mohandessin,Mobile App
-115,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.600185185,09-2025-14,9/16/2025,5,Cairo,Maadi,Call Center
-116,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.359768519,11-2025-28,11/30/2025,5,Giza,Dokki,Website
-117,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,In Progress,Pothole,0.113530093,05-2025-17,,,Giza,Mohandessin,Mobile App
-118,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.742731481,06-2024-01,6/3/2024,5,Cairo,Maadi,Mobile App
-119,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Closed,Road Damage,0.146446759,03-2024-18,3/19/2024,5,Cairo,Maadi,Mobile App
-120,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.44931713,07-2023-11,7/16/2023,3,Giza,Dokki,Call Center
-121,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Pending,Pothole,0.521423611,09-2025-22,,,Cairo,Maadi,Call Center
-122,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.0071875,09-2023-06,9/15/2023,1,Cairo,Nasr City,Call Center
-123,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.007326389,06-2023-09,6/18/2023,1,Giza,Haram,Call Center
-124,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.293912037,03-2025-08,3/15/2025,2,Cairo,Heliopolis,Call Center
-125,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.385798611,07-2023-01,,,Cairo,Nasr City,Mobile App
-126,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,In Progress,Road Damage,0.023912037,10-2024-18,,,Cairo,Maadi,Call Center
-127,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.597766204,04-2024-04,4/9/2024,3,Giza,Mohandessin,Mobile App
-128,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.204861111,01-2023-06,,,Cairo,Maadi,Mobile App
-129,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Pending,Pothole,0.062037037,01-2023-17,,,Giza,Dokki,Mobile App
-130,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.35056713,10-2023-23,,,Cairo,Nasr City,Mobile App
-131,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,In Progress,Pothole,0.913078704,04-2023-12,,,Giza,Mohandessin,Website
-132,Road surface damaged at Whitefield,roads,BBMP Roads,High,Pending,Road Damage,0.354189815,11-2025-20,,,Giza,Mohandessin,Mobile App
-133,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.653113426,09-2024-30,10/2/2024,5,Cairo,Heliopolis,Call Center
-134,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Pending,Pothole,0.234039352,04-2025-17,,,Cairo,Heliopolis,Call Center
-135,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.314895833,01-2024-14,1/19/2024,3,Giza,Haram,Mobile App
-136,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.093900463,05-2025-24,,,Giza,Dokki,Call Center
-137,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Closed,Road Damage,0.997071759,08-2024-10,8/19/2024,1,Giza,Dokki,Mobile App
-138,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.75380787,06-2023-18,,,Cairo,Heliopolis,Call Center
-139,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.747314815,08-2025-18,8/20/2025,5,Giza,Mohandessin,Mobile App
-140,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,In Progress,Road Damage,0.367476852,10-2025-29,,,Giza,Dokki,Call Center
-141,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Pending,Pothole,0.778194444,04-2024-23,,,Giza,Dokki,Call Center
-142,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.151875,12-2024-19,12/24/2024,3,Giza,Mohandessin,Mobile App
-143,Pothole near bus stop at BTM Layout,roads,BBMP Roads,Medium,Pending,Road Damage,0.418090278,06-2023-26,,,Giza,Mohandessin,Mobile App
-144,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.182627315,01-2023-09,1/12/2023,4,Giza,Haram,Mobile App
-145,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.035706019,08-2025-22,8/28/2025,3,Giza,Haram,Mobile App
-146,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,Pending,Road Damage,0.068101852,05-2025-14,,,Cairo,Nasr City,Website
-147,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,Closed,Road Damage,0.485347222,07-2024-27,7/29/2024,5,Cairo,Nasr City,Website
-148,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.981550926,12-2025-21,12/24/2025,4,Cairo,Nasr City,Website
-149,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.759375,11-2024-25,,,Giza,Dokki,Website
-150,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,In Progress,Road Damage,0.252662037,06-2024-05,,,Cairo,Nasr City,Mobile App
-151,Multiple cracks on road at BTM Layout,roads,BBMP Roads,High,In Progress,Pothole,0.417928241,05-2023-12,,,Giza,Dokki,Mobile App
-152,Pothole near bus stop at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.120381944,06-2024-02,6/4/2024,5,Cairo,Heliopolis,Call Center
-153,Road surface damaged at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.976018519,09-2023-04,9/7/2023,4,Giza,Mohandessin,Mobile App
-154,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Road Damage,0.012303241,11-2025-30,12/5/2025,3,Giza,Dokki,Website
-155,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,In Progress,Road Damage,0.216979167,08-2023-19,,,Giza,Mohandessin,Website
-156,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.212928241,07-2023-05,7/8/2023,4,Cairo,Maadi,Mobile App
-157,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.910486111,07-2024-04,,,Cairo,Heliopolis,Mobile App
-158,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.123946759,06-2025-21,6/27/2025,3,Giza,Mohandessin,Mobile App
-159,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.483368056,09-2023-01,9/6/2023,3,Giza,Mohandessin,Mobile App
-160,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.813587963,10-2023-12,,,Cairo,Maadi,Mobile App
-161,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.661990741,09-2023-24,9/30/2023,3,Giza,Haram,Mobile App
-162,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.447488426,05-2025-18,5/23/2025,3,Cairo,Maadi,Mobile App
-163,Pothole near bus stop at BTM Layout,roads,BBMP Roads,High,Pending,Pothole,0.931597222,03-2025-05,,,Cairo,Heliopolis,Mobile App
-164,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,Closed,Road Damage,0.49443287,09-2024-08,9/10/2024,5,Giza,Haram,Website
-165,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.346296296,02-2023-19,2/26/2023,2,Cairo,Nasr City,Mobile App
-166,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.742777778,07-2025-19,,,Giza,Haram,Call Center
-167,Road surface damaged at Indiranagar,roads,BBMP Roads,High,Pending,Road Damage,0.285532407,06-2023-16,,,Cairo,Heliopolis,Website
-168,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Pending,Road Damage,0.123483796,02-2024-05,,,Cairo,Heliopolis,Call Center
-169,Road surface damaged at Jayanagar,roads,BBMP Roads,High,In Progress,Pothole,0.302048611,10-2023-19,,,Giza,Haram,Mobile App
-170,Road surface damaged at Koramangala,roads,BBMP Roads,Medium,Closed,Road Damage,0.625601852,02-2023-14,2/23/2023,1,Cairo,Maadi,Mobile App
-171,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,Closed,Pothole,0.933055556,07-2024-11,7/20/2024,1,Cairo,Heliopolis,Call Center
-172,Road surface damaged at Koramangala,roads,BBMP Roads,High,Pending,Road Damage,0.869583333,07-2023-11,,,Giza,Haram,Website
-173,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,In Progress,Pothole,0.593622685,02-2023-06,,,Cairo,Maadi,Mobile App
-174,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.488321759,06-2023-15,6/18/2023,4,Cairo,Nasr City,Mobile App
-175,Road surface damaged at Malleshwaram,roads,BBMP Roads,High,Pending,Pothole,0.854918981,08-2025-10,,,Cairo,Maadi,Website
-176,Road surface damaged at MG Road,roads,BBMP Roads,High,In Progress,Road Damage,0.021643519,02-2023-01,,,Giza,Dokki,Website
-177,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.546076389,09-2025-15,9/16/2025,5,Cairo,Heliopolis,Mobile App
-178,Pothole near bus stop at Koramangala,roads,BBMP Roads,Medium,Closed,Road Damage,0.47849537,02-2024-17,2/20/2024,4,Cairo,Heliopolis,Mobile App
-179,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.982800926,01-2024-22,1/28/2024,3,Cairo,Nasr City,Call Center
-180,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.386493056,08-2025-25,8/30/2025,3,Giza,Dokki,Call Center
-181,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,In Progress,Pothole,0.825335648,11-2025-03,,,Giza,Haram,Mobile App
-182,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Pending,Road Damage,0.805960648,08-2025-12,,,Giza,Haram,Website
-183,Pothole near bus stop at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.019699074,09-2023-17,9/21/2023,4,Giza,Haram,Mobile App
-184,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.317766204,03-2023-27,4/2/2023,3,Cairo,Nasr City,Call Center
-185,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Pending,Pothole,0.56619213,12-2023-16,,,Cairo,Heliopolis,Mobile App
-186,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,In Progress,Pothole,0.141863426,06-2024-11,,,Giza,Mohandessin,Mobile App
-187,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.128715278,11-2024-27,11/29/2024,5,Cairo,Heliopolis,Call Center
-188,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,In Progress,Pothole,0.122638889,07-2025-21,,,Cairo,Heliopolis,Mobile App
-189,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Pending,Road Damage,0.673935185,11-2023-28,,,Cairo,Maadi,Website
-190,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.452777778,09-2024-26,10/3/2024,2,Giza,Mohandessin,Mobile App
-191,Road surface damaged at BTM Layout,roads,BBMP Roads,High,In Progress,Pothole,0.074837963,05-2024-20,,,Cairo,Maadi,Website
-192,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.003923611,10-2023-16,10/23/2023,2,Cairo,Nasr City,Mobile App
-193,Road surface damaged at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.396481481,12-2025-30,12/31/2025,5,Giza,Haram,Mobile App
-194,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.994918981,01-2025-06,1/13/2025,2,Giza,Haram,Call Center
-195,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,In Progress,Road Damage,0.815740741,11-2024-04,,,Cairo,Nasr City,Call Center
-196,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.230277778,05-2024-10,,,Cairo,Nasr City,Mobile App
-197,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.491574074,03-2025-21,,,Cairo,Maadi,Mobile App
-198,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.421446759,12-2024-14,12/21/2024,2,Giza,Mohandessin,Mobile App
-199,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.830636574,07-2024-22,7/24/2024,5,Giza,Dokki,Mobile App
-200,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.887719907,04-2025-23,,,Giza,Haram,Mobile App
-201,Pothole near bus stop at Koramangala,roads,BBMP Roads,Medium,Pending,Road Damage,0.927164352,05-2025-03,,,Cairo,Maadi,Call Center
-202,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,In Progress,Pothole,0.13193287,03-2023-16,,,Cairo,Nasr City,Mobile App
-203,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.01056713,01-2025-05,1/6/2025,5,Giza,Mohandessin,Website
-204,Road surface damaged at Whitefield,roads,BBMP Roads,High,In Progress,Pothole,0.919594907,09-2023-14,,,Giza,Mohandessin,Call Center
-205,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.931736111,03-2024-09,3/14/2024,3,Giza,Mohandessin,Website
-206,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,In Progress,Pothole,0.608287037,05-2024-19,,,Giza,Haram,Call Center
-207,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.394074074,12-2024-02,12/3/2024,5,Cairo,Maadi,Mobile App
-208,Pothole near bus stop at BTM Layout,roads,BBMP Roads,High,Pending,Pothole,0.322638889,03-2024-23,,,Cairo,Heliopolis,Mobile App
-209,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,Closed,Pothole,0.509189815,05-2023-21,5/22/2023,5,Cairo,Maadi,Call Center
-210,Multiple cracks on road at MG Road,roads,BBMP Roads,High,In Progress,Pothole,0.044953704,03-2023-15,,,Cairo,Maadi,Website
-211,Multiple cracks on road at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.003275463,08-2025-05,8/11/2025,3,Cairo,Nasr City,Mobile App
-212,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.555428241,01-2025-08,,,Cairo,Maadi,Website
-213,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.208206019,12-2025-27,12/31/2025,4,Giza,Dokki,Mobile App
-214,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,Medium,In Progress,Pothole,0.251608796,07-2024-25,,,Cairo,Maadi,Mobile App
-215,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,In Progress,Road Damage,0.820509259,10-2023-12,,,Giza,Haram,Website
-216,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.048680556,09-2023-27,10/5/2023,2,Giza,Haram,Call Center
-217,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.770185185,09-2024-22,9/28/2024,3,Cairo,Heliopolis,Mobile App
-218,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.951134259,02-2023-03,,,Cairo,Heliopolis,Mobile App
-219,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.914178241,06-2024-12,6/18/2024,3,Giza,Dokki,Call Center
-220,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Pending,Pothole,0.163888889,04-2023-22,,,Giza,Dokki,Call Center
-221,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.581909722,12-2023-22,12/25/2023,4,Giza,Dokki,Mobile App
-222,Road surface damaged at Koramangala,roads,BBMP Roads,Medium,Pending,Road Damage,0.555740741,04-2023-24,,,Giza,Dokki,Mobile App
-223,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.655416667,01-2023-22,1/24/2023,5,Giza,Haram,Mobile App
-224,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,Closed,Pothole,0.5571875,11-2025-09,11/14/2025,3,Cairo,Heliopolis,Call Center
-225,Road surface damaged at Koramangala,roads,BBMP Roads,Medium,Closed,Pothole,0.838703704,07-2025-22,7/28/2025,3,Giza,Dokki,Mobile App
-226,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.938460648,02-2023-01,2/4/2023,4,Giza,Haram,Website
-227,Multiple cracks on road at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.744155093,12-2025-21,12/24/2025,4,Cairo,Maadi,Website
-228,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Pending,Road Damage,0.319421296,08-2023-17,,,Giza,Mohandessin,Mobile App
-229,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.321261574,04-2023-09,4/17/2023,2,Giza,Haram,Call Center
-230,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Pending,Road Damage,0.283541667,04-2024-30,,,Cairo,Nasr City,Mobile App
-231,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,Pending,Road Damage,0.760150463,11-2025-17,,,Giza,Haram,Website
-232,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.168483796,02-2024-02,2/3/2024,5,Giza,Mohandessin,Mobile App
-233,Pothole near bus stop at BTM Layout,roads,BBMP Roads,Medium,Closed,Road Damage,0.133553241,08-2023-17,8/19/2023,5,Cairo,Heliopolis,Call Center
-234,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,In Progress,Road Damage,0.714652778,09-2024-29,,,Cairo,Maadi,Mobile App
-235,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.532222222,10-2025-04,10/12/2025,2,Cairo,Heliopolis,Call Center
-236,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.960451389,11-2023-04,11/5/2023,5,Giza,Haram,Call Center
-237,Multiple cracks on road at Yelahanka,roads,BBMP Roads,Medium,Closed,Pothole,0.600243056,12-2025-31,12/31/2025,5,Giza,Mohandessin,Website
-238,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,In Progress,Pothole,0.918136574,06-2025-30,,,Cairo,Maadi,Mobile App
-239,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Pending,Pothole,0.918356481,12-2025-21,,,Cairo,Nasr City,Call Center
-240,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Pending,Road Damage,0.182708333,12-2023-13,,,Cairo,Heliopolis,Website
-241,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.931273148,08-2023-28,8/31/2023,4,Giza,Dokki,Mobile App
-242,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,In Progress,Road Damage,0.662280093,07-2025-03,,,Giza,Haram,Website
-243,Road surface damaged at Whitefield,roads,BBMP Roads,High,Closed,Pothole,0.948518519,10-2025-08,10/16/2025,2,Giza,Dokki,Website
-244,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Pending,Road Damage,0.228032407,10-2023-08,,,Cairo,Heliopolis,Website
-245,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Closed,Pothole,0.204189815,03-2023-23,3/24/2023,5,Giza,Mohandessin,Mobile App
-246,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.756712963,01-2025-24,1/27/2025,4,Cairo,Heliopolis,Call Center
-247,Pothole near bus stop at MG Road,roads,BBMP Roads,High,In Progress,Pothole,0.3715625,03-2024-25,,,Cairo,Maadi,Call Center
-248,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.685289352,09-2025-13,9/17/2025,4,Giza,Haram,Mobile App
-249,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.282685185,04-2024-30,5/7/2024,2,Giza,Haram,Call Center
-250,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,In Progress,Road Damage,0.488240741,01-2025-29,,,Cairo,Nasr City,Website
-251,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Closed,Road Damage,0.8925,10-2024-07,10/16/2024,1,Giza,Haram,Call Center
-252,Multiple cracks on road at MG Road,roads,BBMP Roads,High,Closed,Pothole,0.525243056,02-2025-10,2/16/2025,3,Giza,Dokki,Mobile App
-253,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Pending,Road Damage,0.098703704,04-2023-27,,,Giza,Dokki,Mobile App
-254,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.778425926,11-2025-11,11/12/2025,5,Cairo,Heliopolis,Call Center
-255,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Pending,Road Damage,0.23412037,03-2023-23,,,Cairo,Heliopolis,Mobile App
-256,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.248009259,03-2024-09,3/11/2024,5,Giza,Dokki,Mobile App
-257,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,Closed,Pothole,0.102199074,05-2023-14,5/17/2023,4,Cairo,Maadi,Website
-258,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.764270833,03-2025-15,3/16/2025,5,Cairo,Heliopolis,Call Center
-259,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.579444444,01-2023-08,1/11/2023,4,Cairo,Nasr City,Mobile App
-260,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Pending,Pothole,0.691215278,05-2024-17,,,Giza,Dokki,Call Center
-261,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,In Progress,Pothole,0.15681713,01-2024-11,,,Giza,Dokki,Mobile App
-262,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,In Progress,Pothole,0.77931713,11-2024-13,,,Giza,Dokki,Mobile App
-263,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.848773148,08-2023-27,8/30/2023,4,Giza,Mohandessin,Mobile App
-264,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.444386574,09-2023-18,9/23/2023,3,Cairo,Nasr City,Mobile App
-265,Pothole near bus stop at Koramangala,roads,BBMP Roads,Medium,Pending,Road Damage,0.26380787,12-2023-11,,,Cairo,Nasr City,Call Center
-266,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Pending,Pothole,0.009756944,10-2023-26,,,Cairo,Nasr City,Website
-267,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Pothole,0.376354167,06-2025-21,6/30/2025,1,Cairo,Nasr City,Call Center
-268,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.628125,06-2024-25,6/28/2024,4,Giza,Mohandessin,Mobile App
-269,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.824328704,02-2025-22,,,Giza,Dokki,Mobile App
-270,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.146747685,08-2024-08,8/9/2024,5,Giza,Mohandessin,Mobile App
-271,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Pending,Road Damage,0.673148148,02-2024-16,,,Cairo,Maadi,Mobile App
-272,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,Closed,Road Damage,0.77587963,10-2025-24,11/2/2025,1,Cairo,Heliopolis,Mobile App
-273,Pothole near bus stop at Jayanagar,roads,BBMP Roads,High,In Progress,Pothole,0.540752315,12-2023-23,,,Cairo,Heliopolis,Website
-274,Pothole near bus stop at BTM Layout,roads,BBMP Roads,High,Closed,Road Damage,0.161550926,01-2023-27,1/28/2023,5,Cairo,Heliopolis,Mobile App
-275,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.694155093,09-2024-01,9/10/2024,1,Giza,Mohandessin,Mobile App
-276,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.924918981,03-2023-26,4/3/2023,2,Giza,Mohandessin,Call Center
-277,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,In Progress,Pothole,0.901180556,09-2024-14,,,Cairo,Maadi,Call Center
-278,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.751643519,08-2023-01,8/10/2023,1,Cairo,Nasr City,Website
-279,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Closed,Pothole,0.726805556,03-2023-20,3/25/2023,3,Cairo,Maadi,Mobile App
-280,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.072534722,07-2023-22,7/24/2023,5,Cairo,Nasr City,Mobile App
-281,Road surface damaged at Koramangala,roads,BBMP Roads,High,Pending,Pothole,0.245740741,02-2025-22,,,Cairo,Heliopolis,Call Center
-282,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Closed,Road Damage,0.96337963,03-2025-22,3/27/2025,3,Cairo,Maadi,Website
-283,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.466041667,05-2025-11,5/17/2025,3,Giza,Mohandessin,Call Center
-284,Road surface damaged at Koramangala,roads,BBMP Roads,Medium,Closed,Pothole,0.876967593,09-2025-30,10/1/2025,5,Cairo,Nasr City,Call Center
-285,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.379664352,09-2025-06,9/10/2025,4,Giza,Mohandessin,Mobile App
-286,Pothole near bus stop at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.791805556,08-2025-27,9/5/2025,1,Cairo,Nasr City,Call Center
-287,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.726226852,07-2023-10,7/18/2023,2,Cairo,Maadi,Call Center
-288,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.50119213,02-2024-11,,,Giza,Haram,Website
-289,Multiple cracks on road at BTM Layout,roads,BBMP Roads,High,Closed,Road Damage,0.607349537,02-2023-11,2/12/2023,5,Giza,Mohandessin,Mobile App
-290,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.188518519,03-2024-16,3/21/2024,3,Giza,Dokki,Website
-291,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Pending,Pothole,0.302233796,08-2024-14,,,Giza,Haram,Mobile App
-292,Pothole near bus stop at Jayanagar,roads,BBMP Roads,High,Pending,Road Damage,0.758981481,04-2025-08,,,Cairo,Nasr City,Mobile App
-293,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.254618056,04-2025-18,4/23/2025,3,Cairo,Maadi,Mobile App
-294,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Pothole,0.026666667,05-2023-06,5/14/2023,2,Giza,Dokki,Website
-295,Road surface damaged at Malleshwaram,roads,BBMP Roads,High,Pending,Road Damage,0.13150463,06-2024-19,,,Cairo,Maadi,Mobile App
-296,Road surface damaged at Jayanagar,roads,BBMP Roads,High,Pending,Pothole,0.492210648,05-2024-15,,,Cairo,Maadi,Call Center
-297,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.504814815,04-2024-01,4/8/2024,2,Giza,Mohandessin,Mobile App
-298,Road surface damaged at MG Road,roads,BBMP Roads,High,Pending,Pothole,0.377604167,06-2025-29,,,Cairo,Maadi,Mobile App
-299,Pothole near bus stop at Whitefield,roads,BBMP Roads,Medium,In Progress,Pothole,0.381944444,04-2025-04,,,Cairo,Nasr City,Mobile App
-300,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,Closed,Road Damage,0.107893519,05-2025-19,5/21/2025,5,Cairo,Heliopolis,Mobile App
-301,Pothole near bus stop at Whitefield,roads,BBMP Roads,Medium,In Progress,Pothole,0.169837963,08-2024-12,,,Giza,Haram,Call Center
-302,Road surface damaged at Malleshwaram,roads,BBMP Roads,High,In Progress,Pothole,0.974560185,10-2025-23,,,Giza,Mohandessin,Website
-303,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.442476852,06-2023-08,,,Cairo,Maadi,Mobile App
-304,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.675405093,03-2024-01,,,Giza,Haram,Mobile App
-305,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.174178241,02-2024-29,3/7/2024,2,Cairo,Heliopolis,Call Center
-306,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.495648148,12-2024-01,12/9/2024,2,Giza,Mohandessin,Call Center
-307,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.238680556,09-2025-18,9/22/2025,4,Cairo,Nasr City,Website
-308,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Pending,Pothole,0.629097222,11-2024-12,,,Giza,Haram,Website
-309,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.349803241,09-2024-16,,,Giza,Dokki,Website
-310,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,In Progress,Pothole,0.863148148,02-2025-12,,,Giza,Haram,Mobile App
-311,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,In Progress,Pothole,0.447847222,09-2024-04,,,Giza,Haram,Call Center
-312,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.437256944,10-2023-23,10/29/2023,3,Cairo,Nasr City,Mobile App
-313,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Pending,Pothole,0.14244213,06-2024-26,,,Giza,Dokki,Mobile App
-314,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.521331019,10-2025-02,10/4/2025,5,Giza,Mohandessin,Call Center
-315,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Pending,Road Damage,0.214236111,11-2025-17,,,Cairo,Nasr City,Call Center
-316,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.170231481,08-2023-10,8/17/2023,2,Giza,Mohandessin,Website
-317,Road surface damaged at Indiranagar,roads,BBMP Roads,High,Closed,Road Damage,0.098854167,10-2024-19,10/23/2024,4,Cairo,Maadi,Mobile App
-318,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.991168981,09-2023-30,10/2/2023,5,Cairo,Nasr City,Call Center
-319,Road surface damaged at Malleshwaram,roads,BBMP Roads,High,Closed,Pothole,0.19693287,09-2025-16,9/22/2025,3,Cairo,Nasr City,Call Center
-320,Road surface damaged at MG Road,roads,BBMP Roads,High,Closed,Pothole,0.937523148,01-2025-23,1/31/2025,2,Cairo,Maadi,Mobile App
-321,Road surface damaged at Indiranagar,roads,BBMP Roads,High,In Progress,Road Damage,0.006840278,07-2023-25,,,Cairo,Heliopolis,Call Center
-322,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.770763889,05-2024-19,5/22/2024,4,Giza,Mohandessin,Website
-323,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Closed,Pothole,0.886342593,01-2024-05,1/12/2024,2,Cairo,Heliopolis,Mobile App
-324,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.219074074,09-2024-14,9/17/2024,4,Giza,Haram,Call Center
-325,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.235405093,02-2024-10,2/15/2024,3,Cairo,Maadi,Mobile App
-326,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Pending,Pothole,0.993136574,03-2024-15,,,Cairo,Maadi,Mobile App
-327,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Closed,Road Damage,0.085023148,05-2023-28,6/1/2023,4,Cairo,Maadi,Call Center
-328,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Pending,Pothole,0.608506944,08-2025-29,,,Giza,Mohandessin,Mobile App
-329,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.37599537,09-2025-25,10/4/2025,1,Cairo,Heliopolis,Mobile App
-330,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.790486111,04-2024-02,4/9/2024,2,Giza,Mohandessin,Call Center
-331,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.706365741,10-2023-20,,,Cairo,Nasr City,Mobile App
-332,Road surface damaged at Whitefield,roads,BBMP Roads,High,In Progress,Road Damage,0.125775463,11-2024-30,,,Cairo,Maadi,Mobile App
-333,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,In Progress,Road Damage,0.437824074,02-2025-22,,,Giza,Dokki,Mobile App
-334,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.045289352,10-2025-13,10/21/2025,2,Cairo,Maadi,Website
-335,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.311863426,08-2025-09,,,Cairo,Heliopolis,Call Center
-336,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Pothole,0.844803241,05-2025-29,6/5/2025,2,Cairo,Nasr City,Call Center
-337,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,In Progress,Road Damage,0.303391204,10-2024-05,,,Giza,Mohandessin,Mobile App
-338,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.866006944,12-2023-03,12/12/2023,1,Cairo,Heliopolis,Mobile App
-339,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Pending,Road Damage,0.266608796,12-2023-10,,,Cairo,Nasr City,Call Center
-340,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.42068287,07-2023-12,7/14/2023,5,Giza,Haram,Mobile App
-341,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.126550926,08-2023-03,8/5/2023,5,Cairo,Maadi,Call Center
-342,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Closed,Pothole,0.937118056,04-2025-06,4/11/2025,3,Cairo,Nasr City,Mobile App
-343,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,In Progress,Road Damage,0.432268519,02-2023-02,,,Cairo,Nasr City,Call Center
-344,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Pending,Pothole,0.798206019,03-2024-11,,,Giza,Haram,Call Center
-345,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Pending,Road Damage,0.995138889,03-2023-07,,,Cairo,Heliopolis,Website
-346,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.891446759,02-2023-24,3/3/2023,2,Giza,Haram,Website
-347,Road surface damaged at Yelahanka,roads,BBMP Roads,High,In Progress,Road Damage,0.169479167,05-2024-20,,,Giza,Dokki,Website
-348,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Closed,Pothole,0.326423611,12-2025-25,12/30/2025,3,Giza,Dokki,Mobile App
-349,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,Pending,Pothole,0.356550926,10-2024-12,,,Giza,Dokki,Call Center
-350,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.454664352,02-2025-22,2/24/2025,5,Giza,Dokki,Website
-351,Multiple cracks on road at BTM Layout,roads,BBMP Roads,High,In Progress,Pothole,0.516423611,01-2025-21,,,Giza,Dokki,Website
-352,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,Medium,In Progress,Pothole,0.033310185,04-2025-25,,,Giza,Haram,Call Center
-353,Road surface damaged at Koramangala,roads,BBMP Roads,High,In Progress,Pothole,0.592835648,09-2023-11,,,Giza,Dokki,Call Center
-354,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,Closed,Pothole,0.979618056,07-2024-10,7/16/2024,3,Giza,Mohandessin,Website
-355,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Pothole,0.85494213,11-2025-24,11/25/2025,5,Cairo,Maadi,Mobile App
-356,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,Pending,Road Damage,0.384259259,02-2023-12,,,Giza,Haram,Mobile App
-357,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.942800926,05-2025-30,5/31/2025,5,Cairo,Heliopolis,Call Center
-358,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Closed,Road Damage,0.896782407,03-2023-08,3/17/2023,1,Giza,Dokki,Website
-359,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Pending,Road Damage,0.544571759,10-2025-30,,,Cairo,Maadi,Call Center
-360,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,Medium,In Progress,Pothole,0.410428241,12-2023-15,,,Cairo,Maadi,Mobile App
-361,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,In Progress,Road Damage,0.040520833,06-2023-11,,,Giza,Mohandessin,Call Center
-362,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,In Progress,Road Damage,0.37880787,11-2024-02,,,Cairo,Nasr City,Call Center
-363,Road surface damaged at Indiranagar,roads,BBMP Roads,Medium,Pending,Road Damage,0.275428241,07-2025-17,,,Giza,Haram,Website
-364,Road surface damaged at Jayanagar,roads,BBMP Roads,High,In Progress,Road Damage,0.493425926,11-2024-15,,,Giza,Dokki,Mobile App
-365,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.135115741,12-2025-11,12/13/2025,5,Giza,Mohandessin,Website
-366,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.7996875,01-2025-23,1/27/2025,4,Giza,Haram,Mobile App
-367,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.326006944,03-2024-27,3/30/2024,4,Cairo,Maadi,Website
-368,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.75818287,02-2025-19,,,Giza,Haram,Mobile App
-369,Road surface damaged at MG Road,roads,BBMP Roads,High,Pending,Pothole,0.826724537,07-2024-05,,,Giza,Mohandessin,Mobile App
-370,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.734050926,12-2025-20,12/27/2025,2,Cairo,Maadi,Mobile App
-371,Pothole near bus stop at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.715231481,06-2025-02,6/10/2025,2,Giza,Haram,Mobile App
-372,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.641261574,01-2025-27,1/28/2025,5,Giza,Dokki,Call Center
-373,Road surface damaged at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.930277778,12-2024-09,12/12/2024,4,Giza,Haram,Call Center
-374,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.259641204,12-2025-13,12/17/2025,4,Giza,Mohandessin,Call Center
-375,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.929259259,06-2025-30,7/6/2025,3,Giza,Dokki,Mobile App
-376,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.171099537,05-2025-24,,,Cairo,Heliopolis,Mobile App
-377,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Pending,Road Damage,0.376770833,07-2025-26,,,Cairo,Nasr City,Website
-378,Pothole near bus stop at Koramangala,roads,BBMP Roads,Medium,Closed,Pothole,0.228333333,12-2025-23,12/27/2025,4,Cairo,Maadi,Call Center
-379,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.735972222,12-2023-23,1/1/2024,1,Giza,Mohandessin,Mobile App
-380,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.738125,12-2024-18,12/20/2024,5,Cairo,Nasr City,Mobile App
-381,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.144710648,12-2024-19,12/21/2024,5,Cairo,Heliopolis,Mobile App
-382,Road surface damaged at Indiranagar,roads,BBMP Roads,Medium,In Progress,Pothole,0.149768519,09-2025-22,,,Giza,Mohandessin,Call Center
-383,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.249143519,01-2025-10,1/18/2025,2,Giza,Haram,Call Center
-384,Road surface damaged at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.337488426,05-2024-16,5/18/2024,5,Cairo,Maadi,Call Center
-385,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Closed,Road Damage,0.146793981,03-2023-12,3/13/2023,5,Cairo,Heliopolis,Website
-386,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Pending,Pothole,0.141909722,07-2025-25,,,Giza,Dokki,Mobile App
-387,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Closed,Road Damage,0.996956019,01-2024-22,1/24/2024,5,Giza,Dokki,Mobile App
-388,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,In Progress,Pothole,0.119664352,10-2025-19,,,Giza,Dokki,Mobile App
-389,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Closed,Road Damage,0.563368056,10-2023-25,10/28/2023,4,Giza,Dokki,Call Center
-390,Pothole near bus stop at Koramangala,roads,BBMP Roads,High,Pending,Road Damage,0.629189815,03-2023-25,,,Giza,Mohandessin,Mobile App
-391,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.120011574,02-2024-08,2/14/2024,3,Giza,Haram,Mobile App
-392,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.845219907,03-2024-11,3/15/2024,4,Cairo,Heliopolis,Mobile App
-393,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.738530093,11-2024-27,11/28/2024,5,Cairo,Nasr City,Mobile App
-394,Multiple cracks on road at Yelahanka,roads,BBMP Roads,Medium,Closed,Pothole,0.398900463,10-2024-24,10/30/2024,3,Giza,Dokki,Website
-395,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,Closed,Road Damage,0.761875,11-2024-12,11/18/2024,3,Giza,Dokki,Website
-396,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.571828704,02-2025-21,2/26/2025,3,Cairo,Maadi,Mobile App
-397,Road surface damaged at Jayanagar,roads,BBMP Roads,High,In Progress,Pothole,0.391909722,03-2024-05,,,Cairo,Nasr City,Call Center
-398,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,In Progress,Pothole,0.999780093,01-2025-12,,,Cairo,Heliopolis,Call Center
-399,Road surface damaged at Indiranagar,roads,BBMP Roads,High,Closed,Pothole,0.249722222,04-2023-22,4/25/2023,4,Giza,Mohandessin,Call Center
-400,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Closed,Pothole,0.405486111,01-2023-28,2/3/2023,3,Giza,Dokki,Call Center
-401,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.24994213,03-2025-07,3/9/2025,5,Cairo,Maadi,Website
-402,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.65005787,05-2025-24,5/31/2025,2,Giza,Mohandessin,Mobile App
-403,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.36375,05-2025-01,5/3/2025,5,Cairo,Heliopolis,Mobile App
-404,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.300659722,09-2025-20,9/29/2025,1,Cairo,Nasr City,Call Center
-405,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Closed,Road Damage,0.577476852,11-2025-22,11/24/2025,5,Cairo,Nasr City,Mobile App
-406,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.145486111,12-2025-13,12/21/2025,2,Giza,Dokki,Mobile App
-407,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.622916667,05-2024-04,5/5/2024,5,Giza,Haram,Mobile App
-408,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.255972222,04-2024-09,4/11/2024,5,Giza,Mohandessin,Call Center
-409,Road surface damaged at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.923298611,11-2023-10,11/12/2023,5,Cairo,Nasr City,Call Center
-410,Road surface damaged at Malleshwaram,roads,BBMP Roads,High,In Progress,Road Damage,0.573576389,12-2025-16,,,Giza,Mohandessin,Website
-411,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.77087963,12-2023-24,1/2/2024,1,Giza,Haram,Website
-412,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.272847222,11-2024-16,,,Giza,Mohandessin,Mobile App
-413,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.823888889,04-2025-18,4/26/2025,2,Giza,Dokki,Mobile App
-414,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.970347222,05-2023-24,5/27/2023,4,Cairo,Heliopolis,Mobile App
-415,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.621782407,02-2025-20,2/22/2025,5,Giza,Mohandessin,Call Center
-416,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.354189815,06-2023-30,7/3/2023,4,Giza,Mohandessin,Mobile App
-417,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.324618056,08-2023-19,8/25/2023,3,Cairo,Maadi,Mobile App
-418,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.575081019,01-2023-10,1/15/2023,3,Giza,Mohandessin,Call Center
-419,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.300034722,07-2024-29,8/1/2024,4,Cairo,Heliopolis,Website
-420,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.822418981,09-2024-28,10/1/2024,4,Giza,Mohandessin,Call Center
-421,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.768726852,12-2023-13,12/19/2023,3,Cairo,Nasr City,Call Center
-422,Pothole near bus stop at Koramangala,roads,BBMP Roads,Medium,Pending,Pothole,0.048530093,07-2023-01,,,Giza,Mohandessin,Mobile App
-423,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.414074074,10-2023-15,,,Giza,Haram,Mobile App
-424,Multiple cracks on road at Yelahanka,roads,BBMP Roads,Medium,Pending,Road Damage,0.710833333,11-2024-05,,,Cairo,Heliopolis,Call Center
-425,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Pending,Pothole,0.911053241,03-2025-28,,,Giza,Mohandessin,Mobile App
-426,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.342048611,08-2023-01,8/2/2023,5,Giza,Mohandessin,Call Center
-427,Pothole near bus stop at Jayanagar,roads,BBMP Roads,High,Closed,Pothole,0.301400463,03-2023-20,3/23/2023,4,Cairo,Nasr City,Website
-428,Multiple cracks on road at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.363020833,11-2025-05,11/9/2025,4,Cairo,Nasr City,Call Center
-429,Road surface damaged at Whitefield,roads,BBMP Roads,High,Pending,Road Damage,0.582002315,10-2025-18,,,Giza,Dokki,Mobile App
-430,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.257164352,06-2024-14,,,Cairo,Heliopolis,Mobile App
-431,Pothole near bus stop at BTM Layout,roads,BBMP Roads,High,In Progress,Road Damage,0.500578704,12-2024-01,,,Cairo,Nasr City,Website
-432,Multiple cracks on road at MG Road,roads,BBMP Roads,High,Pending,Pothole,0.789479167,01-2023-04,,,Giza,Dokki,Call Center
-433,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,Pending,Road Damage,0.50650463,01-2023-30,,,Cairo,Maadi,Call Center
-434,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Pending,Road Damage,0.027430556,11-2025-06,,,Giza,Dokki,Call Center
-435,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Closed,Road Damage,0.91724537,01-2025-20,1/22/2025,5,Giza,Mohandessin,Call Center
-436,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.471435185,08-2025-06,8/10/2025,4,Giza,Dokki,Mobile App
-437,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.954768519,01-2025-12,1/16/2025,4,Cairo,Nasr City,Call Center
-438,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.301689815,09-2023-19,9/21/2023,5,Giza,Dokki,Mobile App
-439,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Pending,Road Damage,0.512835648,05-2025-10,,,Cairo,Nasr City,Website
-440,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.853321759,06-2025-30,,,Giza,Haram,Website
-441,Multiple cracks on road at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.638159722,03-2024-04,3/7/2024,4,Giza,Mohandessin,Call Center
-442,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Pending,Road Damage,0.371469907,06-2023-10,,,Cairo,Maadi,Website
-443,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.06119213,12-2024-16,12/17/2024,5,Giza,Dokki,Mobile App
-444,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.154224537,12-2023-09,12/18/2023,1,Cairo,Maadi,Website
-445,Road surface damaged at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.178148148,10-2024-18,10/27/2024,1,Giza,Mohandessin,Call Center
-446,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Road Damage,0.714918981,05-2024-06,5/15/2024,1,Giza,Mohandessin,Mobile App
-447,Road surface damaged at MG Road,roads,BBMP Roads,Medium,In Progress,Road Damage,0.595127315,11-2025-24,,,Giza,Haram,Mobile App
-448,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,In Progress,Road Damage,0.293333333,06-2024-24,,,Cairo,Heliopolis,Call Center
-449,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.283530093,01-2025-21,1/26/2025,3,Cairo,Nasr City,Mobile App
-450,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,In Progress,Pothole,0.815902778,05-2025-11,,,Cairo,Nasr City,Mobile App
-451,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,In Progress,Road Damage,0.354918981,08-2025-21,,,Cairo,Heliopolis,Call Center
-452,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.104444444,12-2024-25,12/26/2024,5,Giza,Haram,Call Center
-453,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.788009259,01-2025-12,1/18/2025,3,Giza,Dokki,Call Center
-454,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.050347222,06-2025-07,6/8/2025,5,Cairo,Heliopolis,Mobile App
-455,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.177337963,02-2025-03,2/9/2025,3,Cairo,Maadi,Mobile App
-456,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,In Progress,Pothole,0.293680556,08-2024-27,,,Giza,Mohandessin,Call Center
-457,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.873368056,03-2023-10,,,Giza,Haram,Mobile App
-458,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.199664352,11-2025-10,11/11/2025,5,Cairo,Heliopolis,Website
-459,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.85431713,03-2025-06,3/7/2025,5,Cairo,Heliopolis,Website
-460,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.384965278,01-2024-06,1/8/2024,5,Cairo,Maadi,Call Center
-461,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.776030093,06-2023-14,6/17/2023,4,Giza,Dokki,Mobile App
-462,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,In Progress,Road Damage,0.742025463,08-2023-11,,,Cairo,Heliopolis,Call Center
-463,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,In Progress,Pothole,0.869247685,01-2024-29,,,Giza,Dokki,Call Center
-464,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.313298611,03-2024-20,3/24/2024,4,Cairo,Heliopolis,Mobile App
-465,Pothole near bus stop at Jayanagar,roads,BBMP Roads,High,In Progress,Road Damage,0.988553241,07-2024-30,,,Cairo,Heliopolis,Website
-466,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.615983796,09-2025-22,,,Cairo,Maadi,Mobile App
-467,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.383460648,05-2024-01,5/5/2024,4,Cairo,Maadi,Call Center
-468,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Pending,Road Damage,0.328900463,06-2025-11,,,Cairo,Nasr City,Website
-469,Multiple cracks on road at Yelahanka,roads,BBMP Roads,Medium,Pending,Road Damage,0.002789352,01-2024-29,,,Giza,Mohandessin,Mobile App
-470,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.105914352,11-2023-05,11/14/2023,1,Giza,Mohandessin,Mobile App
-471,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.883206019,09-2023-23,9/27/2023,4,Cairo,Maadi,Website
-472,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,In Progress,Pothole,0.606608796,06-2023-26,,,Cairo,Heliopolis,Website
-473,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,In Progress,Road Damage,0.100636574,08-2024-02,,,Cairo,Heliopolis,Mobile App
-474,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.345162037,06-2025-02,6/11/2025,1,Giza,Mohandessin,Mobile App
-475,Pothole near bus stop at BTM Layout,roads,BBMP Roads,High,In Progress,Road Damage,0.373333333,11-2024-16,,,Cairo,Heliopolis,Call Center
-476,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.831458333,12-2025-17,12/24/2025,2,Giza,Dokki,Website
-477,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Pending,Road Damage,0.748113426,02-2025-05,,,Giza,Haram,Mobile App
-478,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.154791667,09-2023-23,9/25/2023,5,Giza,Mohandessin,Call Center
-479,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.403321759,07-2023-25,8/3/2023,1,Giza,Mohandessin,Call Center
-480,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.4071875,08-2025-30,9/4/2025,3,Giza,Dokki,Mobile App
-481,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.159421296,05-2023-03,5/4/2023,5,Cairo,Heliopolis,Mobile App
-482,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.988738426,01-2023-16,1/20/2023,4,Cairo,Nasr City,Call Center
-483,Road surface damaged at Whitefield,roads,BBMP Roads,High,In Progress,Pothole,0.143321759,12-2023-23,,,Cairo,Heliopolis,Call Center
-484,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.8965625,12-2024-28,,,Giza,Haram,Mobile App
-485,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.480162037,07-2024-04,7/9/2024,3,Giza,Dokki,Mobile App
-486,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.684826389,05-2024-07,,,Giza,Mohandessin,Website
-487,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.439085648,05-2024-31,6/9/2024,1,Cairo,Heliopolis,Website
-488,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.904780093,04-2025-23,4/30/2025,2,Giza,Mohandessin,Website
-489,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Pending,Road Damage,0.160324074,05-2025-19,,,Cairo,Nasr City,Mobile App
-490,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.207835648,02-2023-27,3/3/2023,4,Cairo,Maadi,Call Center
-491,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.16462963,01-2023-20,1/27/2023,2,Cairo,Heliopolis,Mobile App
-492,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.353009259,01-2023-28,,,Giza,Haram,Mobile App
-493,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,In Progress,Pothole,0.217569444,08-2023-26,,,Giza,Haram,Mobile App
+﻿Complation_Id,text_description,issue_type,department,priority,status,subcategory,created_time,Created_date,closed_date,satisfaction_score,city,district,submission_channel,max_resolution_days
+1,Road surface damaged at Koramangala,roads,BBMP Roads,Medium,Closed,Pothole,0.415972222,12-2025-08,12/9/2025,5,Cairo,Heliopolis,Mobile App,5
+2,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.898969907,03-2025-02,3/8/2025,3,Cairo,Heliopolis,Mobile App,3
+3,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.100150463,09-2024-24,9/29/2024,3,Giza,Dokki,Website,5
+4,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.016550926,03-2025-14,3/23/2025,1,Cairo,Heliopolis,Mobile App,3
+5,Pothole near bus stop at Koramangala,roads,BBMP Roads,Medium,Pending,Pothole,0.260081019,09-2023-18,,,Cairo,Maadi,Mobile App,5
+6,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Pending,Road Damage,0.969166667,07-2024-05,,,Giza,Mohandessin,Mobile App,3
+7,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.25087963,09-2023-14,9/22/2023,2,Giza,Haram,Mobile App,5
+8,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Pending,Pothole,0.583680556,04-2025-23,,,Giza,Haram,Call Center,5
+9,Pothole near bus stop at Jayanagar,roads,BBMP Roads,High,Closed,Road Damage,0.466215278,07-2024-07,7/16/2024,1,Cairo,Maadi,Website,3
+10,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.558576389,07-2025-15,7/23/2025,2,Giza,Mohandessin,Mobile App,3
+11,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.476712963,03-2024-06,3/11/2024,3,Cairo,Nasr City,Mobile App,5
+12,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Closed,Road Damage,0.727256944,03-2023-22,3/23/2023,5,Giza,Mohandessin,Mobile App,5
+13,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.868263889,12-2025-01,12/2/2025,5,Cairo,Heliopolis,Call Center,5
+14,Road surface damaged at BTM Layout,roads,BBMP Roads,High,In Progress,Pothole,0.203287037,12-2025-11,,,Giza,Mohandessin,Mobile App,3
+15,Road surface damaged at Jayanagar,roads,BBMP Roads,High,Closed,Road Damage,0.711875,06-2024-21,6/30/2024,1,Giza,Dokki,Mobile App,3
+16,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.690046296,03-2024-08,3/10/2024,5,Giza,Mohandessin,Mobile App,3
+17,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.5290625,09-2024-18,9/26/2024,2,Cairo,Nasr City,Website,5
+18,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.1784375,08-2024-01,8/10/2024,1,Cairo,Heliopolis,Mobile App,3
+19,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.407534722,05-2025-23,,,Cairo,Heliopolis,Mobile App,3
+20,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,In Progress,Pothole,0.549328704,02-2025-26,,,Giza,Haram,Call Center,5
+21,Multiple cracks on road at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.571284722,11-2025-29,11/30/2025,5,Cairo,Nasr City,Mobile App,5
+22,Road surface damaged at MG Road,roads,BBMP Roads,High,Closed,Pothole,0.417800926,08-2025-22,8/25/2025,4,Giza,Mohandessin,Call Center,3
+23,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Closed,Road Damage,0.139108796,01-2024-30,2/3/2024,4,Cairo,Heliopolis,Mobile App,3
+24,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.700335648,07-2024-15,7/19/2024,4,Giza,Dokki,Call Center,3
+25,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.557037037,10-2023-07,10/15/2023,2,Cairo,Heliopolis,Call Center,5
+26,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.375046296,09-2023-17,,,Cairo,Heliopolis,Call Center,5
+27,Road surface damaged at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.85837963,03-2024-25,3/28/2024,4,Giza,Haram,Website,5
+28,Multiple cracks on road at BTM Layout,roads,BBMP Roads,High,Closed,Road Damage,0.46255787,11-2023-17,11/18/2023,5,Cairo,Heliopolis,Mobile App,3
+29,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Pending,Road Damage,0.915046296,10-2023-31,,,Giza,Haram,Call Center,3
+30,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.092789352,12-2023-19,12/28/2023,1,Cairo,Maadi,Mobile App,3
+31,Road surface damaged at Jayanagar,roads,BBMP Roads,High,Closed,Road Damage,0.678784722,08-2023-26,8/28/2023,5,Giza,Haram,Mobile App,3
+32,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,Pending,Pothole,0.026689815,07-2025-09,,,Cairo,Heliopolis,Call Center,3
+33,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.940092593,09-2025-20,,,Giza,Dokki,Website,5
+34,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.558576389,03-2024-04,3/8/2024,4,Cairo,Heliopolis,Call Center,5
+35,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Pending,Pothole,0.613125,04-2024-27,,,Cairo,Nasr City,Call Center,5
+36,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.527534722,08-2024-21,8/24/2024,4,Cairo,Heliopolis,Call Center,5
+37,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,In Progress,Road Damage,0.707685185,03-2024-04,,,Giza,Haram,Call Center,5
+38,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,In Progress,Road Damage,0.234479167,08-2024-13,,,Cairo,Maadi,Mobile App,3
+39,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,In Progress,Road Damage,0.9496875,04-2024-22,,,Giza,Dokki,Mobile App,5
+40,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.712083333,01-2025-20,1/25/2025,3,Giza,Mohandessin,Call Center,5
+41,Road surface damaged at MG Road,roads,BBMP Roads,High,Pending,Road Damage,0.336122685,10-2025-23,,,Cairo,Nasr City,Call Center,3
+42,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,In Progress,Road Damage,0.892673611,09-2025-23,,,Giza,Haram,Mobile App,5
+43,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.072048611,05-2023-09,5/18/2023,1,Giza,Haram,Call Center,3
+44,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,In Progress,Pothole,0.413703704,08-2025-07,,,Giza,Mohandessin,Call Center,5
+45,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.178553241,05-2024-08,5/15/2024,2,Giza,Haram,Call Center,3
+46,Pothole near bus stop at Whitefield,roads,BBMP Roads,Medium,Pending,Pothole,0.263865741,08-2025-21,,,Giza,Mohandessin,Mobile App,5
+47,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.318773148,10-2025-08,10/9/2025,5,Cairo,Nasr City,Mobile App,3
+48,Pothole near bus stop at Koramangala,roads,BBMP Roads,High,Closed,Pothole,0.701064815,09-2025-24,9/26/2025,5,Cairo,Nasr City,Website,3
+49,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.589178241,10-2025-30,10/31/2025,5,Cairo,Nasr City,Call Center,5
+50,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,In Progress,Pothole,0.550497685,04-2024-03,,,Cairo,Nasr City,Call Center,3
+51,Road surface damaged at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.880787037,04-2023-17,4/20/2023,4,Giza,Mohandessin,Call Center,5
+52,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.583298611,12-2025-05,12/10/2025,3,Giza,Haram,Call Center,5
+53,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,In Progress,Pothole,0.493969907,12-2025-04,,,Cairo,Heliopolis,Call Center,5
+54,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.542800926,04-2023-19,4/26/2023,2,Giza,Haram,Call Center,3
+55,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Pothole,0.214456019,05-2025-26,5/27/2025,5,Cairo,Nasr City,Website,5
+56,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Closed,Pothole,0.041377315,02-2025-17,2/20/2025,4,Cairo,Heliopolis,Call Center,3
+57,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Pending,Pothole,0.964456019,07-2023-31,,,Giza,Dokki,Mobile App,3
+58,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.678252315,04-2024-22,4/24/2024,5,Cairo,Maadi,Call Center,5
+59,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.305381944,02-2025-17,2/21/2025,4,Cairo,Nasr City,Website,3
+60,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.322997685,04-2024-25,4/27/2024,5,Cairo,Maadi,Call Center,3
+61,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Closed,Pothole,0.737939815,08-2025-15,8/23/2025,2,Cairo,Heliopolis,Mobile App,3
+62,Road surface damaged at Koramangala,roads,BBMP Roads,High,Closed,Pothole,0.157037037,03-2025-07,3/11/2025,4,Cairo,Heliopolis,Mobile App,3
+63,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.444837963,04-2025-18,4/23/2025,3,Cairo,Maadi,Website,5
+64,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.316805556,12-2024-20,12/28/2024,2,Giza,Dokki,Call Center,3
+65,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.342835648,09-2024-28,10/2/2024,4,Cairo,Maadi,Call Center,3
+66,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.386087963,04-2025-11,,,Giza,Dokki,Website,5
+67,Road surface damaged at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.796469907,01-2023-15,1/16/2023,5,Giza,Haram,Mobile App,3
+68,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.507916667,04-2025-23,,,Giza,Mohandessin,Call Center,5
+69,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.643553241,02-2023-19,2/25/2023,3,Cairo,Maadi,Mobile App,5
+70,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.420763889,03-2025-02,3/3/2025,5,Giza,Haram,Call Center,5
+71,Pothole near bus stop at Whitefield,roads,BBMP Roads,Medium,Closed,Road Damage,0.530509259,11-2024-18,11/27/2024,1,Giza,Dokki,Mobile App,5
+72,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.364178241,01-2025-15,1/22/2025,2,Cairo,Nasr City,Website,5
+73,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.130532407,02-2023-26,3/5/2023,2,Cairo,Heliopolis,Website,5
+74,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Pending,Road Damage,0.277835648,12-2025-14,,,Cairo,Maadi,Call Center,5
+75,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,Closed,Pothole,0.784872685,06-2025-02,6/5/2025,4,Cairo,Nasr City,Call Center,5
+76,Road surface damaged at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.714722222,03-2024-13,3/16/2024,4,Giza,Dokki,Call Center,5
+77,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.913206019,03-2024-18,3/24/2024,3,Giza,Haram,Mobile App,5
+78,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.791469907,02-2024-08,2/11/2024,4,Giza,Dokki,Website,3
+79,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.702581019,08-2025-16,8/24/2025,2,Cairo,Nasr City,Website,3
+80,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,High,Pending,Road Damage,0.759907407,09-2025-01,,,Giza,Haram,Website,3
+81,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.637696759,01-2025-27,1/29/2025,5,Giza,Haram,Call Center,5
+82,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.975138889,03-2023-20,3/22/2023,5,Giza,Mohandessin,Mobile App,5
+83,Pothole near bus stop at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.67494213,02-2023-25,3/1/2023,4,Cairo,Heliopolis,Call Center,5
+84,Road surface damaged at Koramangala,roads,BBMP Roads,High,Pending,Pothole,0.9053125,11-2024-27,,,Giza,Dokki,Call Center,3
+85,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Pending,Pothole,0.044884259,08-2023-15,,,Cairo,Maadi,Website,5
+86,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Pending,Road Damage,0.253773148,09-2023-02,,,Giza,Dokki,Call Center,5
+87,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.5184375,05-2023-30,6/2/2023,4,Cairo,Maadi,Mobile App,5
+88,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,In Progress,Pothole,0.910972222,03-2024-22,,,Giza,Haram,Website,3
+89,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Closed,Pothole,0.547476852,10-2025-27,10/30/2025,4,Cairo,Maadi,Mobile App,3
+90,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.962256944,08-2023-14,8/18/2023,4,Cairo,Maadi,Mobile App,5
+91,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,High,In Progress,Pothole,0.300150463,09-2024-24,,,Giza,Mohandessin,Call Center,3
+92,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.599768519,08-2024-06,,,Giza,Mohandessin,Call Center,5
+93,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Closed,Road Damage,0.247407407,01-2025-24,2/1/2025,2,Cairo,Nasr City,Mobile App,5
+94,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.930266204,08-2024-16,8/22/2024,3,Cairo,Nasr City,Call Center,3
+95,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.475983796,02-2024-07,2/16/2024,1,Cairo,Nasr City,Call Center,3
+96,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.463819444,06-2023-15,,,Cairo,Heliopolis,Mobile App,5
+97,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.040671296,11-2025-24,11/28/2025,4,Cairo,Maadi,Website,5
+98,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.976365741,07-2025-13,7/16/2025,4,Giza,Haram,Website,5
+99,Pothole near bus stop at Jayanagar,roads,BBMP Roads,High,Closed,Pothole,0.489733796,11-2024-30,12/6/2024,3,Giza,Mohandessin,Mobile App,3
+100,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.406782407,06-2023-24,6/28/2023,4,Cairo,Heliopolis,Mobile App,5
+101,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.082581019,09-2023-01,9/7/2023,3,Giza,Haram,Call Center,5
+102,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.281099537,01-2023-17,1/19/2023,5,Giza,Dokki,Call Center,5
+103,Road surface damaged at Koramangala,roads,BBMP Roads,Medium,Pending,Pothole,0.116446759,07-2025-23,,,Cairo,Nasr City,Call Center,5
+104,Road surface damaged at Indiranagar,roads,BBMP Roads,High,Closed,Pothole,0.38962963,08-2023-18,8/25/2023,2,Giza,Dokki,Call Center,3
+105,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.16587963,12-2024-24,1/1/2025,2,Giza,Dokki,Mobile App,5
+106,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.475925926,02-2025-07,,,Giza,Dokki,Call Center,3
+107,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.799085648,01-2023-17,1/24/2023,2,Cairo,Nasr City,Mobile App,3
+108,Road surface damaged at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.798252315,11-2025-30,12/5/2025,3,Cairo,Heliopolis,Website,3
+109,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.304375,06-2023-28,6/29/2023,5,Cairo,Heliopolis,Mobile App,5
+110,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.472199074,12-2024-31,1/4/2025,4,Cairo,Heliopolis,Website,3
+111,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.177673611,03-2024-12,3/15/2024,4,Giza,Haram,Mobile App,5
+112,Road surface damaged at Yelahanka,roads,BBMP Roads,High,In Progress,Road Damage,0.499027778,05-2024-04,,,Cairo,Maadi,Mobile App,3
+113,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,In Progress,Pothole,0.355821759,05-2024-04,,,Cairo,Heliopolis,Website,3
+114,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.519375,01-2025-02,1/11/2025,1,Giza,Mohandessin,Mobile App,3
+115,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.600185185,09-2025-14,9/16/2025,5,Cairo,Maadi,Call Center,5
+116,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.359768519,11-2025-28,11/30/2025,5,Giza,Dokki,Website,5
+117,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,In Progress,Pothole,0.113530093,05-2025-17,,,Giza,Mohandessin,Mobile App,5
+118,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.742731481,06-2024-01,6/3/2024,5,Cairo,Maadi,Mobile App,3
+119,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Closed,Road Damage,0.146446759,03-2024-18,3/19/2024,5,Cairo,Maadi,Mobile App,3
+120,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.44931713,07-2023-11,7/16/2023,3,Giza,Dokki,Call Center,5
+121,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Pending,Pothole,0.521423611,09-2025-22,,,Cairo,Maadi,Call Center,3
+122,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.0071875,09-2023-06,9/15/2023,1,Cairo,Nasr City,Call Center,3
+123,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.007326389,06-2023-09,6/18/2023,1,Giza,Haram,Call Center,3
+124,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.293912037,03-2025-08,3/15/2025,2,Cairo,Heliopolis,Call Center,5
+125,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.385798611,07-2023-01,,,Cairo,Nasr City,Mobile App,5
+126,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,In Progress,Road Damage,0.023912037,10-2024-18,,,Cairo,Maadi,Call Center,5
+127,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.597766204,04-2024-04,4/9/2024,3,Giza,Mohandessin,Mobile App,5
+128,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.204861111,01-2023-06,,,Cairo,Maadi,Mobile App,5
+129,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Pending,Pothole,0.062037037,01-2023-17,,,Giza,Dokki,Mobile App,3
+130,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.35056713,10-2023-23,,,Cairo,Nasr City,Mobile App,3
+131,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,In Progress,Pothole,0.913078704,04-2023-12,,,Giza,Mohandessin,Website,3
+132,Road surface damaged at Whitefield,roads,BBMP Roads,High,Pending,Road Damage,0.354189815,11-2025-20,,,Giza,Mohandessin,Mobile App,3
+133,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.653113426,09-2024-30,10/2/2024,5,Cairo,Heliopolis,Call Center,3
+134,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Pending,Pothole,0.234039352,04-2025-17,,,Cairo,Heliopolis,Call Center,5
+135,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.314895833,01-2024-14,1/19/2024,3,Giza,Haram,Mobile App,3
+136,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.093900463,05-2025-24,,,Giza,Dokki,Call Center,5
+137,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Closed,Road Damage,0.997071759,08-2024-10,8/19/2024,1,Giza,Dokki,Mobile App,5
+138,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.75380787,06-2023-18,,,Cairo,Heliopolis,Call Center,3
+139,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.747314815,08-2025-18,8/20/2025,5,Giza,Mohandessin,Mobile App,3
+140,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,In Progress,Road Damage,0.367476852,10-2025-29,,,Giza,Dokki,Call Center,5
+141,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Pending,Pothole,0.778194444,04-2024-23,,,Giza,Dokki,Call Center,3
+142,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.151875,12-2024-19,12/24/2024,3,Giza,Mohandessin,Mobile App,5
+143,Pothole near bus stop at BTM Layout,roads,BBMP Roads,Medium,Pending,Road Damage,0.418090278,06-2023-26,,,Giza,Mohandessin,Mobile App,5
+144,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.182627315,01-2023-09,1/12/2023,4,Giza,Haram,Mobile App,3
+145,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.035706019,08-2025-22,8/28/2025,3,Giza,Haram,Mobile App,3
+146,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,Pending,Road Damage,0.068101852,05-2025-14,,,Cairo,Nasr City,Website,3
+147,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,Closed,Road Damage,0.485347222,07-2024-27,7/29/2024,5,Cairo,Nasr City,Website,5
+148,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.981550926,12-2025-21,12/24/2025,4,Cairo,Nasr City,Website,5
+149,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.759375,11-2024-25,,,Giza,Dokki,Website,5
+150,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,In Progress,Road Damage,0.252662037,06-2024-05,,,Cairo,Nasr City,Mobile App,3
+151,Multiple cracks on road at BTM Layout,roads,BBMP Roads,High,In Progress,Pothole,0.417928241,05-2023-12,,,Giza,Dokki,Mobile App,3
+152,Pothole near bus stop at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.120381944,06-2024-02,6/4/2024,5,Cairo,Heliopolis,Call Center,5
+153,Road surface damaged at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.976018519,09-2023-04,9/7/2023,4,Giza,Mohandessin,Mobile App,5
+154,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Road Damage,0.012303241,11-2025-30,12/5/2025,3,Giza,Dokki,Website,3
+155,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,In Progress,Road Damage,0.216979167,08-2023-19,,,Giza,Mohandessin,Website,3
+156,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.212928241,07-2023-05,7/8/2023,4,Cairo,Maadi,Mobile App,3
+157,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.910486111,07-2024-04,,,Cairo,Heliopolis,Mobile App,3
+158,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.123946759,06-2025-21,6/27/2025,3,Giza,Mohandessin,Mobile App,5
+159,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.483368056,09-2023-01,9/6/2023,3,Giza,Mohandessin,Mobile App,3
+160,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.813587963,10-2023-12,,,Cairo,Maadi,Mobile App,5
+161,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.661990741,09-2023-24,9/30/2023,3,Giza,Haram,Mobile App,5
+162,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.447488426,05-2025-18,5/23/2025,3,Cairo,Maadi,Mobile App,5
+163,Pothole near bus stop at BTM Layout,roads,BBMP Roads,High,Pending,Pothole,0.931597222,03-2025-05,,,Cairo,Heliopolis,Mobile App,3
+164,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,Closed,Road Damage,0.49443287,09-2024-08,9/10/2024,5,Giza,Haram,Website,5
+165,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.346296296,02-2023-19,2/26/2023,2,Cairo,Nasr City,Mobile App,5
+166,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.742777778,07-2025-19,,,Giza,Haram,Call Center,5
+167,Road surface damaged at Indiranagar,roads,BBMP Roads,High,Pending,Road Damage,0.285532407,06-2023-16,,,Cairo,Heliopolis,Website,3
+168,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Pending,Road Damage,0.123483796,02-2024-05,,,Cairo,Heliopolis,Call Center,3
+169,Road surface damaged at Jayanagar,roads,BBMP Roads,High,In Progress,Pothole,0.302048611,10-2023-19,,,Giza,Haram,Mobile App,3
+170,Road surface damaged at Koramangala,roads,BBMP Roads,Medium,Closed,Road Damage,0.625601852,02-2023-14,2/23/2023,1,Cairo,Maadi,Mobile App,5
+171,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,Closed,Pothole,0.933055556,07-2024-11,7/20/2024,1,Cairo,Heliopolis,Call Center,5
+172,Road surface damaged at Koramangala,roads,BBMP Roads,High,Pending,Road Damage,0.869583333,07-2023-11,,,Giza,Haram,Website,3
+173,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,In Progress,Pothole,0.593622685,02-2023-06,,,Cairo,Maadi,Mobile App,5
+174,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.488321759,06-2023-15,6/18/2023,4,Cairo,Nasr City,Mobile App,5
+175,Road surface damaged at Malleshwaram,roads,BBMP Roads,High,Pending,Pothole,0.854918981,08-2025-10,,,Cairo,Maadi,Website,3
+176,Road surface damaged at MG Road,roads,BBMP Roads,High,In Progress,Road Damage,0.021643519,02-2023-01,,,Giza,Dokki,Website,3
+177,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.546076389,09-2025-15,9/16/2025,5,Cairo,Heliopolis,Mobile App,5
+178,Pothole near bus stop at Koramangala,roads,BBMP Roads,Medium,Closed,Road Damage,0.47849537,02-2024-17,2/20/2024,4,Cairo,Heliopolis,Mobile App,5
+179,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.982800926,01-2024-22,1/28/2024,3,Cairo,Nasr City,Call Center,5
+180,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.386493056,08-2025-25,8/30/2025,3,Giza,Dokki,Call Center,5
+181,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,In Progress,Pothole,0.825335648,11-2025-03,,,Giza,Haram,Mobile App,5
+182,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Pending,Road Damage,0.805960648,08-2025-12,,,Giza,Haram,Website,3
+183,Pothole near bus stop at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.019699074,09-2023-17,9/21/2023,4,Giza,Haram,Mobile App,3
+184,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.317766204,03-2023-27,4/2/2023,3,Cairo,Nasr City,Call Center,3
+185,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Pending,Pothole,0.56619213,12-2023-16,,,Cairo,Heliopolis,Mobile App,3
+186,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,In Progress,Pothole,0.141863426,06-2024-11,,,Giza,Mohandessin,Mobile App,5
+187,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.128715278,11-2024-27,11/29/2024,5,Cairo,Heliopolis,Call Center,3
+188,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,In Progress,Pothole,0.122638889,07-2025-21,,,Cairo,Heliopolis,Mobile App,3
+189,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Pending,Road Damage,0.673935185,11-2023-28,,,Cairo,Maadi,Website,5
+190,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.452777778,09-2024-26,10/3/2024,2,Giza,Mohandessin,Mobile App,5
+191,Road surface damaged at BTM Layout,roads,BBMP Roads,High,In Progress,Pothole,0.074837963,05-2024-20,,,Cairo,Maadi,Website,3
+192,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.003923611,10-2023-16,10/23/2023,2,Cairo,Nasr City,Mobile App,3
+193,Road surface damaged at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.396481481,12-2025-30,12/31/2025,5,Giza,Haram,Mobile App,3
+194,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.994918981,01-2025-06,1/13/2025,2,Giza,Haram,Call Center,5
+195,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,In Progress,Road Damage,0.815740741,11-2024-04,,,Cairo,Nasr City,Call Center,5
+196,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.230277778,05-2024-10,,,Cairo,Nasr City,Mobile App,5
+197,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.491574074,03-2025-21,,,Cairo,Maadi,Mobile App,3
+198,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.421446759,12-2024-14,12/21/2024,2,Giza,Mohandessin,Mobile App,3
+199,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,Closed,Road Damage,0.830636574,07-2024-22,7/24/2024,5,Giza,Dokki,Mobile App,5
+200,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.887719907,04-2025-23,,,Giza,Haram,Mobile App,5
+201,Pothole near bus stop at Koramangala,roads,BBMP Roads,Medium,Pending,Road Damage,0.927164352,05-2025-03,,,Cairo,Maadi,Call Center,5
+202,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,In Progress,Pothole,0.13193287,03-2023-16,,,Cairo,Nasr City,Mobile App,5
+203,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.01056713,01-2025-05,1/6/2025,5,Giza,Mohandessin,Website,5
+204,Road surface damaged at Whitefield,roads,BBMP Roads,High,In Progress,Pothole,0.919594907,09-2023-14,,,Giza,Mohandessin,Call Center,3
+205,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.931736111,03-2024-09,3/14/2024,3,Giza,Mohandessin,Website,5
+206,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,In Progress,Pothole,0.608287037,05-2024-19,,,Giza,Haram,Call Center,5
+207,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.394074074,12-2024-02,12/3/2024,5,Cairo,Maadi,Mobile App,5
+208,Pothole near bus stop at BTM Layout,roads,BBMP Roads,High,Pending,Pothole,0.322638889,03-2024-23,,,Cairo,Heliopolis,Mobile App,3
+209,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,Closed,Pothole,0.509189815,05-2023-21,5/22/2023,5,Cairo,Maadi,Call Center,5
+210,Multiple cracks on road at MG Road,roads,BBMP Roads,High,In Progress,Pothole,0.044953704,03-2023-15,,,Cairo,Maadi,Website,3
+211,Multiple cracks on road at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.003275463,08-2025-05,8/11/2025,3,Cairo,Nasr City,Mobile App,3
+212,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.555428241,01-2025-08,,,Cairo,Maadi,Website,5
+213,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.208206019,12-2025-27,12/31/2025,4,Giza,Dokki,Mobile App,5
+214,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,Medium,In Progress,Pothole,0.251608796,07-2024-25,,,Cairo,Maadi,Mobile App,5
+215,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,In Progress,Road Damage,0.820509259,10-2023-12,,,Giza,Haram,Website,3
+216,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.048680556,09-2023-27,10/5/2023,2,Giza,Haram,Call Center,3
+217,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.770185185,09-2024-22,9/28/2024,3,Cairo,Heliopolis,Mobile App,3
+218,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.951134259,02-2023-03,,,Cairo,Heliopolis,Mobile App,5
+219,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.914178241,06-2024-12,6/18/2024,3,Giza,Dokki,Call Center,3
+220,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Pending,Pothole,0.163888889,04-2023-22,,,Giza,Dokki,Call Center,3
+221,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.581909722,12-2023-22,12/25/2023,4,Giza,Dokki,Mobile App,3
+222,Road surface damaged at Koramangala,roads,BBMP Roads,Medium,Pending,Road Damage,0.555740741,04-2023-24,,,Giza,Dokki,Mobile App,5
+223,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.655416667,01-2023-22,1/24/2023,5,Giza,Haram,Mobile App,5
+224,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,Closed,Pothole,0.5571875,11-2025-09,11/14/2025,3,Cairo,Heliopolis,Call Center,5
+225,Road surface damaged at Koramangala,roads,BBMP Roads,Medium,Closed,Pothole,0.838703704,07-2025-22,7/28/2025,3,Giza,Dokki,Mobile App,5
+226,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.938460648,02-2023-01,2/4/2023,4,Giza,Haram,Website,5
+227,Multiple cracks on road at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.744155093,12-2025-21,12/24/2025,4,Cairo,Maadi,Website,3
+228,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Pending,Road Damage,0.319421296,08-2023-17,,,Giza,Mohandessin,Mobile App,3
+229,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.321261574,04-2023-09,4/17/2023,2,Giza,Haram,Call Center,5
+230,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Pending,Road Damage,0.283541667,04-2024-30,,,Cairo,Nasr City,Mobile App,5
+231,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,Pending,Road Damage,0.760150463,11-2025-17,,,Giza,Haram,Website,5
+232,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.168483796,02-2024-02,2/3/2024,5,Giza,Mohandessin,Mobile App,5
+233,Pothole near bus stop at BTM Layout,roads,BBMP Roads,Medium,Closed,Road Damage,0.133553241,08-2023-17,8/19/2023,5,Cairo,Heliopolis,Call Center,5
+234,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,In Progress,Road Damage,0.714652778,09-2024-29,,,Cairo,Maadi,Mobile App,3
+235,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.532222222,10-2025-04,10/12/2025,2,Cairo,Heliopolis,Call Center,3
+236,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.960451389,11-2023-04,11/5/2023,5,Giza,Haram,Call Center,5
+237,Multiple cracks on road at Yelahanka,roads,BBMP Roads,Medium,Closed,Pothole,0.600243056,12-2025-31,12/31/2025,5,Giza,Mohandessin,Website,5
+238,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,In Progress,Pothole,0.918136574,06-2025-30,,,Cairo,Maadi,Mobile App,5
+239,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Pending,Pothole,0.918356481,12-2025-21,,,Cairo,Nasr City,Call Center,5
+240,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Pending,Road Damage,0.182708333,12-2023-13,,,Cairo,Heliopolis,Website,5
+241,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.931273148,08-2023-28,8/31/2023,4,Giza,Dokki,Mobile App,5
+242,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,In Progress,Road Damage,0.662280093,07-2025-03,,,Giza,Haram,Website,5
+243,Road surface damaged at Whitefield,roads,BBMP Roads,High,Closed,Pothole,0.948518519,10-2025-08,10/16/2025,2,Giza,Dokki,Website,3
+244,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Pending,Road Damage,0.228032407,10-2023-08,,,Cairo,Heliopolis,Website,3
+245,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Closed,Pothole,0.204189815,03-2023-23,3/24/2023,5,Giza,Mohandessin,Mobile App,3
+246,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.756712963,01-2025-24,1/27/2025,4,Cairo,Heliopolis,Call Center,5
+247,Pothole near bus stop at MG Road,roads,BBMP Roads,High,In Progress,Pothole,0.3715625,03-2024-25,,,Cairo,Maadi,Call Center,3
+248,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.685289352,09-2025-13,9/17/2025,4,Giza,Haram,Mobile App,3
+249,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.282685185,04-2024-30,5/7/2024,2,Giza,Haram,Call Center,3
+250,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,In Progress,Road Damage,0.488240741,01-2025-29,,,Cairo,Nasr City,Website,5
+251,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Closed,Road Damage,0.8925,10-2024-07,10/16/2024,1,Giza,Haram,Call Center,3
+252,Multiple cracks on road at MG Road,roads,BBMP Roads,High,Closed,Pothole,0.525243056,02-2025-10,2/16/2025,3,Giza,Dokki,Mobile App,3
+253,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Pending,Road Damage,0.098703704,04-2023-27,,,Giza,Dokki,Mobile App,5
+254,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.778425926,11-2025-11,11/12/2025,5,Cairo,Heliopolis,Call Center,5
+255,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Pending,Road Damage,0.23412037,03-2023-23,,,Cairo,Heliopolis,Mobile App,3
+256,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.248009259,03-2024-09,3/11/2024,5,Giza,Dokki,Mobile App,5
+257,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,Closed,Pothole,0.102199074,05-2023-14,5/17/2023,4,Cairo,Maadi,Website,3
+258,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.764270833,03-2025-15,3/16/2025,5,Cairo,Heliopolis,Call Center,5
+259,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.579444444,01-2023-08,1/11/2023,4,Cairo,Nasr City,Mobile App,5
+260,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Pending,Pothole,0.691215278,05-2024-17,,,Giza,Dokki,Call Center,3
+261,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,In Progress,Pothole,0.15681713,01-2024-11,,,Giza,Dokki,Mobile App,5
+262,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,In Progress,Pothole,0.77931713,11-2024-13,,,Giza,Dokki,Mobile App,5
+263,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.848773148,08-2023-27,8/30/2023,4,Giza,Mohandessin,Mobile App,5
+264,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.444386574,09-2023-18,9/23/2023,3,Cairo,Nasr City,Mobile App,3
+265,Pothole near bus stop at Koramangala,roads,BBMP Roads,Medium,Pending,Road Damage,0.26380787,12-2023-11,,,Cairo,Nasr City,Call Center,5
+266,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Pending,Pothole,0.009756944,10-2023-26,,,Cairo,Nasr City,Website,5
+267,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Pothole,0.376354167,06-2025-21,6/30/2025,1,Cairo,Nasr City,Call Center,3
+268,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.628125,06-2024-25,6/28/2024,4,Giza,Mohandessin,Mobile App,5
+269,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.824328704,02-2025-22,,,Giza,Dokki,Mobile App,5
+270,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.146747685,08-2024-08,8/9/2024,5,Giza,Mohandessin,Mobile App,3
+271,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Pending,Road Damage,0.673148148,02-2024-16,,,Cairo,Maadi,Mobile App,3
+272,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,Closed,Road Damage,0.77587963,10-2025-24,11/2/2025,1,Cairo,Heliopolis,Mobile App,3
+273,Pothole near bus stop at Jayanagar,roads,BBMP Roads,High,In Progress,Pothole,0.540752315,12-2023-23,,,Cairo,Heliopolis,Website,3
+274,Pothole near bus stop at BTM Layout,roads,BBMP Roads,High,Closed,Road Damage,0.161550926,01-2023-27,1/28/2023,5,Cairo,Heliopolis,Mobile App,3
+275,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.694155093,09-2024-01,9/10/2024,1,Giza,Mohandessin,Mobile App,5
+276,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.924918981,03-2023-26,4/3/2023,2,Giza,Mohandessin,Call Center,3
+277,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,In Progress,Pothole,0.901180556,09-2024-14,,,Cairo,Maadi,Call Center,5
+278,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.751643519,08-2023-01,8/10/2023,1,Cairo,Nasr City,Website,3
+279,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Closed,Pothole,0.726805556,03-2023-20,3/25/2023,3,Cairo,Maadi,Mobile App,3
+280,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.072534722,07-2023-22,7/24/2023,5,Cairo,Nasr City,Mobile App,5
+281,Road surface damaged at Koramangala,roads,BBMP Roads,High,Pending,Pothole,0.245740741,02-2025-22,,,Cairo,Heliopolis,Call Center,3
+282,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Closed,Road Damage,0.96337963,03-2025-22,3/27/2025,3,Cairo,Maadi,Website,5
+283,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.466041667,05-2025-11,5/17/2025,3,Giza,Mohandessin,Call Center,5
+284,Road surface damaged at Koramangala,roads,BBMP Roads,Medium,Closed,Pothole,0.876967593,09-2025-30,10/1/2025,5,Cairo,Nasr City,Call Center,5
+285,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.379664352,09-2025-06,9/10/2025,4,Giza,Mohandessin,Mobile App,3
+286,Pothole near bus stop at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.791805556,08-2025-27,9/5/2025,1,Cairo,Nasr City,Call Center,3
+287,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.726226852,07-2023-10,7/18/2023,2,Cairo,Maadi,Call Center,3
+288,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.50119213,02-2024-11,,,Giza,Haram,Website,3
+289,Multiple cracks on road at BTM Layout,roads,BBMP Roads,High,Closed,Road Damage,0.607349537,02-2023-11,2/12/2023,5,Giza,Mohandessin,Mobile App,3
+290,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.188518519,03-2024-16,3/21/2024,3,Giza,Dokki,Website,5
+291,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Pending,Pothole,0.302233796,08-2024-14,,,Giza,Haram,Mobile App,3
+292,Pothole near bus stop at Jayanagar,roads,BBMP Roads,High,Pending,Road Damage,0.758981481,04-2025-08,,,Cairo,Nasr City,Mobile App,3
+293,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.254618056,04-2025-18,4/23/2025,3,Cairo,Maadi,Mobile App,5
+294,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Pothole,0.026666667,05-2023-06,5/14/2023,2,Giza,Dokki,Website,3
+295,Road surface damaged at Malleshwaram,roads,BBMP Roads,High,Pending,Road Damage,0.13150463,06-2024-19,,,Cairo,Maadi,Mobile App,3
+296,Road surface damaged at Jayanagar,roads,BBMP Roads,High,Pending,Pothole,0.492210648,05-2024-15,,,Cairo,Maadi,Call Center,3
+297,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.504814815,04-2024-01,4/8/2024,2,Giza,Mohandessin,Mobile App,5
+298,Road surface damaged at MG Road,roads,BBMP Roads,High,Pending,Pothole,0.377604167,06-2025-29,,,Cairo,Maadi,Mobile App,3
+299,Pothole near bus stop at Whitefield,roads,BBMP Roads,Medium,In Progress,Pothole,0.381944444,04-2025-04,,,Cairo,Nasr City,Mobile App,5
+300,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,Closed,Road Damage,0.107893519,05-2025-19,5/21/2025,5,Cairo,Heliopolis,Mobile App,3
+301,Pothole near bus stop at Whitefield,roads,BBMP Roads,Medium,In Progress,Pothole,0.169837963,08-2024-12,,,Giza,Haram,Call Center,5
+302,Road surface damaged at Malleshwaram,roads,BBMP Roads,High,In Progress,Pothole,0.974560185,10-2025-23,,,Giza,Mohandessin,Website,3
+303,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.442476852,06-2023-08,,,Cairo,Maadi,Mobile App,5
+304,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.675405093,03-2024-01,,,Giza,Haram,Mobile App,3
+305,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.174178241,02-2024-29,3/7/2024,2,Cairo,Heliopolis,Call Center,3
+306,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.495648148,12-2024-01,12/9/2024,2,Giza,Mohandessin,Call Center,5
+307,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.238680556,09-2025-18,9/22/2025,4,Cairo,Nasr City,Website,3
+308,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Pending,Pothole,0.629097222,11-2024-12,,,Giza,Haram,Website,3
+309,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.349803241,09-2024-16,,,Giza,Dokki,Website,5
+310,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,In Progress,Pothole,0.863148148,02-2025-12,,,Giza,Haram,Mobile App,3
+311,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,In Progress,Pothole,0.447847222,09-2024-04,,,Giza,Haram,Call Center,3
+312,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.437256944,10-2023-23,10/29/2023,3,Cairo,Nasr City,Mobile App,5
+313,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Pending,Pothole,0.14244213,06-2024-26,,,Giza,Dokki,Mobile App,3
+314,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.521331019,10-2025-02,10/4/2025,5,Giza,Mohandessin,Call Center,3
+315,Multiple cracks on road at Jayanagar,roads,BBMP Roads,High,Pending,Road Damage,0.214236111,11-2025-17,,,Cairo,Nasr City,Call Center,3
+316,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.170231481,08-2023-10,8/17/2023,2,Giza,Mohandessin,Website,5
+317,Road surface damaged at Indiranagar,roads,BBMP Roads,High,Closed,Road Damage,0.098854167,10-2024-19,10/23/2024,4,Cairo,Maadi,Mobile App,3
+318,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.991168981,09-2023-30,10/2/2023,5,Cairo,Nasr City,Call Center,3
+319,Road surface damaged at Malleshwaram,roads,BBMP Roads,High,Closed,Pothole,0.19693287,09-2025-16,9/22/2025,3,Cairo,Nasr City,Call Center,3
+320,Road surface damaged at MG Road,roads,BBMP Roads,High,Closed,Pothole,0.937523148,01-2025-23,1/31/2025,2,Cairo,Maadi,Mobile App,3
+321,Road surface damaged at Indiranagar,roads,BBMP Roads,High,In Progress,Road Damage,0.006840278,07-2023-25,,,Cairo,Heliopolis,Call Center,3
+322,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,Closed,Road Damage,0.770763889,05-2024-19,5/22/2024,4,Giza,Mohandessin,Website,3
+323,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Closed,Pothole,0.886342593,01-2024-05,1/12/2024,2,Cairo,Heliopolis,Mobile App,3
+324,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.219074074,09-2024-14,9/17/2024,4,Giza,Haram,Call Center,3
+325,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.235405093,02-2024-10,2/15/2024,3,Cairo,Maadi,Mobile App,5
+326,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Pending,Pothole,0.993136574,03-2024-15,,,Cairo,Maadi,Mobile App,5
+327,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Closed,Road Damage,0.085023148,05-2023-28,6/1/2023,4,Cairo,Maadi,Call Center,5
+328,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Pending,Pothole,0.608506944,08-2025-29,,,Giza,Mohandessin,Mobile App,5
+329,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.37599537,09-2025-25,10/4/2025,1,Cairo,Heliopolis,Mobile App,3
+330,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.790486111,04-2024-02,4/9/2024,2,Giza,Mohandessin,Call Center,3
+331,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.706365741,10-2023-20,,,Cairo,Nasr City,Mobile App,5
+332,Road surface damaged at Whitefield,roads,BBMP Roads,High,In Progress,Road Damage,0.125775463,11-2024-30,,,Cairo,Maadi,Mobile App,3
+333,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,In Progress,Road Damage,0.437824074,02-2025-22,,,Giza,Dokki,Mobile App,3
+334,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.045289352,10-2025-13,10/21/2025,2,Cairo,Maadi,Website,3
+335,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.311863426,08-2025-09,,,Cairo,Heliopolis,Call Center,5
+336,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Pothole,0.844803241,05-2025-29,6/5/2025,2,Cairo,Nasr City,Call Center,5
+337,Pothole near bus stop at Yelahanka,roads,BBMP Roads,Medium,In Progress,Road Damage,0.303391204,10-2024-05,,,Giza,Mohandessin,Mobile App,5
+338,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.866006944,12-2023-03,12/12/2023,1,Cairo,Heliopolis,Mobile App,3
+339,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Pending,Road Damage,0.266608796,12-2023-10,,,Cairo,Nasr City,Call Center,5
+340,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.42068287,07-2023-12,7/14/2023,5,Giza,Haram,Mobile App,3
+341,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.126550926,08-2023-03,8/5/2023,5,Cairo,Maadi,Call Center,5
+342,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Closed,Pothole,0.937118056,04-2025-06,4/11/2025,3,Cairo,Nasr City,Mobile App,3
+343,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,In Progress,Road Damage,0.432268519,02-2023-02,,,Cairo,Nasr City,Call Center,5
+344,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Pending,Pothole,0.798206019,03-2024-11,,,Giza,Haram,Call Center,5
+345,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Pending,Road Damage,0.995138889,03-2023-07,,,Cairo,Heliopolis,Website,3
+346,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.891446759,02-2023-24,3/3/2023,2,Giza,Haram,Website,5
+347,Road surface damaged at Yelahanka,roads,BBMP Roads,High,In Progress,Road Damage,0.169479167,05-2024-20,,,Giza,Dokki,Website,3
+348,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Closed,Pothole,0.326423611,12-2025-25,12/30/2025,3,Giza,Dokki,Mobile App,5
+349,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,Pending,Pothole,0.356550926,10-2024-12,,,Giza,Dokki,Call Center,5
+350,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.454664352,02-2025-22,2/24/2025,5,Giza,Dokki,Website,5
+351,Multiple cracks on road at BTM Layout,roads,BBMP Roads,High,In Progress,Pothole,0.516423611,01-2025-21,,,Giza,Dokki,Website,3
+352,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,Medium,In Progress,Pothole,0.033310185,04-2025-25,,,Giza,Haram,Call Center,5
+353,Road surface damaged at Koramangala,roads,BBMP Roads,High,In Progress,Pothole,0.592835648,09-2023-11,,,Giza,Dokki,Call Center,3
+354,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,Closed,Pothole,0.979618056,07-2024-10,7/16/2024,3,Giza,Mohandessin,Website,3
+355,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Pothole,0.85494213,11-2025-24,11/25/2025,5,Cairo,Maadi,Mobile App,3
+356,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,Pending,Road Damage,0.384259259,02-2023-12,,,Giza,Haram,Mobile App,5
+357,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.942800926,05-2025-30,5/31/2025,5,Cairo,Heliopolis,Call Center,5
+358,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Closed,Road Damage,0.896782407,03-2023-08,3/17/2023,1,Giza,Dokki,Website,3
+359,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Pending,Road Damage,0.544571759,10-2025-30,,,Cairo,Maadi,Call Center,5
+360,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,Medium,In Progress,Pothole,0.410428241,12-2023-15,,,Cairo,Maadi,Mobile App,5
+361,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,In Progress,Road Damage,0.040520833,06-2023-11,,,Giza,Mohandessin,Call Center,5
+362,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,In Progress,Road Damage,0.37880787,11-2024-02,,,Cairo,Nasr City,Call Center,5
+363,Road surface damaged at Indiranagar,roads,BBMP Roads,Medium,Pending,Road Damage,0.275428241,07-2025-17,,,Giza,Haram,Website,5
+364,Road surface damaged at Jayanagar,roads,BBMP Roads,High,In Progress,Road Damage,0.493425926,11-2024-15,,,Giza,Dokki,Mobile App,3
+365,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.135115741,12-2025-11,12/13/2025,5,Giza,Mohandessin,Website,3
+366,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.7996875,01-2025-23,1/27/2025,4,Giza,Haram,Mobile App,5
+367,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Closed,Pothole,0.326006944,03-2024-27,3/30/2024,4,Cairo,Maadi,Website,3
+368,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.75818287,02-2025-19,,,Giza,Haram,Mobile App,3
+369,Road surface damaged at MG Road,roads,BBMP Roads,High,Pending,Pothole,0.826724537,07-2024-05,,,Giza,Mohandessin,Mobile App,3
+370,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.734050926,12-2025-20,12/27/2025,2,Cairo,Maadi,Mobile App,3
+371,Pothole near bus stop at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.715231481,06-2025-02,6/10/2025,2,Giza,Haram,Mobile App,5
+372,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.641261574,01-2025-27,1/28/2025,5,Giza,Dokki,Call Center,5
+373,Road surface damaged at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.930277778,12-2024-09,12/12/2024,4,Giza,Haram,Call Center,5
+374,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.259641204,12-2025-13,12/17/2025,4,Giza,Mohandessin,Call Center,5
+375,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.929259259,06-2025-30,7/6/2025,3,Giza,Dokki,Mobile App,3
+376,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.171099537,05-2025-24,,,Cairo,Heliopolis,Mobile App,3
+377,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Pending,Road Damage,0.376770833,07-2025-26,,,Cairo,Nasr City,Website,3
+378,Pothole near bus stop at Koramangala,roads,BBMP Roads,Medium,Closed,Pothole,0.228333333,12-2025-23,12/27/2025,4,Cairo,Maadi,Call Center,5
+379,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.735972222,12-2023-23,1/1/2024,1,Giza,Mohandessin,Mobile App,5
+380,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.738125,12-2024-18,12/20/2024,5,Cairo,Nasr City,Mobile App,5
+381,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.144710648,12-2024-19,12/21/2024,5,Cairo,Heliopolis,Mobile App,5
+382,Road surface damaged at Indiranagar,roads,BBMP Roads,Medium,In Progress,Pothole,0.149768519,09-2025-22,,,Giza,Mohandessin,Call Center,5
+383,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.249143519,01-2025-10,1/18/2025,2,Giza,Haram,Call Center,5
+384,Road surface damaged at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.337488426,05-2024-16,5/18/2024,5,Cairo,Maadi,Call Center,3
+385,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Closed,Road Damage,0.146793981,03-2023-12,3/13/2023,5,Cairo,Heliopolis,Website,5
+386,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Pending,Pothole,0.141909722,07-2025-25,,,Giza,Dokki,Mobile App,3
+387,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Closed,Road Damage,0.996956019,01-2024-22,1/24/2024,5,Giza,Dokki,Mobile App,3
+388,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,Medium,In Progress,Pothole,0.119664352,10-2025-19,,,Giza,Dokki,Mobile App,5
+389,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Closed,Road Damage,0.563368056,10-2023-25,10/28/2023,4,Giza,Dokki,Call Center,5
+390,Pothole near bus stop at Koramangala,roads,BBMP Roads,High,Pending,Road Damage,0.629189815,03-2023-25,,,Giza,Mohandessin,Mobile App,3
+391,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.120011574,02-2024-08,2/14/2024,3,Giza,Haram,Mobile App,5
+392,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.845219907,03-2024-11,3/15/2024,4,Cairo,Heliopolis,Mobile App,3
+393,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.738530093,11-2024-27,11/28/2024,5,Cairo,Nasr City,Mobile App,3
+394,Multiple cracks on road at Yelahanka,roads,BBMP Roads,Medium,Closed,Pothole,0.398900463,10-2024-24,10/30/2024,3,Giza,Dokki,Website,5
+395,Road surface damaged at BTM Layout,roads,BBMP Roads,Medium,Closed,Road Damage,0.761875,11-2024-12,11/18/2024,3,Giza,Dokki,Website,5
+396,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.571828704,02-2025-21,2/26/2025,3,Cairo,Maadi,Mobile App,5
+397,Road surface damaged at Jayanagar,roads,BBMP Roads,High,In Progress,Pothole,0.391909722,03-2024-05,,,Cairo,Nasr City,Call Center,3
+398,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,In Progress,Pothole,0.999780093,01-2025-12,,,Cairo,Heliopolis,Call Center,5
+399,Road surface damaged at Indiranagar,roads,BBMP Roads,High,Closed,Pothole,0.249722222,04-2023-22,4/25/2023,4,Giza,Mohandessin,Call Center,3
+400,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Closed,Pothole,0.405486111,01-2023-28,2/3/2023,3,Giza,Dokki,Call Center,5
+401,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.24994213,03-2025-07,3/9/2025,5,Cairo,Maadi,Website,5
+402,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.65005787,05-2025-24,5/31/2025,2,Giza,Mohandessin,Mobile App,5
+403,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.36375,05-2025-01,5/3/2025,5,Cairo,Heliopolis,Mobile App,5
+404,Multiple cracks on road at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.300659722,09-2025-20,9/29/2025,1,Cairo,Nasr City,Call Center,3
+405,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Closed,Road Damage,0.577476852,11-2025-22,11/24/2025,5,Cairo,Nasr City,Mobile App,5
+406,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.145486111,12-2025-13,12/21/2025,2,Giza,Dokki,Mobile App,5
+407,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.622916667,05-2024-04,5/5/2024,5,Giza,Haram,Mobile App,5
+408,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.255972222,04-2024-09,4/11/2024,5,Giza,Mohandessin,Call Center,5
+409,Road surface damaged at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.923298611,11-2023-10,11/12/2023,5,Cairo,Nasr City,Call Center,3
+410,Road surface damaged at Malleshwaram,roads,BBMP Roads,High,In Progress,Road Damage,0.573576389,12-2025-16,,,Giza,Mohandessin,Website,3
+411,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.77087963,12-2023-24,1/2/2024,1,Giza,Haram,Website,5
+412,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.272847222,11-2024-16,,,Giza,Mohandessin,Mobile App,3
+413,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.823888889,04-2025-18,4/26/2025,2,Giza,Dokki,Mobile App,3
+414,Road surface damaged at Malleshwaram,roads,BBMP Roads,Medium,Closed,Road Damage,0.970347222,05-2023-24,5/27/2023,4,Cairo,Heliopolis,Mobile App,5
+415,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Closed,Road Damage,0.621782407,02-2025-20,2/22/2025,5,Giza,Mohandessin,Call Center,5
+416,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.354189815,06-2023-30,7/3/2023,4,Giza,Mohandessin,Mobile App,5
+417,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.324618056,08-2023-19,8/25/2023,3,Cairo,Maadi,Mobile App,5
+418,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.575081019,01-2023-10,1/15/2023,3,Giza,Mohandessin,Call Center,5
+419,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.300034722,07-2024-29,8/1/2024,4,Cairo,Heliopolis,Website,5
+420,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.822418981,09-2024-28,10/1/2024,4,Giza,Mohandessin,Call Center,3
+421,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.768726852,12-2023-13,12/19/2023,3,Cairo,Nasr City,Call Center,3
+422,Pothole near bus stop at Koramangala,roads,BBMP Roads,Medium,Pending,Pothole,0.048530093,07-2023-01,,,Giza,Mohandessin,Mobile App,5
+423,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Pending,Pothole,0.414074074,10-2023-15,,,Giza,Haram,Mobile App,5
+424,Multiple cracks on road at Yelahanka,roads,BBMP Roads,Medium,Pending,Road Damage,0.710833333,11-2024-05,,,Cairo,Heliopolis,Call Center,5
+425,Pothole near bus stop at Indiranagar,roads,BBMP Roads,High,Pending,Pothole,0.911053241,03-2025-28,,,Giza,Mohandessin,Mobile App,3
+426,Multiple cracks on road at Indiranagar,roads,BBMP Roads,Medium,Closed,Pothole,0.342048611,08-2023-01,8/2/2023,5,Giza,Mohandessin,Call Center,5
+427,Pothole near bus stop at Jayanagar,roads,BBMP Roads,High,Closed,Pothole,0.301400463,03-2023-20,3/23/2023,4,Cairo,Nasr City,Website,3
+428,Multiple cracks on road at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.363020833,11-2025-05,11/9/2025,4,Cairo,Nasr City,Call Center,3
+429,Road surface damaged at Whitefield,roads,BBMP Roads,High,Pending,Road Damage,0.582002315,10-2025-18,,,Giza,Dokki,Mobile App,3
+430,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.257164352,06-2024-14,,,Cairo,Heliopolis,Mobile App,5
+431,Pothole near bus stop at BTM Layout,roads,BBMP Roads,High,In Progress,Road Damage,0.500578704,12-2024-01,,,Cairo,Nasr City,Website,3
+432,Multiple cracks on road at MG Road,roads,BBMP Roads,High,Pending,Pothole,0.789479167,01-2023-04,,,Giza,Dokki,Call Center,3
+433,Multiple cracks on road at Whitefield,roads,BBMP Roads,High,Pending,Road Damage,0.50650463,01-2023-30,,,Cairo,Maadi,Call Center,3
+434,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Pending,Road Damage,0.027430556,11-2025-06,,,Giza,Dokki,Call Center,3
+435,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Closed,Road Damage,0.91724537,01-2025-20,1/22/2025,5,Giza,Mohandessin,Call Center,5
+436,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.471435185,08-2025-06,8/10/2025,4,Giza,Dokki,Mobile App,5
+437,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.954768519,01-2025-12,1/16/2025,4,Cairo,Nasr City,Call Center,3
+438,Pothole near bus stop at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.301689815,09-2023-19,9/21/2023,5,Giza,Dokki,Mobile App,3
+439,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Pending,Road Damage,0.512835648,05-2025-10,,,Cairo,Nasr City,Website,5
+440,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.853321759,06-2025-30,,,Giza,Haram,Website,3
+441,Multiple cracks on road at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.638159722,03-2024-04,3/7/2024,4,Giza,Mohandessin,Call Center,3
+442,Multiple cracks on road at Koramangala,roads,BBMP Roads,Medium,Pending,Road Damage,0.371469907,06-2023-10,,,Cairo,Maadi,Website,5
+443,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.06119213,12-2024-16,12/17/2024,5,Giza,Dokki,Mobile App,5
+444,Multiple cracks on road at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.154224537,12-2023-09,12/18/2023,1,Cairo,Maadi,Website,5
+445,Road surface damaged at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.178148148,10-2024-18,10/27/2024,1,Giza,Mohandessin,Call Center,3
+446,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Road Damage,0.714918981,05-2024-06,5/15/2024,1,Giza,Mohandessin,Mobile App,3
+447,Road surface damaged at MG Road,roads,BBMP Roads,Medium,In Progress,Road Damage,0.595127315,11-2025-24,,,Giza,Haram,Mobile App,5
+448,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,In Progress,Road Damage,0.293333333,06-2024-24,,,Cairo,Heliopolis,Call Center,5
+449,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.283530093,01-2025-21,1/26/2025,3,Cairo,Nasr City,Mobile App,5
+450,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,In Progress,Pothole,0.815902778,05-2025-11,,,Cairo,Nasr City,Mobile App,3
+451,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,In Progress,Road Damage,0.354918981,08-2025-21,,,Cairo,Heliopolis,Call Center,5
+452,Large pothole near Indiranagar causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.104444444,12-2024-25,12/26/2024,5,Giza,Haram,Call Center,3
+453,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.788009259,01-2025-12,1/18/2025,3,Giza,Dokki,Call Center,5
+454,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.050347222,06-2025-07,6/8/2025,5,Cairo,Heliopolis,Mobile App,3
+455,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.177337963,02-2025-03,2/9/2025,3,Cairo,Maadi,Mobile App,3
+456,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,In Progress,Pothole,0.293680556,08-2024-27,,,Giza,Mohandessin,Call Center,5
+457,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.873368056,03-2023-10,,,Giza,Haram,Mobile App,3
+458,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.199664352,11-2025-10,11/11/2025,5,Cairo,Heliopolis,Website,5
+459,Multiple cracks on road at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.85431713,03-2025-06,3/7/2025,5,Cairo,Heliopolis,Website,5
+460,Large pothole near Yelahanka causing traffic issues,roads,BBMP Roads,Medium,Closed,Road Damage,0.384965278,01-2024-06,1/8/2024,5,Cairo,Maadi,Call Center,5
+461,Pothole near bus stop at MG Road,roads,BBMP Roads,High,Closed,Road Damage,0.776030093,06-2023-14,6/17/2023,4,Giza,Dokki,Mobile App,3
+462,Multiple cracks on road at Indiranagar,roads,BBMP Roads,High,In Progress,Road Damage,0.742025463,08-2023-11,,,Cairo,Heliopolis,Call Center,3
+463,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,In Progress,Pothole,0.869247685,01-2024-29,,,Giza,Dokki,Call Center,3
+464,Large pothole near Koramangala causing traffic issues,roads,BBMP Roads,Medium,Closed,Pothole,0.313298611,03-2024-20,3/24/2024,4,Cairo,Heliopolis,Mobile App,5
+465,Pothole near bus stop at Jayanagar,roads,BBMP Roads,High,In Progress,Road Damage,0.988553241,07-2024-30,,,Cairo,Heliopolis,Website,3
+466,Road surface damaged at MG Road,roads,BBMP Roads,Medium,Pending,Pothole,0.615983796,09-2025-22,,,Cairo,Maadi,Mobile App,5
+467,Road surface damaged at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.383460648,05-2024-01,5/5/2024,4,Cairo,Maadi,Call Center,3
+468,Large pothole near MG Road causing traffic issues,roads,BBMP Roads,High,Pending,Road Damage,0.328900463,06-2025-11,,,Cairo,Nasr City,Website,3
+469,Multiple cracks on road at Yelahanka,roads,BBMP Roads,Medium,Pending,Road Damage,0.002789352,01-2024-29,,,Giza,Mohandessin,Mobile App,5
+470,Pothole near bus stop at Yelahanka,roads,BBMP Roads,High,Closed,Road Damage,0.105914352,11-2023-05,11/14/2023,1,Giza,Mohandessin,Mobile App,3
+471,Multiple cracks on road at Koramangala,roads,BBMP Roads,High,Closed,Road Damage,0.883206019,09-2023-23,9/27/2023,4,Cairo,Maadi,Website,3
+472,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,In Progress,Pothole,0.606608796,06-2023-26,,,Cairo,Heliopolis,Website,3
+473,Road surface damaged at Jayanagar,roads,BBMP Roads,Medium,In Progress,Road Damage,0.100636574,08-2024-02,,,Cairo,Heliopolis,Mobile App,5
+474,Pothole near bus stop at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.345162037,06-2025-02,6/11/2025,1,Giza,Mohandessin,Mobile App,5
+475,Pothole near bus stop at BTM Layout,roads,BBMP Roads,High,In Progress,Road Damage,0.373333333,11-2024-16,,,Cairo,Heliopolis,Call Center,3
+476,Multiple cracks on road at BTM Layout,roads,BBMP Roads,Medium,Closed,Pothole,0.831458333,12-2025-17,12/24/2025,2,Giza,Dokki,Website,5
+477,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Pending,Road Damage,0.748113426,02-2025-05,,,Giza,Haram,Mobile App,5
+478,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.154791667,09-2023-23,9/25/2023,5,Giza,Mohandessin,Call Center,5
+479,Large pothole near BTM Layout causing traffic issues,roads,BBMP Roads,High,Closed,Road Damage,0.403321759,07-2023-25,8/3/2023,1,Giza,Mohandessin,Call Center,3
+480,Large pothole near Whitefield causing traffic issues,roads,BBMP Roads,High,Closed,Pothole,0.4071875,08-2025-30,9/4/2025,3,Giza,Dokki,Mobile App,3
+481,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Pothole,0.159421296,05-2023-03,5/4/2023,5,Cairo,Heliopolis,Mobile App,5
+482,Multiple cracks on road at Jayanagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.988738426,01-2023-16,1/20/2023,4,Cairo,Nasr City,Call Center,5
+483,Road surface damaged at Whitefield,roads,BBMP Roads,High,In Progress,Pothole,0.143321759,12-2023-23,,,Cairo,Heliopolis,Call Center,3
+484,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,High,Pending,Pothole,0.8965625,12-2024-28,,,Giza,Haram,Mobile App,3
+485,Pothole near bus stop at Indiranagar,roads,BBMP Roads,Medium,Closed,Road Damage,0.480162037,07-2024-04,7/9/2024,3,Giza,Dokki,Mobile App,5
+486,Large pothole near Jayanagar causing traffic issues,roads,BBMP Roads,High,In Progress,Road Damage,0.684826389,05-2024-07,,,Giza,Mohandessin,Website,3
+487,Road surface damaged at Whitefield,roads,BBMP Roads,Medium,Closed,Pothole,0.439085648,05-2024-31,6/9/2024,1,Cairo,Heliopolis,Website,5
+488,Pothole near bus stop at MG Road,roads,BBMP Roads,Medium,Closed,Pothole,0.904780093,04-2025-23,4/30/2025,2,Giza,Mohandessin,Website,5
+489,Pothole near bus stop at Whitefield,roads,BBMP Roads,High,Pending,Road Damage,0.160324074,05-2025-19,,,Cairo,Nasr City,Mobile App,3
+490,Road surface damaged at BTM Layout,roads,BBMP Roads,High,Closed,Pothole,0.207835648,02-2023-27,3/3/2023,4,Cairo,Maadi,Call Center,3
+491,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,Closed,Road Damage,0.16462963,01-2023-20,1/27/2023,2,Cairo,Heliopolis,Mobile App,3
+492,Large pothole near Malleshwaram causing traffic issues,roads,BBMP Roads,Medium,Pending,Road Damage,0.353009259,01-2023-28,,,Giza,Haram,Mobile App,5
+493,Multiple cracks on road at Malleshwaram,roads,BBMP Roads,High,In Progress,Pothole,0.217569444,08-2023-26,,,Giza,Haram,Mobile App,3

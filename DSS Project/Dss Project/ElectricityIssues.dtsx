@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="ElectricityIssues"
   DTS:PackageType="5"
-  DTS:VersionBuild="59"
-  DTS:VersionGUID="{EDF4F3BF-C29F-4357-BFE0-07BEB480944A}">
+  DTS:VersionBuild="64"
+  DTS:VersionGUID="{C7FE6944-138F-40C7-8B2E-1188AC07F4D6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -475,6 +475,11 @@ where [refTable].[FullDate] = ?</property>
                       cachedLength="255"
                       cachedName="submission_channel"
                       lineageId="Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Output].Columns[submission_channel]" />
+                    <inputColumn
+                      refId="Package\ElectricityIssues\Data Conversion.Inputs[Data Conversion Input].Columns[max_resolution_days]"
+                      cachedDataType="r8"
+                      cachedName="max_resolution_days"
+                      lineageId="Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Output].Columns[max_resolution_days]" />
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
@@ -585,6 +590,26 @@ where [refTable].[FullDate] = ?</property>
                           dataType="System.Int32"
                           description="Specifies the input column used as the source of data for the conversion."
                           name="SourceInputColumnLineageID">#{Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Output].Columns[submission_channel]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\ElectricityIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\ElectricityIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]"
+                      name="Copy of max_resolution_days"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Output].Columns[max_resolution_days]}</property>
                         <property
                           dataType="System.Boolean"
                           description="Indicates whether the column uses the faster, locale-neutral parsing routines."
@@ -792,7 +817,7 @@ where [refTable].[Department] = ?</property>
                 <property
                   dataType="System.String"
                   description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">Table1_7$</property>
+                  name="OpenRowset">Table1_9$ExternalData_10</property>
                 <property
                   dataType="System.String"
                   description="Specifies the variable that contains the name of the database object used to open a rowset."
@@ -965,6 +990,15 @@ where [refTable].[Department] = ?</property>
                       lineageId="Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Output].Columns[submission_channel]"
                       name="submission_channel"
                       truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Output].Columns[max_resolution_days]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Output].ExternalColumns[max_resolution_days]"
+                      lineageId="Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Output].Columns[max_resolution_days]"
+                      name="max_resolution_days"
+                      truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -1034,6 +1068,10 @@ where [refTable].[Department] = ?</property>
                       dataType="wstr"
                       length="255"
                       name="submission_channel" />
+                    <externalMetadataColumn
+                      refId="Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Output].ExternalColumns[max_resolution_days]"
+                      dataType="r8"
+                      name="max_resolution_days" />
                   </externalMetadataColumns>
                 </output>
                 <output
@@ -1121,6 +1159,11 @@ where [refTable].[Department] = ?</property>
                       length="255"
                       lineageId="Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Error Output].Columns[submission_channel]"
                       name="submission_channel" />
+                    <outputColumn
+                      refId="Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Error Output].Columns[max_resolution_days]"
+                      dataType="r8"
+                      lineageId="Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Error Output].Columns[max_resolution_days]"
+                      name="max_resolution_days" />
                     <outputColumn
                       refId="Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Error Output].Columns[ErrorCode]"
                       dataType="i4"
@@ -1733,7 +1776,7 @@ where [refTable].[city] = ? and [refTable].[district] = ?</property>
                   expressionType="Notify"
                   name="SqlCommandParam"
                   UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[PriporityDim]) [refTable]
-where [refTable].[pripority] = ?</property>
+where [refTable].[pripority] = ? and [refTable].[max_resolution_days] = ?</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the type of connection used to access the reference dataset."
@@ -1769,7 +1812,7 @@ where [refTable].[pripority] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Output].Columns[priority]};</property>
+                  name="ParameterMap">#{Package\ElectricityIssues\ElectricityIssues.Outputs[Excel Source Output].Columns[priority]};#{Package\ElectricityIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -1803,6 +1846,22 @@ where [refTable].[pripority] = ?</property>
                           dataType="System.String"
                           description="Specifies the column in the reference table that a column joins."
                           name="JoinToReferenceColumn">pripority</property>
+                        <property
+                          dataType="System.Null"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn" />
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\ElectricityIssues\Pripority.Inputs[Lookup Input].Columns[Copy of max_resolution_days]"
+                      cachedDataType="i4"
+                      cachedName="Copy of max_resolution_days"
+                      lineageId="Package\ElectricityIssues\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table that a column joins."
+                          name="JoinToReferenceColumn">max_resolution_days</property>
                         <property
                           dataType="System.Null"
                           description="Specifies the column in the reference table from which a column is copied."
@@ -2666,14 +2725,14 @@ where [refTable].[submission_channel] = ?</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="43.9558445797946,0"
+              EndConnector="43.9558445797949,0"
               Start="0,0"
-              End="36.4558445797946,0">
+              End="36.4558445797949,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="36.4558445797946,0" />
+                    End="36.4558445797949,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -2688,21 +2747,21 @@ where [refTable].[submission_channel] = ?</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,-22.8438502108921"
+              EndConnector="0,-22.8438502108918"
               Start="0,0"
-              End="0,-15.3438502108921">
+              End="0,-15.3438502108918">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,-15.3438502108921" />
+                    End="0,-15.3438502108918" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-66.08638671875,-13.388721980446,132.1727734375,11.43359375"
+              BoundingBox="-66.08638671875,-13.3887219804459,132.1727734375,11.43359375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -2989,7 +3048,7 @@ where [refTable].[submission_channel] = ?</property>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:string">false</Value>
+          type="q2:boolean">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -3035,7 +3094,7 @@ where [refTable].[submission_channel] = ?</property>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:string">false</Value>
+          type="q2:boolean">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -3045,7 +3104,7 @@ where [refTable].[submission_channel] = ?</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:string">0</Value>
+          type="q4:int">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>

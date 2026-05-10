@@ -12,6 +12,7 @@ DeptID int primary key identity ,
 Department NVARCHAR(300)
 )
 
+
 create table submissionchannelDim
 (
 submissionchannel_ID int primary key identity,
@@ -76,6 +77,7 @@ constraint fk_CreatedDate
 constraint fk_closedDate
     foreign key (closedDateKey) references DimDate(DateKey)
 )
+
 select * from DimDate
 CREATE TABLE DimDate (
     DateKey INT PRIMARY KEY,   

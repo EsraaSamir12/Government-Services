@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="RoadIssuse"
   DTS:PackageType="5"
-  DTS:VersionBuild="42"
-  DTS:VersionGUID="{E4CDBA43-5ED4-492C-85B6-D93F2C29F9E3}">
+  DTS:VersionBuild="49"
+  DTS:VersionGUID="{A0811765-A16A-4B47-9572-25FC48799925}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -1007,6 +1007,316 @@
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Flat File Connection Manager 6]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{F239EFDA-5BE1-4108-B44C-93BEADA45017}"
+      DTS:ObjectName="Flat File Connection Manager 6">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1033"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="65001"
+          DTS:ConnectionString="D:\DSS\DataSets\4_File_Issues\RoadIssuse Dataset.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Complation_Id"
+              DTS:DTSID="{66C6AFE1-F50F-4CAB-8A11-21F15A059BDE}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="text_description"
+              DTS:DTSID="{AF086D0F-8F1C-4669-84A8-26F9B0628BDE}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="issue_type"
+              DTS:DTSID="{BE057A6D-5294-4325-ACEA-F9B31A07DEF9}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="department"
+              DTS:DTSID="{E85DADCE-6E7E-448A-92A3-F7A6BF224AFE}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="priority"
+              DTS:DTSID="{2B8DD1B2-DF22-4BCC-85E1-669722151537}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="status"
+              DTS:DTSID="{8FE2C53F-AC76-4DD2-BDD6-A6D58E9B5704}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="subcategory"
+              DTS:DTSID="{CDCAA012-37A2-4240-86B3-198058041173}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="created_time"
+              DTS:DTSID="{FFEBEFAB-C0AE-4B21-96A6-30A860F9D7C7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Created_date"
+              DTS:DTSID="{B21E3FA4-4F83-4A2E-863F-3428FD40D8AD}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="closed_date"
+              DTS:DTSID="{AB41F2D3-7260-4C67-BAAC-AF484EE7324D}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="satisfaction_score"
+              DTS:DTSID="{1C062227-C543-42D9-B61B-C66EA2DD5539}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="city"
+              DTS:DTSID="{B01BB88A-9338-493F-8CA6-68484309E790}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="district"
+              DTS:DTSID="{40313605-F886-4285-BC84-A020C7CBA312}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="submission_channel"
+              DTS:DTSID="{F7F577D1-901B-4D3C-AC0A-235C5F08A3C6}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="max_resolution_days"
+              DTS:DTSID="{59C22EA1-62A6-4F9D-A004-75C75AB4340C}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Flat File Connection Manager 7]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{359BD34B-90E4-4527-BE59-41EDD4922C9F}"
+      DTS:ObjectName="Flat File Connection Manager 7">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1033"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="65001"
+          DTS:ConnectionString="D:\DSS\DataSets\4_File_Issues\RoadIssuse Dataset.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Complation_Id"
+              DTS:DTSID="{65F9A216-2986-43DF-A421-EFE8EE2F7846}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="text_description"
+              DTS:DTSID="{9AB59A71-FED3-46AC-BFE7-157531FFE7A2}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="issue_type"
+              DTS:DTSID="{CFE4A731-8D2E-44C2-B21D-5CB42DA62A8E}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="department"
+              DTS:DTSID="{356FC26C-CF41-493F-962E-583D15168513}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="priority"
+              DTS:DTSID="{208ACEBB-14EE-4177-AF6E-8198313CB71A}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="status"
+              DTS:DTSID="{8E593E67-FA39-4DF6-9E82-BB44E7083227}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="subcategory"
+              DTS:DTSID="{AAAEB00A-4887-4D77-9DB9-46F5BEADE3DF}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="created_time"
+              DTS:DTSID="{29AD84AE-50C9-44FA-A58B-14F9CBCF9EA5}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Created_date"
+              DTS:DTSID="{367CADF4-2C3F-47CD-8B9F-D1C3A7AFE373}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="closed_date"
+              DTS:DTSID="{D905ED89-6D1F-4531-A2F9-D66608632BB4}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="satisfaction_score"
+              DTS:DTSID="{3DCCB36E-C9C3-4FD3-9E14-050B75951BB8}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="city"
+              DTS:DTSID="{A8D9A161-93D2-4487-84E2-32A2F520B85D}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="district"
+              DTS:DTSID="{7AB061E7-4652-46D2-95B0-4574E0EFF1DE}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="submission_channel"
+              DTS:DTSID="{8E10F88C-BD4E-404E-B41C-AA3E83F76FB8}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="max_resolution_days"
+              DTS:DTSID="{10EB6E8B-E50C-41F1-B06B-6DFD75651E8F}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
   <DTS:Variables />
   <DTS:Executables>
@@ -1510,7 +1820,7 @@ where [refTable].[Department] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\RoadIssuse\319:invalid};</property>
+                  name="ParameterMap">#{Package\RoadIssuse\541:invalid};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -1630,6 +1940,13 @@ where [refTable].[Department] = ?</property>
                       cachedLength="50"
                       cachedName="district"
                       lineageId="Package\RoadIssuse\RoadIssueCSV.Outputs[Flat File Source Output].Columns[district]" />
+                    <inputColumn
+                      refId="Package\RoadIssuse\DistrictedDataType.Inputs[Data Conversion Input].Columns[max_resolution_days]"
+                      cachedCodepage="65001"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="max_resolution_days"
+                      lineageId="Package\RoadIssuse\RoadIssueCSV.Outputs[Flat File Source Output].Columns[max_resolution_days]" />
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
@@ -1656,6 +1973,26 @@ where [refTable].[Department] = ?</property>
                           dataType="System.Int32"
                           description="Specifies the input column used as the source of data for the conversion."
                           name="SourceInputColumnLineageID">#{Package\RoadIssuse\RoadIssueCSV.Outputs[Flat File Source Output].Columns[district]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\RoadIssuse\DistrictedDataType.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\RoadIssuse\DistrictedDataType.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]"
+                      name="Copy of max_resolution_days"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\RoadIssuse\RoadIssueCSV.Outputs[Flat File Source Output].Columns[max_resolution_days]}</property>
                         <property
                           dataType="System.Boolean"
                           description="Indicates whether the column uses the faster, locale-neutral parsing routines."
@@ -1969,7 +2306,7 @@ where [refTable].[issue_type] = ? and [refTable].[subcategory] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\RoadIssuse\320:invalid};#{Package\RoadIssuse\321:invalid};</property>
+                  name="ParameterMap">#{Package\RoadIssuse\542:invalid};#{Package\RoadIssuse\543:invalid};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -2285,7 +2622,7 @@ where [refTable].[city] = ? and [refTable].[district] = ?</property>
                   expressionType="Notify"
                   name="SqlCommandParam"
                   UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[PriporityDim]) [refTable]
-where [refTable].[pripority] = ?</property>
+where [refTable].[pripority] = ? and [refTable].[max_resolution_days] = ?</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the type of connection used to access the reference dataset."
@@ -2321,7 +2658,7 @@ where [refTable].[pripority] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\RoadIssuse\322:invalid};</property>
+                  name="ParameterMap">#{Package\RoadIssuse\RoadIssueCSV.Outputs[Flat File Source Output].Columns[priority]};#{Package\RoadIssuse\DistrictedDataType.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -2355,6 +2692,22 @@ where [refTable].[pripority] = ?</property>
                           dataType="System.String"
                           description="Specifies the column in the reference table that a column joins."
                           name="JoinToReferenceColumn">pripority</property>
+                        <property
+                          dataType="System.Null"
+                          description="Specifies the column in the reference table from which a column is copied."
+                          name="CopyFromReferenceColumn" />
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\RoadIssuse\Pripority.Inputs[Lookup Input].Columns[Copy of max_resolution_days]"
+                      cachedDataType="i4"
+                      cachedName="Copy of max_resolution_days"
+                      lineageId="Package\RoadIssuse\DistrictedDataType.Outputs[Data Conversion Output].Columns[Copy of max_resolution_days]">
+                      <properties>
+                        <property
+                          dataType="System.String"
+                          description="Specifies the column in the reference table that a column joins."
+                          name="JoinToReferenceColumn">max_resolution_days</property>
                         <property
                           dataType="System.Null"
                           description="Specifies the column in the reference table from which a column is copied."
@@ -2445,8 +2798,8 @@ where [refTable].[pripority] = ?</property>
               <connections>
                 <connection
                   refId="Package\RoadIssuse\RoadIssueCSV.Connections[FlatFileConnection]"
-                  connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager 5]"
-                  connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager 5]"
+                  connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager 7]"
+                  connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager 7]"
                   name="FlatFileConnection" />
               </connections>
               <outputs>
@@ -2727,6 +3080,28 @@ where [refTable].[pripority] = ?</property>
                           name="UseBinaryFormat">false</property>
                       </properties>
                     </outputColumn>
+                    <outputColumn
+                      refId="Package\RoadIssuse\RoadIssueCSV.Outputs[Flat File Source Output].Columns[max_resolution_days]"
+                      codePage="65001"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\RoadIssuse\RoadIssueCSV.Outputs[Flat File Source Output].ExternalColumns[max_resolution_days]"
+                      length="50"
+                      lineageId="Package\RoadIssuse\RoadIssueCSV.Outputs[Flat File Source Output].Columns[max_resolution_days]"
+                      name="max_resolution_days"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the data is in binary format."
+                          name="UseBinaryFormat">false</property>
+                      </properties>
+                    </outputColumn>
                   </outputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -2814,6 +3189,12 @@ where [refTable].[pripority] = ?</property>
                       dataType="str"
                       length="50"
                       name="satisfaction_score" />
+                    <externalMetadataColumn
+                      refId="Package\RoadIssuse\RoadIssueCSV.Outputs[Flat File Source Output].ExternalColumns[max_resolution_days]"
+                      codePage="65001"
+                      dataType="str"
+                      length="50"
+                      name="max_resolution_days" />
                   </externalMetadataColumns>
                 </output>
                 <output
@@ -2902,7 +3283,7 @@ where [refTable].[submission_channel] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\RoadIssuse\323:invalid};</property>
+                  name="ParameterMap">#{Package\RoadIssuse\RoadIssueCSV.Outputs[Flat File Source Output].Columns[submission_channel]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -3460,73 +3841,53 @@ where [refTable].[submission_channel] = ?</property>
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="194.4,41.6"
-          Id="Package\RoadIssuse\GovernmentServicesFact"
-          TopLeft="440.433724860378,334.831380743771" />
+          Size="149.6,41.6"
+          Id="Package\RoadIssuse\Issues"
+          TopLeft="852.248300051597,225.296642702102" />
         <NodeLayout
           Size="156,42.4"
           Id="Package\RoadIssuse\Departments"
           TopLeft="843.201454021206,148.923160042624" />
         <NodeLayout
-          Size="176,41.6"
-          Id="Package\RoadIssuse\Location"
-          TopLeft="640.8253971072,230.114675971795" />
+          Size="154.4,41.6"
+          Id="Package\RoadIssuse\CreatedDateKey"
+          TopLeft="264.524118219162,233.655440759456" />
         <NodeLayout
           Size="166.4,41.6"
           Id="Package\RoadIssuse\submissionchannel"
           TopLeft="644.604514822935,148.395424706527" />
         <NodeLayout
-          Size="154.4,41.6"
-          Id="Package\RoadIssuse\CreatedDateKey"
-          TopLeft="264.524118219162,233.655440759456" />
-        <NodeLayout
-          Size="146.4,41.6"
-          Id="Package\RoadIssuse\RoadIssueCSV"
-          TopLeft="67.7331165545099,136.021390259924" />
+          Size="176,41.6"
+          Id="Package\RoadIssuse\Location"
+          TopLeft="640.8253971072,230.114675971795" />
         <NodeLayout
           Size="168,41.6"
           Id="Package\RoadIssuse\DistrictedDataType"
           TopLeft="439.285715220838,140.966577416545" />
         <NodeLayout
-          Size="149.6,41.6"
-          Id="Package\RoadIssuse\Issues"
-          TopLeft="852.248300051597,225.296642702102" />
+          Size="153.6,44"
+          Id="Package\RoadIssuse\DatesColumns"
+          TopLeft="258.303246823501,137.896791416856" />
+        <NodeLayout
+          Size="161.6,49.6"
+          Id="Package\RoadIssuse\Union All"
+          TopLeft="441.964286655111,64.0441175909216" />
         <NodeLayout
           Size="159.2,41.6"
           Id="Package\RoadIssuse\Pripority"
           TopLeft="446.567769400336,229.481559089233" />
         <NodeLayout
+          Size="194.4,41.6"
+          Id="Package\RoadIssuse\GovernmentServicesFact"
+          TopLeft="440.433724860378,334.831380743771" />
+        <NodeLayout
           Size="148.8,41.6"
           Id="Package\RoadIssuse\ClosedDateKey"
           TopLeft="74.8415781328385,234.21683198212" />
         <NodeLayout
-          Size="153.6,44"
-          Id="Package\RoadIssuse\DatesColumns"
-          TopLeft="258.303246823501,137.896791416856" />
-        <EdgeLayout
-          Id="Package\RoadIssuse.Paths[Lookup Match Output6]"
-          TopLeft="811.004514822936,169.659292374575">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="32.1969391982708,0"
-              Start="0,0"
-              End="24.6969391982708,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="24.6969391982708,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-35.8429171196146,5,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+          Size="146.4,41.6"
+          Id="Package\RoadIssuse\RoadIssueCSV"
+          TopLeft="67.7331165545099,136.021390259924" />
         <EdgeLayout
           Id="Package\RoadIssuse.Paths[Lookup Match Output5]"
           TopLeft="149.241578132838,275.81683198212">
@@ -3607,7 +3968,7 @@ where [refTable].[submission_channel] = ?</property>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-58.2632123093369,5,96.3827734375,11.609375"
+              BoundingBox="-58.263212309337,5,96.3827734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -3679,7 +4040,7 @@ where [refTable].[submission_channel] = ?</property>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,7.43205382973944,96.3827734375,11.609375"
+              BoundingBox="-48.19138671875,7.43205382973945,96.3827734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -3729,18 +4090,18 @@ where [refTable].[submission_channel] = ?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\RoadIssuse.Paths[Data Conversion Output]"
-          TopLeft="607.285715220838,165.481001061535">
+          TopLeft="607.285715220838,165.481001061536">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="37.3187996020976,0"
+              EndConnector="37.318799602097,0"
               Start="0,0"
-              End="29.8187996020976,0">
+              End="29.818799602097,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="29.8187996020976,0" />
+                    End="29.818799602097,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -3749,10 +4110,6 @@ where [refTable].[submission_channel] = ?</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="161.6,49.6"
-          Id="Package\RoadIssuse\Union All"
-          TopLeft="441.964286655111,64.0441175909216" />
         <EdgeLayout
           Id="Package\RoadIssuse.Paths[Data Conversion Error Output]"
           TopLeft="523.025000937975,140.966577416545">
@@ -3777,6 +4134,30 @@ where [refTable].[submission_channel] = ?</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\RoadIssuse.Paths[Lookup Match Output6]"
+          TopLeft="811.004514822935,169.659292374576">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="32.196939198271,0"
+              Start="0,0"
+              End="24.696939198271,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="24.696939198271,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-35.8429171196145,5,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
@@ -3787,6 +4168,29 @@ where [refTable].[submission_channel] = ?</property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
           type="q2:string">false</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\RoadIssuse\submissionchannel">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:boolean">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[submissionchannelDim]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:int">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
@@ -3810,6 +4214,16 @@ where [refTable].[submission_channel] = ?</property>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\RoadIssuse\Pripority">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:boolean">false</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
